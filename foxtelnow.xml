@@ -2065,7 +2065,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241231083900 +0000" stop="20241231091000 +0000" channel="UKT">
+  <programme start="20241231083800 +0000" stop="20241231090900 +0000" channel="UKT">
     <title lang="en">Coronation Street</title>
     <sub-title lang="en">Episode 11443</sub-title>
     <desc lang="en">Vicky is disconcerted when she sees Carla flirting with a client. Dee Dee shouts at Anthea, vowing to fight her in her custody battle for Frankie.</desc>
@@ -2389,7 +2389,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241231192900 +0000" stop="20241231200300 +0000" channel="UKT">
+  <programme start="20241231192900 +0000" stop="20241231200200 +0000" channel="UKT">
     <title lang="en">Emmerdale</title>
     <sub-title lang="en">Episode 10168</sub-title>
     <desc lang="en">Second day of the trail Jury deliberation. Will Tom go free?</desc>
@@ -2409,7 +2409,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241231200300 +0000" stop="20241231203500 +0000" channel="UKT">
+  <programme start="20241231200200 +0000" stop="20241231203400 +0000" channel="UKT">
     <title lang="en">Coronation Street</title>
     <sub-title lang="en">Episode 11443</sub-title>
     <desc lang="en">Vicky is disconcerted when she sees Carla flirting with a client. Dee Dee shouts at Anthea, vowing to fight her in her custody battle for Frankie.</desc>
@@ -2467,7 +2467,7 @@
       <value>M | L,S</value>
     </rating>
   </programme>
-  <programme start="20241231221600 +0000" stop="20241231231700 +0000" channel="UKT">
+  <programme start="20241231221500 +0000" stop="20241231231600 +0000" channel="UKT">
     <title lang="en">8 Out of 10 Cats Does Countdown</title>
     <sub-title lang="en">Episode 2</sub-title>
     <desc lang="en">Joining team captains Jonathan Ross and Alan Carr are Harriet Kemsley, Maisie Adam and Huge Davies in the Dictionary Corner.</desc>
@@ -2487,7 +2487,7 @@
       <value>M | L,S,A</value>
     </rating>
   </programme>
-  <programme start="20241231231700 +0000" stop="20241231235200 +0000" channel="UKT">
+  <programme start="20241231231600 +0000" stop="20241231235100 +0000" channel="UKT">
     <title lang="en">QI</title>
     <sub-title lang="en">Holidays</sub-title>
     <desc lang="en">The panellists on this episode are Bill Bailey, Rich Hall, Rob Brydon and Alan Davies.</desc>
@@ -2530,7 +2530,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20250101003100 +0000" stop="20250101011000 +0000" channel="UKT">
+  <programme start="20250101003000 +0000" stop="20250101010800 +0000" channel="UKT">
     <title lang="en">Would I Lie to You?</title>
     <sub-title lang="en">Episode 2</sub-title>
     <desc lang="en">Joining Rob Brydon, Lee Mack and David Mitchell for this episode's tall tales are guests Stephen Hendry, Laura Whitmore, Chris McCausland and Maisie Adam.</desc>
@@ -2570,7 +2570,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20250101014800 +0000" stop="20250101024200 +0000" channel="UKT">
+  <programme start="20250101014700 +0000" stop="20250101024100 +0000" channel="UKT">
     <title lang="en">8 Out of 10 Cats Does Countdown</title>
     <sub-title lang="en">Episode 1</sub-title>
     <desc lang="en">Bob Mortimer and Lucy Beaumont join the team with Adam Buxton in Dictionary Corner for a Christmas Countdown.</desc>
@@ -2650,7 +2650,7 @@
       <value>MA | L,S</value>
     </rating>
   </programme>
-  <programme start="20250101054000 +0000" stop="20250101061800 +0000" channel="UKT">
+  <programme start="20250101053900 +0000" stop="20250101061700 +0000" channel="UKT">
     <title lang="en">QI</title>
     <sub-title lang="en">Exploration</sub-title>
     <desc lang="en">Alan Davies, Bill Bailey, Rich Hall and Sean Lock join Stephen Fry in a quite interesting quiz concerning the topic of exploration.</desc>
@@ -2713,7 +2713,7 @@
       <value>M | L,S</value>
     </rating>
   </programme>
-  <programme start="20250101073600 +0000" stop="20250101080800 +0000" channel="UKT">
+  <programme start="20250101073500 +0000" stop="20250101080800 +0000" channel="UKT">
     <title lang="en">Emmerdale</title>
     <sub-title lang="en">Episode 10169</sub-title>
     <desc lang="en">Belle is relieved that court case is over, Will can't find a way out and Amelia finally reveals her plans.</desc>
@@ -2794,7 +2794,7 @@
       <value>M | L,S</value>
     </rating>
   </programme>
-  <programme start="20250101101900 +0000" stop="20250101111700 +0000" channel="UKT">
+  <programme start="20250101102000 +0000" stop="20250101111700 +0000" channel="UKT">
     <title lang="en">Live at the Apollo</title>
     <sub-title lang="en">Episode 3</sub-title>
     <desc lang="en">Zoe Lyons introduces comedians Ria Lina and Tom Ward to the stage.</desc>
@@ -44544,6 +44544,7 @@
     <category lang="en">Shopping</category>
     <country lang="en">Australia</country>
     <country lang="en">60mins</country>
+    <subtitles type="teletext"/>
     <rating system="ACMA">
       <value>G</value>
     </rating>
@@ -44577,6 +44578,7 @@
     <category lang="en">Live</category>
     <category lang="en">Shopping</category>
     <country lang="en">Australia</country>
+    <subtitles type="teletext"/>
     <rating system="ACMA">
       <value>G</value>
     </rating>
@@ -44604,11 +44606,13 @@
     </rating>
   </programme>
   <programme start="20250101063000 +0000" stop="20250101073000 +0000" channel="TVS">
-    <title lang="en">Magimix Culinary Innovation</title>
-    <desc lang="en">Built to last, reflecting the philosophy of quality products that stand the test of time. Magimix brings creativity to your kitchen, accomplishing demanding tasks quickly, easily, and quietly.</desc>
+    <title lang="en">Kuvings Healthy Kitchen</title>
+    <desc lang="en">Revitalise your kitchen with Kuvings Healthy Kitchen! Enjoy cold-pressed juices made effortlessly at home. Tune in to TVSN and start your journey to a healthier lifestyle now.</desc>
     <category lang="en">Live</category>
+    <category lang="en">Series</category>
     <category lang="en">Shopping</category>
     <country lang="en">Australia</country>
+    <subtitles type="teletext"/>
     <rating system="ACMA">
       <value>G</value>
     </rating>
@@ -44631,6 +44635,19 @@
     <category lang="en">Live</category>
     <category lang="en">Shopping</category>
     <country lang="en">Australia</country>
+    <subtitles type="teletext"/>
+    <rating system="ACMA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250101093000 +0000" stop="20250101103000 +0000" channel="TVS">
+    <title lang="en">Kiva Wellness NEW Sleep Pod</title>
+    <desc lang="en">Developed to enhance your sleep quality, this innovative product embraces the latest technology designed to enhance sleep quality. Improve your nighttime routine and welcome back restful nights.</desc>
+    <category lang="en">Live</category>
+    <category lang="en">Shopping</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/18/91/731891_p15024371_b_h9_aa_360.jpg"/>
+    <country lang="en">Australia</country>
+    <subtitles type="teletext"/>
     <rating system="ACMA">
       <value>G</value>
     </rating>
@@ -56360,18 +56377,89 @@
       <aspect>16:9</aspect>
     </video>
   </programme>
-  <programme start="20250102020000 +0000" stop="20250102030000 +0000" channel="FSN">
-    <title lang="en">FOX SPORTS News</title>
+  <programme start="20250102020000 +0000" stop="20250102022000 +0000" channel="FSN">
+    <title lang="en">Big Bash Mini</title>
+    <sub-title lang="en">THU v REN</sub-title>
     <desc lang="en">Fox Sports News.</desc>
     <date>2025</date>
     <category lang="en">Series</category>
-    <category lang="en">News</category>
+    <category lang="en">Sport</category>
     <episode-num system="xmltv_ns">2023..</episode-num>
     <video>
       <colour>yes</colour>
       <aspect>16:9</aspect>
     </video>
     <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250102022000 +0000" stop="20250102024000 +0000" channel="FSN">
+    <title lang="en">Big Bash Mini</title>
+    <sub-title lang="en">STR v SCO</sub-title>
+    <desc lang="en">Fox Sports News.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250102024000 +0000" stop="20250102030000 +0000" channel="FSN">
+    <title lang="en">Big Bash Mini</title>
+    <sub-title lang="en">HUR v SIX</sub-title>
+    <desc lang="en">Fox Sports News.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250102030000 +0000" stop="20250102040000 +0000" channel="FSN">
+    <title lang="en">WSBK Review Show</title>
+    <sub-title lang="en">Review</sub-title>
+    <desc lang="en">Fox Sports News.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20250102040000 +0000" stop="20250102050000 +0000" channel="FSN">
+    <title lang="en">The Back Page</title>
+    <sub-title lang="en">Special Guests</sub-title>
+    <desc lang="en">Fox Sports News.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20250102050000 +0000" stop="20250102060000 +0000" channel="FSN">
+    <title lang="en">WSBK Review Show</title>
+    <sub-title lang="en">Review</sub-title>
+    <desc lang="en">Fox Sports News.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20250102060000 +0000" stop="20250102063000 +0000" channel="FSN">
     <title lang="en">FOX SPORTS News</title>
@@ -57672,7 +57760,7 @@
   <programme start="20250101121000 +0000" stop="20250101123000 +0000" channel="FS1">
     <title lang="en">Big Bash Mini</title>
     <sub-title lang="en">HEA v STA</sub-title>
-    <desc lang="en">The Big Bash continues, catch every ball on Fox Cricket &amp; Fox Cricket Plus!</desc>
+    <desc lang="en">The Big Bash continues in Brisbane with the Heat taking on Marcus Stoinis' Melbourne Stars.</desc>
     <date>2024</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -57877,7 +57965,7 @@
   <programme start="20250101234000 +0000" stop="20250102000000 +0000" channel="FS1">
     <title lang="en">T20 Mini NZL v SL</title>
     <sub-title lang="en">Game 2</sub-title>
-    <desc lang="en">New Zealand and Sri Lanka continue this series in Mount Maunganui with the second of three T20Is.</desc>
+    <desc lang="en">Sri Lanka will feel like they missed a chance in the first game and will look to bite back against the Kiwis.</desc>
     <date>2024</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -57901,6 +57989,397 @@
       <aspect>16:9</aspect>
     </video>
     <new/>
+  </programme>
+  <programme start="20250102044500 +0000" stop="20250102051500 +0000" channel="FS1">
+    <title lang="en">Fox Cricket Specials</title>
+    <sub-title lang="en">Symo's Match Winning Knock at the SCG</sub-title>
+    <desc lang="en">Classic Mini 2008. One of the great all time test matches with Andrew Symonds taking down India with a breathtaking 164.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20250102051500 +0000" stop="20250102053500 +0000" channel="FS1">
+    <title lang="en">Big Bash Mini</title>
+    <sub-title lang="en">STR v SCO</sub-title>
+    <desc lang="en">Adelaide Oval hosts its annual New Years Eve Big Bash clash with the Strikers hosting the Perth Scorchers.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250102053500 +0000" stop="20250102055500 +0000" channel="FS1">
+    <title lang="en">Big Bash Mini</title>
+    <sub-title lang="en">HUR v SIX</sub-title>
+    <desc lang="en">Kick off the New Year with a Big Bash doubleheader on Kayo. First up, the Hurricanes host the Sixers in Hobart.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250102055500 +0000" stop="20250102061500 +0000" channel="FS1">
+    <title lang="en">Big Bash Mini</title>
+    <sub-title lang="en">HEA v STA</sub-title>
+    <desc lang="en">The Big Bash continues in Brisbane with the Heat taking on Marcus Stoinis' Melbourne Stars.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250102061500 +0000" stop="20250102064500 +0000" channel="FS1">
+    <title lang="en">Back Page Special: That's So Village</title>
+    <sub-title lang="en">Prod Year 2024</sub-title>
+    <desc lang="en">Host Tony Squires looks back at some of the funniest moments in cricket from the past 12 months.</desc>
+    <date>2024</date>
+    <category lang="en">Sport</category>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20250102064500 +0000" stop="20250102070500 +0000" channel="FS1">
+    <title lang="en">The Fox Box</title>
+    <sub-title lang="en">AUS v IND Fourth Test</sub-title>
+    <desc lang="en">An inside look at the Fox Cricket commentary team during the thrilling Boxing Day test between Australia &amp; India, from the MCG.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20250102070500 +0000" stop="20250102072500 +0000" channel="FS1">
+    <title lang="en">Big Bash Mini</title>
+    <sub-title lang="en">HEA v STA</sub-title>
+    <desc lang="en">The Big Bash continues in Brisbane with the Heat taking on Marcus Stoinis' Melbourne Stars.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250102072500 +0000" stop="20250102074500 +0000" channel="FS1">
+    <title lang="en">T20 Mini NZL v SL</title>
+    <sub-title lang="en">Game 3</sub-title>
+    <desc lang="en">New Zealand and Sri Lanka wrap up this series from Saxton Oval with their final T20I.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <new/>
+  </programme>
+  <programme start="20250102074500 +0000" stop="20250102081500 +0000" channel="FS1">
+    <title lang="en">B4 The Bash</title>
+    <sub-title lang="en">Renegades v Strikers</sub-title>
+    <desc lang="en">The coin toss, pitch report, pre-match player interviews, tactical analysis plus all the buzz from around the ground will be captured before the opening ball is played.</desc>
+    <date>2024</date>
+    <category lang="en">Live</category>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <new/>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250102081500 +0000" stop="20250102094500 +0000" channel="FS1">
+    <title lang="en">Big Bash</title>
+    <sub-title lang="en">Renegades v Strikers IN1</sub-title>
+    <desc lang="en">The Renegades and Strikers meet under the roof of Marvel Stadium in a crucial Big Bash clash.</desc>
+    <date>2024</date>
+    <category lang="en">Live</category>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <new/>
+  </programme>
+  <programme start="20250102094500 +0000" stop="20250102100000 +0000" channel="FS1">
+    <title lang="en">The Big Break</title>
+    <sub-title lang="en">REN v STR</sub-title>
+    <desc lang="en">The game may be taking a break but don't go away. The Big Break brings you exclusive interviews, team strategies, highlights and much more.</desc>
+    <date>2024</date>
+    <category lang="en">Live</category>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <new/>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250102100000 +0000" stop="20250102113000 +0000" channel="FS1">
+    <title lang="en">Big Bash</title>
+    <sub-title lang="en">Renegades v Strikers IN2</sub-title>
+    <desc lang="en">The Renegades and Strikers meet under the roof of Marvel Stadium in a crucial Big Bash clash.</desc>
+    <date>2024</date>
+    <category lang="en">Live</category>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <new/>
+  </programme>
+  <programme start="20250102120500 +0000" stop="20250102123000 +0000" channel="FS1">
+    <title lang="en">Big Bash Mini</title>
+    <sub-title lang="en">REN v STR</sub-title>
+    <desc lang="en">The Renegades and Strikers meet under the roof of Marvel Stadium in a crucial Big Bash clash.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <new/>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250102123000 +0000" stop="20250102133000 +0000" channel="FS1">
+    <title lang="en">T20</title>
+    <sub-title lang="en">Game 3</sub-title>
+    <desc lang="en">Saxton Oval in Nelson hosts the third and final T20I between New Zealand and Sri Lanka.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20250102133000 +0000" stop="20250102143000 +0000" channel="FS1">
+    <title lang="en">Test AUS v IND</title>
+    <sub-title lang="en">AUS v IND First Test</sub-title>
+    <desc lang="en">The Border-Gavaskar Trophy will be contested over a five-Test series for the first time in over 30 years. Don't miss a ball on Fox Cricket.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/78/00/93/780093_p8163404_b_h9_ab_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250102143000 +0000" stop="20250102153000 +0000" channel="FS1">
+    <title lang="en">Test AUS v IND</title>
+    <sub-title lang="en">AUS v IND Second Test</sub-title>
+    <desc lang="en">After India's dominance in the first Test, the Aussies aim to bounce back in the annual day/night match at Adelaide Oval.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/78/00/93/780093_p8163404_b_h9_ab_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250102153000 +0000" stop="20250102163000 +0000" channel="FS1">
+    <title lang="en">Test AUS v IND</title>
+    <sub-title lang="en">AUS v IND Third Test</sub-title>
+    <desc lang="en">Locked at 1-1, the series heads to the Gabba, the venue where India secured the Border-Gavaskar Trophy with a famous win four years ago.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/78/00/93/780093_p8163404_b_h9_ab_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250102163000 +0000" stop="20250102173000 +0000" channel="FS1">
+    <title lang="en">Test AUS v IND</title>
+    <sub-title lang="en">AUS v IND Fourth Test</sub-title>
+    <desc lang="en">The series is locked at 1-1 a piece heading into the fourth Test at the MCG.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/78/00/93/780093_p8163404_b_h9_ab_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250102173000 +0000" stop="20250102180000 +0000" channel="FS1">
+    <title lang="en">Fox Cricket Specials</title>
+    <sub-title lang="en">Symo's Match Winning Knock at the SCG</sub-title>
+    <desc lang="en">Classic Mini 2008. One of the great all time test matches with Andrew Symonds taking down India with a breathtaking 164.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20250102180000 +0000" stop="20250102190000 +0000" channel="FS1">
+    <title lang="en">Test AUS v IND</title>
+    <sub-title lang="en">AUS v IND First Test</sub-title>
+    <desc lang="en">The Border-Gavaskar Trophy will be contested over a five-Test series for the first time in over 30 years. Don't miss a ball on Fox Cricket.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/78/00/93/780093_p8163404_b_h9_ab_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250102190000 +0000" stop="20250102200000 +0000" channel="FS1">
+    <title lang="en">Test AUS v IND</title>
+    <sub-title lang="en">AUS v IND Second Test</sub-title>
+    <desc lang="en">After India's dominance in the first Test, the Aussies aim to bounce back in the annual day/night match at Adelaide Oval.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/78/00/93/780093_p8163404_b_h9_ab_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250102200000 +0000" stop="20250102203000 +0000" channel="FS1">
+    <title lang="en">Fox Cricket Specials</title>
+    <sub-title lang="en">Symo's Match Winning Knock at the SCG</sub-title>
+    <desc lang="en">Classic Mini 2008. One of the great all time test matches with Andrew Symonds taking down India with a breathtaking 164.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20250102203000 +0000" stop="20250102213000 +0000" channel="FS1">
+    <title lang="en">Test AUS v IND</title>
+    <sub-title lang="en">AUS v IND Fourth Test</sub-title>
+    <desc lang="en">The series is locked at 1-1 a piece heading into the fourth Test at the MCG.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/78/00/93/780093_p8163404_b_h9_ab_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250102213000 +0000" stop="20250102220000 +0000" channel="FS1">
+    <title lang="en">Test Cricket Daily</title>
+    <sub-title lang="en">Episode 21</sub-title>
+    <desc lang="en">Jim Callinan and the Fox Cricket team take you inside the ground ahead of each day of the Border-Gavaskar Trophy.</desc>
+    <date>2024</date>
+    <category lang="en">Live</category>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <new/>
+  </programme>
+  <programme start="20250102220000 +0000" stop="20250102233000 +0000" channel="FS1">
+    <title lang="en">Pre Game</title>
+    <sub-title lang="en">AUS v IND</sub-title>
+    <desc lang="en">The best team in Cricket brings you all of the best highlights, preview and analysis to set you up for the Test between Australia and India.</desc>
+    <date>2024</date>
+    <category lang="en">Live</category>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <new/>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250102233000 +0000" stop="20250103013000 +0000" channel="FS1">
+    <title lang="en">Test AUS v IND</title>
+    <sub-title lang="en">AUS v IND Fifth Test D1 S1</sub-title>
+    <desc lang="en">The dramatic Border-Gavaskar Trophy reaches its conclusion at the world famous Sydney Cricket Ground.</desc>
+    <date>2024</date>
+    <category lang="en">Live</category>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/78/00/93/780093_p8163404_b_h9_ab_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <new/>
+    <subtitles type="teletext"/>
   </programme>
   <channel id="SP2">
     <display-name lang="en">[Foxtel] FOX League / SP2</display-name>
@@ -61551,7 +62030,7 @@
   <programme start="20241231090000 +0000" stop="20241231100000 +0000" channel="FSP">
     <title lang="en">T20 NZL v SL</title>
     <sub-title lang="en">Game 2</sub-title>
-    <desc lang="en">New Zealand and Sri Lanka continue this series in Mount Maunganui with the second of three T20Is.</desc>
+    <desc lang="en">Sri Lanka will feel like they missed a chance in the first game and will look to bite back against the Kiwis.</desc>
     <date>2024</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -61903,7 +62382,7 @@
   <programme start="20250101100000 +0000" stop="20250101102000 +0000" channel="FSP">
     <title lang="en">T20 Mini NZL v SL</title>
     <sub-title lang="en">Game 2</sub-title>
-    <desc lang="en">New Zealand and Sri Lanka continue this series in Mount Maunganui with the second of three T20Is.</desc>
+    <desc lang="en">Sri Lanka will feel like they missed a chance in the first game and will look to bite back against the Kiwis.</desc>
     <date>2024</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -61916,7 +62395,7 @@
   <programme start="20250101102000 +0000" stop="20250101104000 +0000" channel="FSP">
     <title lang="en">Test Mini AUS v IND</title>
     <sub-title lang="en">4th Test Day 5</sub-title>
-    <desc lang="en">The fourth Test between Australia and India concludes from the Melbourne Cricket Ground.</desc>
+    <desc lang="en">A thrilling Test match at the MCG concludes with Australia narrowly favoured to take a 2-1 series lead.</desc>
     <date>2024</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -62017,7 +62496,7 @@
   <programme start="20250101140000 +0000" stop="20250101150000 +0000" channel="FSP">
     <title lang="en">Test Day</title>
     <sub-title lang="en">AUS v IND Fourth Test Day 3</sub-title>
-    <desc lang="en">Since losing to England in 2010, Australia's only two losses at the MCG have been against India, in their last two visits. Day three begins.</desc>
+    <desc lang="en">Australia is on top heading into the third day after late wickets from Pat Cummins and Scott Boland left India reeling.</desc>
     <date>2024</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -62117,7 +62596,7 @@
   <programme start="20250101220000 +0000" stop="20250101222000 +0000" channel="FSP">
     <title lang="en">Big Bash Mini</title>
     <sub-title lang="en">HUR v SIX</sub-title>
-    <desc lang="en">The Big Bash continues, catch every ball on Fox Cricket &amp; Fox Cricket Plus!</desc>
+    <desc lang="en">Kick off the New Year with a Big Bash doubleheader on Kayo. First up, the Hurricanes host the Sixers in Hobart.</desc>
     <date>2024</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -62299,6 +62778,330 @@
       <colour>yes</colour>
       <aspect>16:9</aspect>
     </video>
+  </programme>
+  <programme start="20250102063000 +0000" stop="20250102070000 +0000" channel="FSP">
+    <title lang="en">Fox Cricket Specials</title>
+    <sub-title lang="en">Symo's Match Winning Knock at the SCG</sub-title>
+    <desc lang="en">Classic Mini 2008. One of the great all time test matches with Andrew Symonds taking down India with a breathtaking 164.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20250102070000 +0000" stop="20250102080000 +0000" channel="FSP">
+    <title lang="en">Test AUS v IND</title>
+    <sub-title lang="en">AUS v IND Fourth Test</sub-title>
+    <desc lang="en">The series is locked at 1-1 a piece heading into the fourth Test at the MCG.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/78/00/93/780093_p8163404_b_h9_ab_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250102080000 +0000" stop="20250102083000 +0000" channel="FSP">
+    <title lang="en">Test Classic AUS v IND</title>
+    <sub-title lang="en">1991/92 3rd Test</sub-title>
+    <desc lang="en">Australia v India and the Border-Gavaskar Trophy is one of the most prestigious bilaterals in all cricket. From Gavaskar, Tendulkar and Sharma to Border, Ponting and Cummins - We open the Fox Cricket vault on classic home Test matches.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20250102083000 +0000" stop="20250102090000 +0000" channel="FSP">
+    <title lang="en">Test Classic AUS v IND</title>
+    <sub-title lang="en">1999/00 3rd Test</sub-title>
+    <desc lang="en">Australia v India and the Border-Gavaskar Trophy is one of the most prestigious bilaterals in all cricket. From Gavaskar, Tendulkar and Sharma to Border, Ponting and Cummins - We open the Fox Cricket vault on classic home Test matches.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20250102090000 +0000" stop="20250102093000 +0000" channel="FSP">
+    <title lang="en">Test Classic AUS v IND</title>
+    <sub-title lang="en">2003/04 4th Test</sub-title>
+    <desc lang="en">Australia v India and the Border-Gavaskar Trophy is one of the most prestigious bilaterals in all cricket. From Gavaskar, Tendulkar and Sharma to Border, Ponting and Cummins - We open the Fox Cricket vault on classic home Test matches.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20250102093000 +0000" stop="20250102100000 +0000" channel="FSP">
+    <title lang="en">Fox Cricket Specials</title>
+    <sub-title lang="en">Symo's Match Winning Knock at the SCG</sub-title>
+    <desc lang="en">Classic Mini 2008. One of the great all time test matches with Andrew Symonds taking down India with a breathtaking 164.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20250102100000 +0000" stop="20250102110000 +0000" channel="FSP">
+    <title lang="en">Test AUS v IND</title>
+    <sub-title lang="en">AUS v IND Fourth Test</sub-title>
+    <desc lang="en">The series is locked at 1-1 a piece heading into the fourth Test at the MCG.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/78/00/93/780093_p8163404_b_h9_ab_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250102110000 +0000" stop="20250102120000 +0000" channel="FSP">
+    <title lang="en">T20 NZL v SL</title>
+    <sub-title lang="en">Game 3</sub-title>
+    <desc lang="en">Saxton Oval in Nelson hosts the third and final T20I between New Zealand and Sri Lanka.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/64/18/776418_p8148802_b_h9_aa_360.jpg"/>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20250102120000 +0000" stop="20250102122000 +0000" channel="FSP">
+    <title lang="en">Test Mini AUS v IND</title>
+    <sub-title lang="en">4th Test Day 5</sub-title>
+    <desc lang="en">A thrilling Test match at the MCG concludes with Australia narrowly favoured to take a 2-1 series lead.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250102122000 +0000" stop="20250102124000 +0000" channel="FSP">
+    <title lang="en">T20 Mini NZL v SL</title>
+    <sub-title lang="en">Game 3</sub-title>
+    <desc lang="en">New Zealand and Sri Lanka wrap up this series from Saxton Oval with their final T20I.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20250102124000 +0000" stop="20250102130000 +0000" channel="FSP">
+    <title lang="en">Big Bash Mini</title>
+    <sub-title lang="en">REN v STR</sub-title>
+    <desc lang="en">The Renegades and Strikers meet under the roof of Marvel Stadium in a crucial Big Bash clash.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250102130000 +0000" stop="20250102160000 +0000" channel="FSP">
+    <title lang="en">Big Bash</title>
+    <sub-title lang="en">Heat v Stars</sub-title>
+    <desc lang="en">The Big Bash continues in Brisbane with the Heat taking on Marcus Stoinis' Melbourne Stars.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20250102160000 +0000" stop="20250102190000 +0000" channel="FSP">
+    <title lang="en">Big Bash</title>
+    <sub-title lang="en">Renegades v Strikers</sub-title>
+    <desc lang="en">The Renegades and Strikers meet under the roof of Marvel Stadium in a crucial Big Bash clash.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <new/>
+  </programme>
+  <programme start="20250102190000 +0000" stop="20250102193000 +0000" channel="FSP">
+    <title lang="en">Back Page Special: That's So Village</title>
+    <sub-title lang="en">Prod Year 2024</sub-title>
+    <desc lang="en">Host Tony Squires looks back at some of the funniest moments in cricket from the past 12 months.</desc>
+    <date>2024</date>
+    <category lang="en">Sport</category>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20250102193000 +0000" stop="20250102195000 +0000" channel="FSP">
+    <title lang="en">Big Bash Mini</title>
+    <sub-title lang="en">HUR v SIX</sub-title>
+    <desc lang="en">Kick off the New Year with a Big Bash doubleheader on Kayo. First up, the Hurricanes host the Sixers in Hobart.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250102195000 +0000" stop="20250102201000 +0000" channel="FSP">
+    <title lang="en">Big Bash Mini</title>
+    <sub-title lang="en">HEA v STA</sub-title>
+    <desc lang="en">The Big Bash continues in Brisbane with the Heat taking on Marcus Stoinis' Melbourne Stars.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250102201000 +0000" stop="20250102203000 +0000" channel="FSP">
+    <title lang="en">Big Bash Mini</title>
+    <sub-title lang="en">REN v STR</sub-title>
+    <desc lang="en">The Renegades and Strikers meet under the roof of Marvel Stadium in a crucial Big Bash clash.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250102203000 +0000" stop="20250102213000 +0000" channel="FSP">
+    <title lang="en">T20 NZL v SL</title>
+    <sub-title lang="en">Game 3</sub-title>
+    <desc lang="en">Saxton Oval in Nelson hosts the third and final T20I between New Zealand and Sri Lanka.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/64/18/776418_p8148802_b_h9_aa_360.jpg"/>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20250102213000 +0000" stop="20250102215000 +0000" channel="FSP">
+    <title lang="en">Big Bash Mini</title>
+    <sub-title lang="en">HUR v SIX</sub-title>
+    <desc lang="en">Kick off the New Year with a Big Bash doubleheader on Kayo. First up, the Hurricanes host the Sixers in Hobart.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250102215000 +0000" stop="20250102221000 +0000" channel="FSP">
+    <title lang="en">Big Bash Mini</title>
+    <sub-title lang="en">HEA v STA</sub-title>
+    <desc lang="en">The Big Bash continues in Brisbane with the Heat taking on Marcus Stoinis' Melbourne Stars.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250102221000 +0000" stop="20250102223000 +0000" channel="FSP">
+    <title lang="en">Big Bash Mini</title>
+    <sub-title lang="en">REN v STR</sub-title>
+    <desc lang="en">The Renegades and Strikers meet under the roof of Marvel Stadium in a crucial Big Bash clash.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250102223000 +0000" stop="20250102233000 +0000" channel="FSP">
+    <title lang="en">T20 NZL v SL</title>
+    <sub-title lang="en">Game 3</sub-title>
+    <desc lang="en">Saxton Oval in Nelson hosts the third and final T20I between New Zealand and Sri Lanka.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/64/18/776418_p8148802_b_h9_aa_360.jpg"/>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20250102233000 +0000" stop="20250103025500 +0000" channel="FSP">
+    <title lang="en">NZ Super Smash</title>
+    <sub-title lang="en">Hearts v Magicians</sub-title>
+    <desc lang="en">New Zealand's premier Twenty20 domestic competition sees men's and women's sides compete alongside each other for Super Smash glory.</desc>
+    <date>2024</date>
+    <category lang="en">Live</category>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/38/01/743801_p19311258_b_h9_aa_360.jpg"/>
+    <country lang="en">New Zealand</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <new/>
   </programme>
   <channel id="SPS">
     <display-name lang="en">[Foxtel] FOX SPORTS 506 / SPEED</display-name>
@@ -69272,7 +70075,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20241231110000 +0000" stop="20241231113000 +0000" channel="SKY">
+  <programme start="20241231110000 +0000" stop="20241231120000 +0000" channel="SKY">
     <title lang="en">What Really Happened in Wuhan</title>
     <sub-title lang="en">The Next Chapter</sub-title>
     <desc lang="en">The Next Chapter. Sharri Markson's world-exclusive investigation revealing new evidence around the origins of the Covid-19 pandemic, and the shocking cover ups.</desc>
@@ -69286,7 +70089,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20241231113000 +0000" stop="20241231120000 +0000" channel="SKY">
+  <programme start="20241231113000 +0000" stop="20250101120000 +0000" channel="SKY">
     <title lang="en">Tech Tyrants:Facebook's War on Australia</title>
     <desc lang="en">A Sky News special investigation into Facebook's war on Australian news and what it means for millions of users.</desc>
     <category lang="en">News</category>
@@ -69297,7 +70100,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20241231120000 +0000" stop="20241231130000 +0000" channel="SKY">
+  <programme start="20241231120000 +0000" stop="20250101130000 +0000" channel="SKY">
     <title lang="en">Newsnight</title>
     <desc lang="en">The latest late-night news, sport, and business, including live coverage of key news events and analysis.</desc>
     <category lang="en">Live</category>
@@ -69310,7 +70113,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20241231130000 +0000" stop="20241231140000 +0000" channel="SKY">
+  <programme start="20241231130000 +0000" stop="20250101140000 +0000" channel="SKY">
     <title lang="en">Sky News UK LIVE</title>
     <desc lang="en">Britain's award-winning news team bring you the latest news from across the world and the UK.</desc>
     <category lang="en">Live</category>
@@ -69323,7 +70126,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20241231140000 +0000" stop="20241231150000 +0000" channel="SKY">
+  <programme start="20241231140000 +0000" stop="20250101150000 +0000" channel="SKY">
     <title lang="en">Sky News UK LIVE</title>
     <desc lang="en">Britain's award-winning news team bring you the latest news from across the world and the UK.</desc>
     <category lang="en">Live</category>
@@ -69336,7 +70139,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20241231150000 +0000" stop="20241231160000 +0000" channel="SKY">
+  <programme start="20241231150000 +0000" stop="20250101160000 +0000" channel="SKY">
     <title lang="en">Sky News UK LIVE</title>
     <desc lang="en">Britain's award-winning news team bring you the latest news from across the world and the UK.</desc>
     <category lang="en">Live</category>
@@ -69349,7 +70152,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20241231160000 +0000" stop="20241231170000 +0000" channel="SKY">
+  <programme start="20241231160000 +0000" stop="20250101170000 +0000" channel="SKY">
     <title lang="en">Sky News UK LIVE</title>
     <desc lang="en">Britain's award-winning news team bring you the latest news from across the world and the UK.</desc>
     <category lang="en">Live</category>
@@ -69362,7 +70165,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20241231170000 +0000" stop="20241231180000 +0000" channel="SKY">
+  <programme start="20241231170000 +0000" stop="20250101180000 +0000" channel="SKY">
     <title lang="en">Sky News UK LIVE</title>
     <desc lang="en">Britain's award-winning news team bring you the latest news from across the world and the UK.</desc>
     <category lang="en">Live</category>
@@ -69375,7 +70178,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20241231180000 +0000" stop="20241231190000 +0000" channel="SKY">
+  <programme start="20241231180000 +0000" stop="20250101190000 +0000" channel="SKY">
     <title lang="en">Sky News UK LIVE</title>
     <desc lang="en">Britain's award-winning news team bring you the latest news from across the world and the UK.</desc>
     <category lang="en">Live</category>
@@ -69388,7 +70191,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20241231190000 +0000" stop="20241231193000 +0000" channel="SKY">
+  <programme start="20241231190000 +0000" stop="20250101193000 +0000" channel="SKY">
     <title lang="en">First Edition</title>
     <sub-title lang="en">01/01/2025-1</sub-title>
     <desc lang="en">Start your news day with Peter Stefanovic as he brings you the most up-to-date news and headlines from across Australia and the world.</desc>
@@ -69403,7 +70206,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20241231193000 +0000" stop="20241231200000 +0000" channel="SKY">
+  <programme start="20241231193000 +0000" stop="20250101200000 +0000" channel="SKY">
     <title lang="en">First Edition</title>
     <sub-title lang="en">01/01/2025-2</sub-title>
     <desc lang="en">Start your news day with Peter Stefanovic as he brings you the most up-to-date news and headlines from across Australia and the world.</desc>
@@ -69418,7 +70221,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20241231200000 +0000" stop="20241231203000 +0000" channel="SKY">
+  <programme start="20241231200000 +0000" stop="20250101203000 +0000" channel="SKY">
     <title lang="en">First Edition</title>
     <sub-title lang="en">01/01/2025-3</sub-title>
     <desc lang="en">Start your news day with Peter Stefanovic as he brings you the most up-to-date news and headlines from across Australia and the world.</desc>
@@ -69433,7 +70236,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20241231203000 +0000" stop="20241231210000 +0000" channel="SKY">
+  <programme start="20241231203000 +0000" stop="20250101210000 +0000" channel="SKY">
     <title lang="en">First Edition</title>
     <sub-title lang="en">01/01/2025-4</sub-title>
     <desc lang="en">Start your news day with Peter Stefanovic as he brings you the most up-to-date news and headlines from across Australia and the world.</desc>
@@ -69448,7 +70251,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20241231210000 +0000" stop="20241231213000 +0000" channel="SKY">
+  <programme start="20241231210000 +0000" stop="20250101213000 +0000" channel="SKY">
     <title lang="en">First Edition</title>
     <sub-title lang="en">01/01/2025-5</sub-title>
     <desc lang="en">Start your news day with Peter Stefanovic as he brings you the most up-to-date news and headlines from across Australia and the world.</desc>
@@ -69463,7 +70266,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20241231213000 +0000" stop="20241231220000 +0000" channel="SKY">
+  <programme start="20241231213000 +0000" stop="20250101220000 +0000" channel="SKY">
     <title lang="en">First Edition</title>
     <sub-title lang="en">01/01/2025-6</sub-title>
     <desc lang="en">Start your news day with Peter Stefanovic as he brings you the most up-to-date news and headlines from across Australia and the world.</desc>
@@ -69478,7 +70281,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20241231220000 +0000" stop="20241231223000 +0000" channel="SKY">
+  <programme start="20241231220000 +0000" stop="20250101223000 +0000" channel="SKY">
     <title lang="en">First Edition</title>
     <sub-title lang="en">01/01/2025-7</sub-title>
     <desc lang="en">Start your news day with Peter Stefanovic as he brings you the most up-to-date news and headlines from across Australia and the world.</desc>
@@ -69493,7 +70296,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20241231223000 +0000" stop="20241231230000 +0000" channel="SKY">
+  <programme start="20241231223000 +0000" stop="20250101230000 +0000" channel="SKY">
     <title lang="en">First Edition</title>
     <sub-title lang="en">01/01/2025-8</sub-title>
     <desc lang="en">Start your news day with Peter Stefanovic as he brings you the most up-to-date news and headlines from across Australia and the world.</desc>
@@ -69508,7 +70311,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20241231230000 +0000" stop="20241231233000 +0000" channel="SKY">
+  <programme start="20241231230000 +0000" stop="20250101233000 +0000" channel="SKY">
     <title lang="en">What Really Happened in Wuhan</title>
     <sub-title lang="en">The Next Chapter</sub-title>
     <desc lang="en">The Next Chapter. Sharri Markson's world-exclusive investigation revealing new evidence around the origins of the Covid-19 pandemic, and the shocking cover ups.</desc>
@@ -69522,7 +70325,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20241231233000 +0000" stop="20250101000000 +0000" channel="SKY">
+  <programme start="20241231233000 +0000" stop="20250102000000 +0000" channel="SKY">
     <title lang="en">Tech Tyrants:Facebook's War on Australia</title>
     <desc lang="en">A Sky News special investigation into Facebook's war on Australian news and what it means for millions of users.</desc>
     <category lang="en">News</category>
@@ -69534,7 +70337,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250101000000 +0000" stop="20250101010000 +0000" channel="SKY">
+  <programme start="20250101000000 +0000" stop="20250102010000 +0000" channel="SKY">
     <title lang="en">NewsDay</title>
     <desc lang="en">Chief News Anchor Kieran Gilbert drives the news as it happens including sharp analysis, detailed interviews and everything you need to stay across latest developments.</desc>
     <category lang="en">Live</category>
@@ -69548,7 +70351,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250101010000 +0000" stop="20250101020000 +0000" channel="SKY">
+  <programme start="20250101010000 +0000" stop="20250102020000 +0000" channel="SKY">
     <title lang="en">NewsDay</title>
     <desc lang="en">Chief News Anchor Kieran Gilbert drives the news as it happens including sharp analysis, detailed interviews and everything you need to stay across latest developments.</desc>
     <category lang="en">Live</category>
@@ -69562,7 +70365,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250101020000 +0000" stop="20250101030000 +0000" channel="SKY">
+  <programme start="20250101020000 +0000" stop="20250102030000 +0000" channel="SKY">
     <title lang="en">Shandee's Story: The Search For Justice</title>
     <desc lang="en">Hedley Thomas investigates a brutal murder, and how flawed DNA testing may allow criminals to walk free.</desc>
     <category lang="en">News</category>
@@ -69573,7 +70376,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250101030000 +0000" stop="20250101040000 +0000" channel="SKY">
+  <programme start="20250101030000 +0000" stop="20250102040000 +0000" channel="SKY">
     <title lang="en">Afternoon Agenda</title>
     <sub-title lang="en">01/01/2025-1</sub-title>
     <desc lang="en">Hosts Tom Connell and Ashleigh Gillon break down the news of the day to give you context and understanding to the stories making headlines.</desc>
@@ -69588,7 +70391,18 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250101050000 +0000" stop="20250101060000 +0000" channel="SKY">
+  <programme start="20250101040000 +0000" stop="20250102050000 +0000" channel="SKY">
+    <title lang="en">Never Again: Fight Against Antisemitism</title>
+    <desc lang="en">In a powerful new documentary, Josh Frydenberg investigates the devastating impact of antisemitism on Australia.</desc>
+    <category lang="en">News</category>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250101050000 +0000" stop="20250102060000 +0000" channel="SKY">
     <title lang="en">Afternoon Agenda</title>
     <sub-title lang="en">01/01/2025-2</sub-title>
     <desc lang="en">Hosts Tom Connell and Ashleigh Gillon break down the news of the day to give you context and understanding to the stories making headlines.</desc>
@@ -69603,9 +70417,9 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250101060000 +0000" stop="20250101070000 +0000" channel="SKY">
+  <programme start="20250101060000 +0000" stop="20250102070000 +0000" channel="SKY">
     <title lang="en">Afternoon Agenda</title>
-    <sub-title lang="en">01/01/2025-4</sub-title>
+    <sub-title lang="en">01/01/2025-3</sub-title>
     <desc lang="en">Hosts Tom Connell and Ashleigh Gillon break down the news of the day to give you context and understanding to the stories making headlines.</desc>
     <category lang="en">Live</category>
     <category lang="en">Series</category>
@@ -69618,7 +70432,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250101070000 +0000" stop="20250101080000 +0000" channel="SKY">
+  <programme start="20250101070000 +0000" stop="20250102080000 +0000" channel="SKY">
     <title lang="en">Credlin</title>
     <sub-title lang="en">01-01-2025</sub-title>
     <desc lang="en">Join Australia's brightest political commentators to hear the best analysis of the day's big stories.</desc>
@@ -69633,7 +70447,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250101080000 +0000" stop="20250101090000 +0000" channel="SKY">
+  <programme start="20250101080000 +0000" stop="20250102090000 +0000" channel="SKY">
     <title lang="en">The Bolt Report</title>
     <sub-title lang="en">01-01-2025</sub-title>
     <desc lang="en">The liveliest debate on the biggest issues facing the nation.</desc>
@@ -69649,7 +70463,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250101090000 +0000" stop="20250101100000 +0000" channel="SKY">
+  <programme start="20250101090000 +0000" stop="20250102100000 +0000" channel="SKY">
     <title lang="en">The Late Debate</title>
     <sub-title lang="en">01-01-2025</sub-title>
     <desc lang="en">Get three sides to every story &amp; your first look at tomorrow's papers.</desc>
@@ -69665,7 +70479,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250101100000 +0000" stop="20250101110000 +0000" channel="SKY">
+  <programme start="20250101100000 +0000" stop="20250102110000 +0000" channel="SKY">
     <title lang="en">Artificial Intelligence Investigated</title>
     <desc lang="en">Sky News Investigative Reporter Jonathan Lea travels the globe to reveal the staggering, and at times disturbing, impact Artificial Intelligence (A.I) could have on virtually every part of our daily lives.</desc>
     <category lang="en">Documentary</category>
@@ -69678,7 +70492,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250101110000 +0000" stop="20250101120000 +0000" channel="SKY">
+  <programme start="20250101110000 +0000" stop="20250102120000 +0000" channel="SKY">
     <title lang="en">Newsnight</title>
     <desc lang="en">The latest late-night news, sport, and business, including live coverage of key news events and analysis.</desc>
     <category lang="en">Live</category>
@@ -69692,7 +70506,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250101120000 +0000" stop="20250101130000 +0000" channel="SKY">
+  <programme start="20250101120000 +0000" stop="20250102130000 +0000" channel="SKY">
     <title lang="en">Newsnight</title>
     <desc lang="en">The latest late-night news, sport, and business, including live coverage of key news events and analysis.</desc>
     <category lang="en">Live</category>
@@ -69706,7 +70520,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250101130000 +0000" stop="20250101140000 +0000" channel="SKY">
+  <programme start="20250101130000 +0000" stop="20250102140000 +0000" channel="SKY">
     <title lang="en">Sky News UK LIVE</title>
     <desc lang="en">Britain's award-winning news team bring you the latest news from across the world and the UK.</desc>
     <category lang="en">Live</category>
@@ -69719,7 +70533,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250101140000 +0000" stop="20250101150000 +0000" channel="SKY">
+  <programme start="20250101140000 +0000" stop="20250102150000 +0000" channel="SKY">
     <title lang="en">Sky News UK LIVE</title>
     <desc lang="en">Britain's award-winning news team bring you the latest news from across the world and the UK.</desc>
     <category lang="en">Live</category>
@@ -69732,7 +70546,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250101150000 +0000" stop="20250101160000 +0000" channel="SKY">
+  <programme start="20250101150000 +0000" stop="20250102160000 +0000" channel="SKY">
     <title lang="en">Sky News UK LIVE</title>
     <desc lang="en">Britain's award-winning news team bring you the latest news from across the world and the UK.</desc>
     <category lang="en">Live</category>
@@ -69745,7 +70559,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250101160000 +0000" stop="20250101170000 +0000" channel="SKY">
+  <programme start="20250101160000 +0000" stop="20250102170000 +0000" channel="SKY">
     <title lang="en">Sky News UK LIVE</title>
     <desc lang="en">Britain's award-winning news team bring you the latest news from across the world and the UK.</desc>
     <category lang="en">Live</category>
@@ -69758,7 +70572,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250101170000 +0000" stop="20250101180000 +0000" channel="SKY">
+  <programme start="20250101170000 +0000" stop="20250102180000 +0000" channel="SKY">
     <title lang="en">Sky News UK LIVE</title>
     <desc lang="en">Britain's award-winning news team bring you the latest news from across the world and the UK.</desc>
     <category lang="en">Live</category>
@@ -69771,7 +70585,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250101180000 +0000" stop="20250101190000 +0000" channel="SKY">
+  <programme start="20250101180000 +0000" stop="20250102190000 +0000" channel="SKY">
     <title lang="en">Sky News UK LIVE</title>
     <desc lang="en">Britain's award-winning news team bring you the latest news from across the world and the UK.</desc>
     <category lang="en">Live</category>
@@ -69784,7 +70598,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250101190000 +0000" stop="20250101193000 +0000" channel="SKY">
+  <programme start="20250101190000 +0000" stop="20250102193000 +0000" channel="SKY">
     <title lang="en">First Edition</title>
     <sub-title lang="en">02/01/2025-1</sub-title>
     <desc lang="en">Start your news day with Peter Stefanovic as he brings you the most up-to-date news and headlines from across Australia and the world.</desc>
@@ -69799,7 +70613,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250101193000 +0000" stop="20250101200000 +0000" channel="SKY">
+  <programme start="20250101193000 +0000" stop="20250102200000 +0000" channel="SKY">
     <title lang="en">First Edition</title>
     <sub-title lang="en">02/01/2025-2</sub-title>
     <desc lang="en">Start your news day with Peter Stefanovic as he brings you the most up-to-date news and headlines from across Australia and the world.</desc>
@@ -69814,7 +70628,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250101200000 +0000" stop="20250101203000 +0000" channel="SKY">
+  <programme start="20250101200000 +0000" stop="20250102203000 +0000" channel="SKY">
     <title lang="en">First Edition</title>
     <sub-title lang="en">02/01/2025-3</sub-title>
     <desc lang="en">Start your news day with Peter Stefanovic as he brings you the most up-to-date news and headlines from across Australia and the world.</desc>
@@ -69829,7 +70643,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250101203000 +0000" stop="20250101210000 +0000" channel="SKY">
+  <programme start="20250101203000 +0000" stop="20250102210000 +0000" channel="SKY">
     <title lang="en">First Edition</title>
     <sub-title lang="en">02/01/2025-4</sub-title>
     <desc lang="en">Start your news day with Peter Stefanovic as he brings you the most up-to-date news and headlines from across Australia and the world.</desc>
@@ -69844,7 +70658,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250101210000 +0000" stop="20250101213000 +0000" channel="SKY">
+  <programme start="20250101210000 +0000" stop="20250102213000 +0000" channel="SKY">
     <title lang="en">First Edition</title>
     <sub-title lang="en">02/01/2025-5</sub-title>
     <desc lang="en">Start your news day with Peter Stefanovic as he brings you the most up-to-date news and headlines from across Australia and the world.</desc>
@@ -69859,7 +70673,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250101213000 +0000" stop="20250101220000 +0000" channel="SKY">
+  <programme start="20250101213000 +0000" stop="20250102220000 +0000" channel="SKY">
     <title lang="en">First Edition</title>
     <sub-title lang="en">02/01/2025-6</sub-title>
     <desc lang="en">Start your news day with Peter Stefanovic as he brings you the most up-to-date news and headlines from across Australia and the world.</desc>
@@ -69874,7 +70688,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250101220000 +0000" stop="20250101223000 +0000" channel="SKY">
+  <programme start="20250101220000 +0000" stop="20250102223000 +0000" channel="SKY">
     <title lang="en">First Edition</title>
     <sub-title lang="en">02/01/2025-7</sub-title>
     <desc lang="en">Start your news day with Peter Stefanovic as he brings you the most up-to-date news and headlines from across Australia and the world.</desc>
@@ -69889,7 +70703,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250101223000 +0000" stop="20250101230000 +0000" channel="SKY">
+  <programme start="20250101223000 +0000" stop="20250102230000 +0000" channel="SKY">
     <title lang="en">First Edition</title>
     <sub-title lang="en">02/01/2025-8</sub-title>
     <desc lang="en">Start your news day with Peter Stefanovic as he brings you the most up-to-date news and headlines from across Australia and the world.</desc>
@@ -69904,7 +70718,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250101230000 +0000" stop="20250102000000 +0000" channel="SKY">
+  <programme start="20250101230000 +0000" stop="20250103000000 +0000" channel="SKY">
     <title lang="en">NewsDay</title>
     <desc lang="en">Chief News Anchor Kieran Gilbert drives the news as it happens including sharp analysis, detailed interviews and everything you need to stay across latest developments.</desc>
     <category lang="en">Live</category>
@@ -69918,7 +70732,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250102000000 +0000" stop="20250102010000 +0000" channel="SKY">
+  <programme start="20250102000000 +0000" stop="20250103010000 +0000" channel="SKY">
     <title lang="en">NewsDay</title>
     <desc lang="en">Chief News Anchor Kieran Gilbert drives the news as it happens including sharp analysis, detailed interviews and everything you need to stay across latest developments.</desc>
     <category lang="en">Live</category>
@@ -69932,7 +70746,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250102010000 +0000" stop="20250102020000 +0000" channel="SKY">
+  <programme start="20250102010000 +0000" stop="20250103020000 +0000" channel="SKY">
     <title lang="en">NewsDay</title>
     <desc lang="en">Chief News Anchor Kieran Gilbert drives the news as it happens including sharp analysis, detailed interviews and everything you need to stay across latest developments.</desc>
     <category lang="en">Live</category>
@@ -69946,7 +70760,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250102020000 +0000" stop="20250102030000 +0000" channel="SKY">
+  <programme start="20250102020000 +0000" stop="20250103030000 +0000" channel="SKY">
     <title lang="en">NewsDay</title>
     <desc lang="en">Chief News Anchor Kieran Gilbert drives the news as it happens including sharp analysis, detailed interviews and everything you need to stay across latest developments.</desc>
     <category lang="en">Live</category>
@@ -69960,7 +70774,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250102030000 +0000" stop="20250102040000 +0000" channel="SKY">
+  <programme start="20250102030000 +0000" stop="20250103040000 +0000" channel="SKY">
     <title lang="en">Afternoon Agenda</title>
     <sub-title lang="en">02/01/2025-1</sub-title>
     <desc lang="en">Hosts Tom Connell and Ashleigh Gillon break down the news of the day to give you context and understanding to the stories making headlines.</desc>
@@ -69975,7 +70789,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250102040000 +0000" stop="20250102050000 +0000" channel="SKY">
+  <programme start="20250102040000 +0000" stop="20250103050000 +0000" channel="SKY">
     <title lang="en">Afternoon Agenda</title>
     <sub-title lang="en">02/01/2025-2</sub-title>
     <desc lang="en">Hosts Tom Connell and Ashleigh Gillon break down the news of the day to give you context and understanding to the stories making headlines.</desc>
@@ -69990,7 +70804,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250102050000 +0000" stop="20250102060000 +0000" channel="SKY">
+  <programme start="20250102050000 +0000" stop="20250103060000 +0000" channel="SKY">
     <title lang="en">Afternoon Agenda</title>
     <sub-title lang="en">02/01/2025-3</sub-title>
     <desc lang="en">Hosts Tom Connell and Ashleigh Gillon break down the news of the day to give you context and understanding to the stories making headlines.</desc>
@@ -70005,7 +70819,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250102060000 +0000" stop="20250102070000 +0000" channel="SKY">
+  <programme start="20250102060000 +0000" stop="20250103070000 +0000" channel="SKY">
     <title lang="en">Afternoon Agenda</title>
     <sub-title lang="en">02/01/2025-4</sub-title>
     <desc lang="en">Hosts Tom Connell and Ashleigh Gillon break down the news of the day to give you context and understanding to the stories making headlines.</desc>
@@ -70020,7 +70834,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250102070000 +0000" stop="20250102080000 +0000" channel="SKY">
+  <programme start="20250102070000 +0000" stop="20250103080000 +0000" channel="SKY">
     <title lang="en">Credlin</title>
     <sub-title lang="en">02-01-2025</sub-title>
     <desc lang="en">Join Australia's brightest political commentators to hear the best analysis of the day's big stories.</desc>
@@ -70035,7 +70849,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250102080000 +0000" stop="20250102090000 +0000" channel="SKY">
+  <programme start="20250102080000 +0000" stop="20250103090000 +0000" channel="SKY">
     <title lang="en">The Bolt Report</title>
     <sub-title lang="en">02-01-2025</sub-title>
     <desc lang="en">The liveliest debate on the biggest issues facing the nation.</desc>
@@ -70051,7 +70865,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250102090000 +0000" stop="20250102100000 +0000" channel="SKY">
+  <programme start="20250102090000 +0000" stop="20250103100000 +0000" channel="SKY">
     <title lang="en">The Late Debate</title>
     <sub-title lang="en">02-01-2025</sub-title>
     <desc lang="en">Get three sides to every story &amp; your first look at tomorrow's papers.</desc>
@@ -70067,7 +70881,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250102100000 +0000" stop="20250102110000 +0000" channel="SKY">
+  <programme start="20250102100000 +0000" stop="20250103110000 +0000" channel="SKY">
     <title lang="en">Your ABC Exposed</title>
     <desc lang="en">As the ABC turns 90, Chris Kenny investigates the public service broadcaster, and how it spends money.</desc>
     <category lang="en">Series</category>
@@ -70079,7 +70893,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250102110000 +0000" stop="20250102120000 +0000" channel="SKY">
+  <programme start="20250102110000 +0000" stop="20250103120000 +0000" channel="SKY">
     <title lang="en">Newsnight</title>
     <desc lang="en">The latest late-night news, sport, and business, including live coverage of key news events and analysis.</desc>
     <category lang="en">Live</category>
@@ -70093,7 +70907,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250102120000 +0000" stop="20250102130000 +0000" channel="SKY">
+  <programme start="20250102120000 +0000" stop="20250103130000 +0000" channel="SKY">
     <title lang="en">Newsnight</title>
     <desc lang="en">The latest late-night news, sport, and business, including live coverage of key news events and analysis.</desc>
     <category lang="en">Live</category>
@@ -70107,7 +70921,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250102130000 +0000" stop="20250102140000 +0000" channel="SKY">
+  <programme start="20250102130000 +0000" stop="20250103140000 +0000" channel="SKY">
     <title lang="en">Sky News UK LIVE</title>
     <desc lang="en">Britain's award-winning news team bring you the latest news from across the world and the UK.</desc>
     <category lang="en">Live</category>
@@ -70120,7 +70934,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250102140000 +0000" stop="20250102150000 +0000" channel="SKY">
+  <programme start="20250102140000 +0000" stop="20250103150000 +0000" channel="SKY">
     <title lang="en">Sky News UK LIVE</title>
     <desc lang="en">Britain's award-winning news team bring you the latest news from across the world and the UK.</desc>
     <category lang="en">Live</category>
@@ -70133,7 +70947,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250102150000 +0000" stop="20250102160000 +0000" channel="SKY">
+  <programme start="20250102150000 +0000" stop="20250103160000 +0000" channel="SKY">
     <title lang="en">Sky News UK LIVE</title>
     <desc lang="en">Britain's award-winning news team bring you the latest news from across the world and the UK.</desc>
     <category lang="en">Live</category>
@@ -70146,7 +70960,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250102160000 +0000" stop="20250102170000 +0000" channel="SKY">
+  <programme start="20250102160000 +0000" stop="20250103170000 +0000" channel="SKY">
     <title lang="en">Sky News UK LIVE</title>
     <desc lang="en">Britain's award-winning news team bring you the latest news from across the world and the UK.</desc>
     <category lang="en">Live</category>
@@ -70159,7 +70973,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250102170000 +0000" stop="20250102180000 +0000" channel="SKY">
+  <programme start="20250102170000 +0000" stop="20250103180000 +0000" channel="SKY">
     <title lang="en">Sky News UK LIVE</title>
     <desc lang="en">Britain's award-winning news team bring you the latest news from across the world and the UK.</desc>
     <category lang="en">Live</category>
@@ -70172,7 +70986,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250102180000 +0000" stop="20250102190000 +0000" channel="SKY">
+  <programme start="20250102180000 +0000" stop="20250103190000 +0000" channel="SKY">
     <title lang="en">Sky News UK LIVE</title>
     <desc lang="en">Britain's award-winning news team bring you the latest news from across the world and the UK.</desc>
     <category lang="en">Live</category>
@@ -70185,7 +70999,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250102190000 +0000" stop="20250102193000 +0000" channel="SKY">
+  <programme start="20250102190000 +0000" stop="20250103193000 +0000" channel="SKY">
     <title lang="en">First Edition</title>
     <sub-title lang="en">03/01/2025-1</sub-title>
     <desc lang="en">Start your news day with Peter Stefanovic as he brings you the most up-to-date news and headlines from across Australia and the world.</desc>
@@ -70200,7 +71014,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250102193000 +0000" stop="20250102200000 +0000" channel="SKY">
+  <programme start="20250102193000 +0000" stop="20250103200000 +0000" channel="SKY">
     <title lang="en">First Edition</title>
     <sub-title lang="en">03/01/2025-2</sub-title>
     <desc lang="en">Start your news day with Peter Stefanovic as he brings you the most up-to-date news and headlines from across Australia and the world.</desc>
@@ -70215,7 +71029,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250102200000 +0000" stop="20250102203000 +0000" channel="SKY">
+  <programme start="20250102200000 +0000" stop="20250103203000 +0000" channel="SKY">
     <title lang="en">First Edition</title>
     <sub-title lang="en">03/01/2025-3</sub-title>
     <desc lang="en">Start your news day with Peter Stefanovic as he brings you the most up-to-date news and headlines from across Australia and the world.</desc>
@@ -70230,7 +71044,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250102203000 +0000" stop="20250102210000 +0000" channel="SKY">
+  <programme start="20250102203000 +0000" stop="20250103210000 +0000" channel="SKY">
     <title lang="en">First Edition</title>
     <sub-title lang="en">03/01/2025-4</sub-title>
     <desc lang="en">Start your news day with Peter Stefanovic as he brings you the most up-to-date news and headlines from across Australia and the world.</desc>
@@ -70245,7 +71059,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250102210000 +0000" stop="20250102213000 +0000" channel="SKY">
+  <programme start="20250102210000 +0000" stop="20250103213000 +0000" channel="SKY">
     <title lang="en">First Edition</title>
     <sub-title lang="en">03/01/2025-5</sub-title>
     <desc lang="en">Start your news day with Peter Stefanovic as he brings you the most up-to-date news and headlines from across Australia and the world.</desc>
@@ -70260,7 +71074,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250102213000 +0000" stop="20250102220000 +0000" channel="SKY">
+  <programme start="20250102213000 +0000" stop="20250103220000 +0000" channel="SKY">
     <title lang="en">First Edition</title>
     <sub-title lang="en">03/01/2025-6</sub-title>
     <desc lang="en">Start your news day with Peter Stefanovic as he brings you the most up-to-date news and headlines from across Australia and the world.</desc>
@@ -70275,7 +71089,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250102220000 +0000" stop="20250102223000 +0000" channel="SKY">
+  <programme start="20250102220000 +0000" stop="20250103223000 +0000" channel="SKY">
     <title lang="en">First Edition</title>
     <sub-title lang="en">03/01/2025-7</sub-title>
     <desc lang="en">Start your news day with Peter Stefanovic as he brings you the most up-to-date news and headlines from across Australia and the world.</desc>
@@ -70290,7 +71104,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250102223000 +0000" stop="20250102230000 +0000" channel="SKY">
+  <programme start="20250102223000 +0000" stop="20250103230000 +0000" channel="SKY">
     <title lang="en">First Edition</title>
     <sub-title lang="en">03/01/2025-8</sub-title>
     <desc lang="en">Start your news day with Peter Stefanovic as he brings you the most up-to-date news and headlines from across Australia and the world.</desc>
@@ -70305,7 +71119,7 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250102230000 +0000" stop="20250103000000 +0000" channel="SKY">
+  <programme start="20250102230000 +0000" stop="20250104000000 +0000" channel="SKY">
     <title lang="en">NewsDay</title>
     <desc lang="en">Chief News Anchor Kieran Gilbert drives the news as it happens including sharp analysis, detailed interviews and everything you need to stay across latest developments.</desc>
     <category lang="en">Live</category>
@@ -72940,7 +73754,6 @@
     <video>
       <aspect>16:9</aspect>
     </video>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20241231080000 +0000" stop="20241231090000 +0000" channel="SUK">
     <title lang="en">Sky News</title>
@@ -72952,7 +73765,6 @@
     <video>
       <aspect>16:9</aspect>
     </video>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20241231090000 +0000" stop="20241231100000 +0000" channel="SUK">
     <title lang="en">Sky News</title>
@@ -72964,6 +73776,7 @@
     <video>
       <aspect>16:9</aspect>
     </video>
+    <subtitles type="teletext"/>
   </programme>
   <programme start="20241231100000 +0000" stop="20241231110000 +0000" channel="SUK">
     <title lang="en">Sky News</title>
@@ -72975,6 +73788,7 @@
     <video>
       <aspect>16:9</aspect>
     </video>
+    <subtitles type="teletext"/>
   </programme>
   <programme start="20241231110000 +0000" stop="20241231120000 +0000" channel="SUK">
     <title lang="en">Sky News</title>
@@ -72997,7 +73811,6 @@
     <video>
       <aspect>16:9</aspect>
     </video>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20241231130000 +0000" stop="20241231140000 +0000" channel="SUK">
     <title lang="en">Sky News</title>
@@ -73020,7 +73833,6 @@
     <video>
       <aspect>16:9</aspect>
     </video>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20241231150000 +0000" stop="20241231160000 +0000" channel="SUK">
     <title lang="en">Sky News</title>
@@ -73043,7 +73855,6 @@
     <video>
       <aspect>16:9</aspect>
     </video>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20241231170000 +0000" stop="20241231180000 +0000" channel="SUK">
     <title lang="en">Sky News</title>
@@ -73055,7 +73866,6 @@
     <video>
       <aspect>16:9</aspect>
     </video>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20241231180000 +0000" stop="20241231190000 +0000" channel="SUK">
     <title lang="en">Sky News</title>
@@ -73155,14 +73965,12 @@
   <programme start="20250101030000 +0000" stop="20250101040000 +0000" channel="SUK">
     <title lang="en">Sky News</title>
     <desc lang="en">News reports on the big stories from the UK and around the world.</desc>
-    <category lang="en">Live</category>
     <category lang="en">Series</category>
     <category lang="en">News</category>
     <country>UK</country>
     <video>
       <aspect>16:9</aspect>
     </video>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20250101040000 +0000" stop="20250101050000 +0000" channel="SUK">
     <title lang="en">Sky News</title>
@@ -73185,7 +73993,6 @@
     <video>
       <aspect>16:9</aspect>
     </video>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20250101060000 +0000" stop="20250101070000 +0000" channel="SUK">
     <title lang="en">Sky News</title>
@@ -73230,7 +74037,6 @@
     <video>
       <aspect>16:9</aspect>
     </video>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20250101100000 +0000" stop="20250101110000 +0000" channel="SUK">
     <title lang="en">Sky News</title>
@@ -73253,6 +74059,7 @@
     <video>
       <aspect>16:9</aspect>
     </video>
+    <subtitles type="teletext"/>
   </programme>
   <programme start="20250101120000 +0000" stop="20250101130000 +0000" channel="SUK">
     <title lang="en">Sky News</title>
@@ -73308,7 +74115,6 @@
     <video>
       <aspect>16:9</aspect>
     </video>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20250101170000 +0000" stop="20250101180000 +0000" channel="SUK">
     <title lang="en">Sky News</title>
@@ -73331,7 +74137,6 @@
     <video>
       <aspect>16:9</aspect>
     </video>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20250101190000 +0000" stop="20250101200000 +0000" channel="SUK">
     <title lang="en">Sky News</title>
@@ -73354,7 +74159,6 @@
     <video>
       <aspect>16:9</aspect>
     </video>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20250101210000 +0000" stop="20250101220000 +0000" channel="SUK">
     <title lang="en">Sky News</title>
@@ -73378,7 +74182,6 @@
     <video>
       <aspect>16:9</aspect>
     </video>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20250101230000 +0000" stop="20250102000000 +0000" channel="SUK">
     <title lang="en">Sky News</title>
@@ -73458,7 +74261,6 @@
     <video>
       <aspect>16:9</aspect>
     </video>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20250102060000 +0000" stop="20250102070000 +0000" channel="SUK">
     <title lang="en">Sky News</title>
@@ -73503,7 +74305,6 @@
     <video>
       <aspect>16:9</aspect>
     </video>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20250102100000 +0000" stop="20250102110000 +0000" channel="SUK">
     <title lang="en">Sky News</title>
@@ -73515,6 +74316,7 @@
     <video>
       <aspect>16:9</aspect>
     </video>
+    <subtitles type="teletext"/>
   </programme>
   <programme start="20250102110000 +0000" stop="20250102120000 +0000" channel="SUK">
     <title lang="en">Sky News</title>
@@ -73526,6 +74328,7 @@
     <video>
       <aspect>16:9</aspect>
     </video>
+    <subtitles type="teletext"/>
   </programme>
   <programme start="20250102120000 +0000" stop="20250102130000 +0000" channel="SUK">
     <title lang="en">Sky News</title>
@@ -73581,7 +74384,6 @@
     <video>
       <aspect>16:9</aspect>
     </video>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20250102170000 +0000" stop="20250102180000 +0000" channel="SUK">
     <title lang="en">Sky News</title>
@@ -73604,6 +74406,7 @@
     <video>
       <aspect>16:9</aspect>
     </video>
+    <subtitles type="teletext"/>
   </programme>
   <programme start="20250102190000 +0000" stop="20250102200000 +0000" channel="SUK">
     <title lang="en">Sky News</title>
@@ -73615,7 +74418,6 @@
     <video>
       <aspect>16:9</aspect>
     </video>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20250102200000 +0000" stop="20250102210000 +0000" channel="SUK">
     <title lang="en">Sky News</title>
@@ -73639,7 +74441,6 @@
     <video>
       <aspect>16:9</aspect>
     </video>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20250102220000 +0000" stop="20250102230000 +0000" channel="SUK">
     <title lang="en">Sky News</title>
