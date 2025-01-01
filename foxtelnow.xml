@@ -43709,6 +43709,7 @@
     <desc lang="en">Uncover the fusion of health and tradition at Heroshi Japanese Kitchen. Discover precise food preparation and embrace the future with stylish, functional kitchen appliances.</desc>
     <category lang="en">Shopping</category>
     <country lang="en">Australia</country>
+    <subtitles type="teletext"/>
     <rating system="ACMA">
       <value>G</value>
     </rating>
@@ -43719,6 +43720,7 @@
     <category lang="en">Shopping</category>
     <country lang="en">Australia</country>
     <country lang="en">60mins</country>
+    <subtitles type="teletext"/>
     <rating system="ACMA">
       <value>G</value>
     </rating>
@@ -43728,578 +43730,7 @@
     <desc lang="en">Effortless Style with Nina Leonard. Mix and match chic pieces for work or weekend. Nina Leonard's refined collection offers endless outfit possibilities. Look sharp and confident from today.</desc>
     <category lang="en">Shopping</category>
     <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250101143000 +0000" stop="20250101153000 +0000" channel="TVS">
-    <title lang="en">Dyson WashG1 Wet Floor Cleaner</title>
-    <desc lang="en">Treat yourself to some retail therapy without even leaving the house! With 24/7 service, quality assured products and a 30 day money back guarantee, there is no shopping experience quite like TVSN!</desc>
-    <category lang="en">Shopping</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/18/91/731891_p15024371_b_h9_aa_360.jpg"/>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250101153000 +0000" stop="20250101163000 +0000" channel="TVS">
-    <title lang="en">Carla Oates The Beauty Chef</title>
-    <desc lang="en">Watch Carla in the kitchen whipping up certified organic, naturally fermented superfood blends - a powerhouse of nutrients and healthy bacteria. Beauty begins in the belly for radiant skin.</desc>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250101163000 +0000" stop="20250101173000 +0000" channel="TVS">
-    <title lang="en">Dr Ho MotionCiser Wellness</title>
-    <desc lang="en">Revolutionise your health routine with this advanced motion therapy device. Designed to enhance circulation and promote overall well-being. Experience renewed comfort and vitality.</desc>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250101173000 +0000" stop="20250101183000 +0000" channel="TVS">
-    <title lang="en">Polished London Oral Beauty</title>
-    <desc lang="en">Polished London brings professional-grade teeth whitening and care to your home. Achieve a brighter, healthier smile with this innovative product designed to enhance your oral beauty routine.</desc>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250101183000 +0000" stop="20250101193000 +0000" channel="TVS">
-    <title lang="en">Magimix Culinary Innovation</title>
-    <desc lang="en">Built to last, reflecting the philosophy of quality products that stand the test of time. Magimix brings creativity to your kitchen, accomplishing demanding tasks quickly, easily, and quietly.</desc>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250101193000 +0000" stop="20250101203000 +0000" channel="TVS">
-    <title lang="en">Fitness With Fiona Summers</title>
-    <desc lang="en">Discover the safe and effective way to get in shape with Fiona Summers' fitness program. Developed by a busy mum of 5 kids, now enjoyed by over 5 million worldwide.</desc>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <country lang="en">60mins</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250101203000 +0000" stop="20250101213000 +0000" channel="TVS">
-    <title lang="en">Health Foundry Superblends</title>
-    <desc lang="en">Unlock your wellness journey with Health Foundry Superblends. Explore this innovative range designed to support your health and vitality offering premium ingredients for a balanced lifestyle.</desc>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250101213000 +0000" stop="20250101223000 +0000" channel="TVS">
-    <title lang="en">Ready, Set, Go! 2025 Begins!</title>
-    <desc lang="en">Get ready to kick off 2025 with a bang! Enjoy exclusive deals, exciting new products, and special offers to start your year right. Don't miss out on these amazing opportunities. Ready, set, shop!</desc>
-    <category lang="en">Live</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/18/91/731891_p15024371_b_h9_aa_360.jpg"/>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250101223000 +0000" stop="20250101233000 +0000" channel="TVS">
-    <title lang="en">SpaceGym</title>
-    <desc lang="en">Discover a modern fitness experience with top-of-the-line equipment and a new perspective on your workout. Transform your exercise routine and achieve your fitness goals with Space Gym!</desc>
-    <category lang="en">Live</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/18/91/731891_p15024371_b_h9_aa_360.jpg"/>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250101233000 +0000" stop="20250102003000 +0000" channel="TVS">
-    <title lang="en">Rhonda Shear Apparel</title>
-    <desc lang="en">Look and feel amazing in Rhonda Shear's collection! Shop stylish and comfortable apparel designed for all body types. With passion and purpose, empowerment is sewn into every stitch.</desc>
-    <category lang="en">Live</category>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250102003000 +0000" stop="20250102013000 +0000" channel="TVS">
-    <title lang="en">Kuvings Healthy Kitchen</title>
-    <desc lang="en">Revitalise your kitchen with Kuvings Healthy Kitchen! Enjoy cold-pressed juices made effortlessly at home. Tune in to TVSN and start your journey to a healthier lifestyle now.</desc>
-    <category lang="en">Live</category>
-    <category lang="en">Series</category>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250102013000 +0000" stop="20250102023000 +0000" channel="TVS">
-    <title lang="en">Fitness With Fiona Summers</title>
-    <desc lang="en">Discover the safe and effective way to get in shape with Fiona Summers' fitness program. Developed by a busy mum of 5 kids, now enjoyed by over 5 million worldwide.</desc>
-    <category lang="en">Live</category>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <country lang="en">60mins</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250102023000 +0000" stop="20250102033000 +0000" channel="TVS">
-    <title lang="en">Carla Oates The Beauty Chef</title>
-    <desc lang="en">Watch Carla in the kitchen whipping up certified organic, naturally fermented superfood blends - a powerhouse of nutrients and healthy bacteria. Beauty begins in the belly for radiant skin.</desc>
-    <category lang="en">Live</category>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250102033000 +0000" stop="20250102043000 +0000" channel="TVS">
-    <title lang="en">Nina Leonard Fashion</title>
-    <desc lang="en">Effortless Style with Nina Leonard. Mix and match chic pieces for work or weekend. Nina Leonard's refined collection offers endless outfit possibilities. Look sharp and confident from today.</desc>
-    <category lang="en">Live</category>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250102043000 +0000" stop="20250102053000 +0000" channel="TVS">
-    <title lang="en">Rhonda Shear Apparel</title>
-    <desc lang="en">Look and feel amazing in Rhonda Shear's collection! Shop stylish and comfortable apparel designed for all body types. With passion and purpose, empowerment is sewn into every stitch.</desc>
-    <category lang="en">Live</category>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250102053000 +0000" stop="20250102063000 +0000" channel="TVS">
-    <title lang="en">SKIMGUARD Secure Protection</title>
-    <desc lang="en">Stay protected with SkimGuard Secure Protection. Utilising RFID blocking technology, safeguard your credit cards passport and sensitive data from identity theft. Secure your privacy.</desc>
-    <category lang="en">Live</category>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250102063000 +0000" stop="20250102073000 +0000" channel="TVS">
-    <title lang="en">SpaceGym</title>
-    <desc lang="en">Discover a modern fitness experience with top-of-the-line equipment and a new perspective on your workout. Transform your exercise routine and achieve your fitness goals with Space Gym!</desc>
-    <category lang="en">Live</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/18/91/731891_p15024371_b_h9_aa_360.jpg"/>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250102073000 +0000" stop="20250102083000 +0000" channel="TVS">
-    <title lang="en">Carla Oates The Beauty Chef</title>
-    <desc lang="en">Watch Carla in the kitchen whipping up certified organic, naturally fermented superfood blends - a powerhouse of nutrients and healthy bacteria. Beauty begins in the belly for radiant skin.</desc>
-    <category lang="en">Live</category>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250102083000 +0000" stop="20250102093000 +0000" channel="TVS">
-    <title lang="en">Kiva Wellness NEW Sleep Pod</title>
-    <desc lang="en">Developed to enhance your sleep quality, this innovative product embraces the latest technology designed to enhance sleep quality. Improve your nighttime routine and welcome back restful nights.</desc>
-    <category lang="en">Live</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/18/91/731891_p15024371_b_h9_aa_360.jpg"/>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250102093000 +0000" stop="20250102103000 +0000" channel="TVS">
-    <title lang="en">Fitness With Fiona Summers</title>
-    <desc lang="en">Discover the safe and effective way to get in shape with Fiona Summers' fitness program. Developed by a busy mum of 5 kids, now enjoyed by over 5 million worldwide.</desc>
-    <category lang="en">Live</category>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <country lang="en">60mins</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250102103000 +0000" stop="20250102113000 +0000" channel="TVS">
-    <title lang="en">Rhonda Shear Apparel</title>
-    <desc lang="en">Look and feel amazing in Rhonda Shear's collection! Shop stylish and comfortable apparel designed for all body types. With passion and purpose, empowerment is sewn into every stitch.</desc>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250102113000 +0000" stop="20250102123000 +0000" channel="TVS">
-    <title lang="en">Kuvings Healthy Kitchen</title>
-    <desc lang="en">Revitalise your kitchen with Kuvings Healthy Kitchen! Enjoy cold-pressed juices made effortlessly at home. Tune in to TVSN and start your journey to a healthier lifestyle now.</desc>
-    <category lang="en">Series</category>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250102123000 +0000" stop="20250102133000 +0000" channel="TVS">
-    <title lang="en">Carla Oates The Beauty Chef</title>
-    <desc lang="en">Watch Carla in the kitchen whipping up certified organic, naturally fermented superfood blends - a powerhouse of nutrients and healthy bacteria. Beauty begins in the belly for radiant skin.</desc>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250102133000 +0000" stop="20250102143000 +0000" channel="TVS">
-    <title lang="en">Fitness With Fiona Summers</title>
-    <desc lang="en">Discover the safe and effective way to get in shape with Fiona Summers' fitness program. Developed by a busy mum of 5 kids, now enjoyed by over 5 million worldwide.</desc>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <country lang="en">60mins</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250102143000 +0000" stop="20250102153000 +0000" channel="TVS">
-    <title lang="en">Nina Leonard Fashion</title>
-    <desc lang="en">Effortless Style with Nina Leonard. Mix and match chic pieces for work or weekend. Nina Leonard's refined collection offers endless outfit possibilities. Look sharp and confident from today.</desc>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250102153000 +0000" stop="20250102163000 +0000" channel="TVS">
-    <title lang="en">Rhonda Shear Apparel</title>
-    <desc lang="en">Look and feel amazing in Rhonda Shear's collection! Shop stylish and comfortable apparel designed for all body types. With passion and purpose, empowerment is sewn into every stitch.</desc>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250102163000 +0000" stop="20250102173000 +0000" channel="TVS">
-    <title lang="en">SKIMGUARD Secure Protection</title>
-    <desc lang="en">Stay protected with SkimGuard Secure Protection. Utilising RFID blocking technology, safeguard your credit cards passport and sensitive data from identity theft. Secure your privacy.</desc>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250102173000 +0000" stop="20250102183000 +0000" channel="TVS">
-    <title lang="en">SpaceGym</title>
-    <desc lang="en">Discover a modern fitness experience with top-of-the-line equipment and a new perspective on your workout. Transform your exercise routine and achieve your fitness goals with Space Gym!</desc>
-    <category lang="en">Shopping</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/18/91/731891_p15024371_b_h9_aa_360.jpg"/>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250102183000 +0000" stop="20250102193000 +0000" channel="TVS">
-    <title lang="en">Carla Oates The Beauty Chef</title>
-    <desc lang="en">Watch Carla in the kitchen whipping up certified organic, naturally fermented superfood blends - a powerhouse of nutrients and healthy bacteria. Beauty begins in the belly for radiant skin.</desc>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250102193000 +0000" stop="20250102203000 +0000" channel="TVS">
-    <title lang="en">Kiva Wellness NEW Sleep Pod</title>
-    <desc lang="en">Developed to enhance your sleep quality, this innovative product embraces the latest technology designed to enhance sleep quality. Improve your nighttime routine and welcome back restful nights.</desc>
-    <category lang="en">Shopping</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/18/91/731891_p15024371_b_h9_aa_360.jpg"/>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250102203000 +0000" stop="20250102213000 +0000" channel="TVS">
-    <title lang="en">Fitness With Fiona Summers</title>
-    <desc lang="en">Discover the safe and effective way to get in shape with Fiona Summers' fitness program. Developed by a busy mum of 5 kids, now enjoyed by over 5 million worldwide.</desc>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <country lang="en">60mins</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250102213000 +0000" stop="20250102223000 +0000" channel="TVS">
-    <title lang="en">Ready, Set, Go! 2025 Begins!</title>
-    <desc lang="en">Get ready to kick off 2025 with a bang! Enjoy exclusive deals, exciting new products, and special offers to start your year right. Don't miss out on these amazing opportunities. Ready, set, shop!</desc>
-    <category lang="en">Live</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/18/91/731891_p15024371_b_h9_aa_360.jpg"/>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250102223000 +0000" stop="20250102233000 +0000" channel="TVS">
-    <title lang="en">Gallery of Gold</title>
-    <desc lang="en">Experience timeless elegance at Gallery of Gold, where exquisite craftsmanship meets your unique style. Discover curated gold jewellery reflecting enduring beauty.</desc>
-    <category lang="en">Live</category>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250102233000 +0000" stop="20250103003000 +0000" channel="TVS">
-    <title lang="en">Teeter Inversion Table</title>
-    <desc lang="en">Just a few minutes each day using the Teeter Inversion Table can improve posture, reduce back pain or simply minimise the daily stress load that our body suffers. The 'best bed' to decompress.</desc>
-    <category lang="en">Live</category>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250103003000 +0000" stop="20250103013000 +0000" channel="TVS">
-    <title lang="en">Dr Ho MotionCiser Wellness</title>
-    <desc lang="en">Revolutionise your health routine with this advanced motion therapy device. Designed to enhance circulation and promote overall well-being. Experience renewed comfort and vitality.</desc>
-    <category lang="en">Live</category>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250103013000 +0000" stop="20250103023000 +0000" channel="TVS">
-    <title lang="en">Delonghi Italian Coffee Machine</title>
-    <desc lang="en">Unleash your inner barista with the Delonghi Italian Coffee Machine with easy-touch technology. Create a variety of drinks at home and enjoy the simplicity of crafting your favourite brews.</desc>
-    <category lang="en">Live</category>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250103023000 +0000" stop="20250103033000 +0000" channel="TVS">
-    <title lang="en">BeEnlightened Refreshing Aroma</title>
-    <desc lang="en">Enlighten your senses with the finest natural ingredients creating scents that add fragrance to your home. Famously employing a perfumer to add style and sophistication to each item in the range.</desc>
-    <category lang="en">Live</category>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250103033000 +0000" stop="20250103043000 +0000" channel="TVS">
-    <title lang="en">WheyLess A Healthy Lifestyle</title>
-    <desc lang="en">Wheyless is a nutrient-rich supplement designed to complement a healthy diet. Known for its energy-boosting properties without spiking blood sugar levels, feel fuller for longer with Wheyless.</desc>
-    <category lang="en">Live</category>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250103043000 +0000" stop="20250103053000 +0000" channel="TVS">
-    <title lang="en">Gallery of Gold</title>
-    <desc lang="en">Experience timeless elegance at Gallery of Gold, where exquisite craftsmanship meets your unique style. Discover curated gold jewellery reflecting enduring beauty.</desc>
-    <category lang="en">Live</category>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250103053000 +0000" stop="20250103063000 +0000" channel="TVS">
-    <title lang="en">The Skincare Tools</title>
-    <desc lang="en">Elevate your beauty routine with the latest innovations designed for flawless skin. Experience professional-grade results at home. Discover radiant, healthy skin today!</desc>
-    <category lang="en">Live</category>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250103063000 +0000" stop="20250103073000 +0000" channel="TVS">
-    <title lang="en">Teeter Inversion Table</title>
-    <desc lang="en">Just a few minutes each day using the Teeter Inversion Table can improve posture, reduce back pain or simply minimise the daily stress load that our body suffers. The 'best bed' to decompress.</desc>
-    <category lang="en">Live</category>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250103073000 +0000" stop="20250103083000 +0000" channel="TVS">
-    <title lang="en">Flora Probiotic Liquid Boost</title>
-    <desc lang="en">A delightful, certified organic fermented drink using the unique 'FloraFerm' process. These great-tasting, probiotic-rich beverages support digestive health. A tasty way to nourish your microbiome.</desc>
-    <category lang="en">Live</category>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250103083000 +0000" stop="20250103093000 +0000" channel="TVS">
-    <title lang="en">Fitness With Fiona Summers</title>
-    <desc lang="en">Discover the safe and effective way to get in shape with Fiona Summers' fitness program. Developed by a busy mum of 5 kids, now enjoyed by over 5 million worldwide.</desc>
-    <category lang="en">Live</category>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <country lang="en">60mins</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250103093000 +0000" stop="20250103103000 +0000" channel="TVS">
-    <title lang="en">SpaceGym</title>
-    <desc lang="en">Discover a modern fitness experience with top-of-the-line equipment and a new perspective on your workout. Transform your exercise routine and achieve your fitness goals with Space Gym!</desc>
-    <category lang="en">Live</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/18/91/731891_p15024371_b_h9_aa_360.jpg"/>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250103103000 +0000" stop="20250103113000 +0000" channel="TVS">
-    <title lang="en">Gallery of Gold</title>
-    <desc lang="en">Experience timeless elegance at Gallery of Gold, where exquisite craftsmanship meets your unique style. Discover curated gold jewellery reflecting enduring beauty.</desc>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250103113000 +0000" stop="20250103123000 +0000" channel="TVS">
-    <title lang="en">Teeter Inversion Table</title>
-    <desc lang="en">Just a few minutes each day using the Teeter Inversion Table can improve posture, reduce back pain or simply minimise the daily stress load that our body suffers. The 'best bed' to decompress.</desc>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250103123000 +0000" stop="20250103133000 +0000" channel="TVS">
-    <title lang="en">Dr Ho MotionCiser Wellness</title>
-    <desc lang="en">Revolutionise your health routine with this advanced motion therapy device. Designed to enhance circulation and promote overall well-being. Experience renewed comfort and vitality.</desc>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250103133000 +0000" stop="20250103143000 +0000" channel="TVS">
-    <title lang="en">Delonghi Italian Coffee Machine</title>
-    <desc lang="en">Unleash your inner barista with the Delonghi Italian Coffee Machine with easy-touch technology. Create a variety of drinks at home and enjoy the simplicity of crafting your favourite brews.</desc>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250103143000 +0000" stop="20250103153000 +0000" channel="TVS">
-    <title lang="en">BeEnlightened Refreshing Aroma</title>
-    <desc lang="en">Enlighten your senses with the finest natural ingredients creating scents that add fragrance to your home. Famously employing a perfumer to add style and sophistication to each item in the range.</desc>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250103153000 +0000" stop="20250103163000 +0000" channel="TVS">
-    <title lang="en">WheyLess A Healthy Lifestyle</title>
-    <desc lang="en">Wheyless is a nutrient-rich supplement designed to complement a healthy diet. Known for its energy-boosting properties without spiking blood sugar levels, feel fuller for longer with Wheyless.</desc>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250103163000 +0000" stop="20250103173000 +0000" channel="TVS">
-    <title lang="en">Gallery of Gold</title>
-    <desc lang="en">Experience timeless elegance at Gallery of Gold, where exquisite craftsmanship meets your unique style. Discover curated gold jewellery reflecting enduring beauty.</desc>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250103173000 +0000" stop="20250103183000 +0000" channel="TVS">
-    <title lang="en">The Skincare Tools</title>
-    <desc lang="en">Elevate your beauty routine with the latest innovations designed for flawless skin. Experience professional-grade results at home. Discover radiant, healthy skin today!</desc>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250103183000 +0000" stop="20250103193000 +0000" channel="TVS">
-    <title lang="en">Teeter Inversion Table</title>
-    <desc lang="en">Just a few minutes each day using the Teeter Inversion Table can improve posture, reduce back pain or simply minimise the daily stress load that our body suffers. The 'best bed' to decompress.</desc>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250103193000 +0000" stop="20250103203000 +0000" channel="TVS">
-    <title lang="en">Flora Probiotic Liquid Boost</title>
-    <desc lang="en">A delightful, certified organic fermented drink using the unique 'FloraFerm' process. These great-tasting, probiotic-rich beverages support digestive health. A tasty way to nourish your microbiome.</desc>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250103203000 +0000" stop="20250103213000 +0000" channel="TVS">
-    <title lang="en">Fitness With Fiona Summers</title>
-    <desc lang="en">Discover the safe and effective way to get in shape with Fiona Summers' fitness program. Developed by a busy mum of 5 kids, now enjoyed by over 5 million worldwide.</desc>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <country lang="en">60mins</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250103213000 +0000" stop="20250103223000 +0000" channel="TVS">
-    <title lang="en">Good Morning TVSN</title>
-    <desc lang="en">Start the day with TVSN! Exciting hosts showcase hot products, offer sneak peeks, and present lively competitions for vibrant mornings.</desc>
-    <category lang="en">Live</category>
-    <category lang="en">Series</category>
-    <category lang="en">Shopping</category>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250103223000 +0000" stop="20250103233000 +0000" channel="TVS">
-    <title lang="en">SKINN by Dimitri James</title>
-    <desc lang="en">Glow up with SKINN. Discover this revolutionary skincare with intelligent formulas. These exclusive and inspired products deliver a healthy radiant complexion. There's nothing else like SKINN.</desc>
-    <category lang="en">Live</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/33/93/81/339381_skinn_copy.jpg"/>
-    <country lang="en">Australia</country>
-    <rating system="ACMA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20250103233000 +0000" stop="20250104003000 +0000" channel="TVS">
-    <title lang="en">SKINN by Dimitri James</title>
-    <desc lang="en">Glow up with SKINN. Discover this revolutionary skincare with intelligent formulas. These exclusive and inspired products deliver a healthy radiant complexion. There's nothing else like SKINN.</desc>
-    <category lang="en">Live</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/33/93/81/339381_skinn_copy.jpg"/>
-    <country lang="en">Australia</country>
+    <subtitles type="teletext"/>
     <rating system="ACMA">
       <value>G</value>
     </rating>
@@ -64314,7 +63745,7 @@
     <display-name lang="en">[Foxtel] ESPN / ESP</display-name>
     <icon src="https://tvguide.theage.com.au/static/images/logos/espn-1b11ffc6.png"/>
   </channel>
-  <programme start="20250101000000 +0000" stop="20250101003000 +0000" channel="ESP">
+  <programme start="20250101000900 +0000" stop="20250101003000 +0000" channel="ESP">
     <title lang="en">College Football Pregame</title>
     <category lang="en">Live</category>
     <category lang="en">Series</category>
@@ -64543,6 +63974,7 @@
       <colour>yes</colour>
       <aspect>16:9</aspect>
     </video>
+    <subtitles type="teletext"/>
   </programme>
   <programme start="20250101181000 +0000" stop="20250101214000 +0000" channel="ESP">
     <title lang="en">College Football</title>
@@ -64598,6 +64030,7 @@
       <colour>yes</colour>
       <aspect>16:9</aspect>
     </video>
+    <subtitles type="teletext"/>
   </programme>
   <programme start="20250102015000 +0000" stop="20250102052000 +0000" channel="ESP">
     <title lang="en">College Football</title>
@@ -64611,6 +64044,7 @@
     <video>
       <colour>yes</colour>
     </video>
+    <subtitles type="teletext"/>
   </programme>
   <programme start="20250102052000 +0000" stop="20250102053000 +0000" channel="ESP">
     <title lang="en">College Football Postgame</title>
@@ -65170,7 +64604,7 @@
       <aspect>16:9</aspect>
     </video>
   </programme>
-  <programme start="20250101020000 +0000" stop="20250101043000 +0000" channel="ES2">
+  <programme start="20250101020000 +0000" stop="20250101041600 +0000" channel="ES2">
     <title lang="en">NBA</title>
     <sub-title lang="en">Lakers v Cavaliers</sub-title>
     <desc lang="en">Impossible dunks, legendary stars, unforgettable games, and dream shots. Where stars like Michael Jordan, Shaquille O'Neal, and Kobe Bryant, among other legends, burned bright. The NBA, the best league in the world, is all this and so much more.</desc>
@@ -65186,7 +64620,7 @@
       <aspect>16:9</aspect>
     </video>
   </programme>
-  <programme start="20250101043000 +0000" stop="20250101050000 +0000" channel="ES2">
+  <programme start="20250101041600 +0000" stop="20250101044600 +0000" channel="ES2">
     <title lang="en">In Depth With</title>
     <sub-title lang="en">Ice Cube</sub-title>
     <desc lang="en">Graham spends a couple days in Las Vegas with rapper, producer and BIG3 league co-founder, Ice Cube. The entertainment icon offers up stories from his upbringing in South Central Los Angeles, including a life-altering felony that never played out and his introduction to Dr. Dre. Cube also addresses his strongest passions today, including family life, his political pursuits on behalf of the black community and the BIG3 pro basketball three-on-three league he co-founded in 2017. Later, we catch up with BIG3 stars Julius "Dr. J" Erving, Lisa Leslie and Clyde Drexler to get their takes on the league and Cube's leadership.</desc>
@@ -65540,6 +64974,7 @@
     <video>
       <colour>yes</colour>
     </video>
+    <subtitles type="teletext"/>
   </programme>
   <programme start="20250102140000 +0000" stop="20250102160000 +0000" channel="ES2">
     <title lang="en">College Football</title>
@@ -72125,7 +71560,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20250101050000 +0000" stop="20250101070000 +0000" channel="ASP">
+  <programme start="20250101050000 +0000" stop="20250101072000 +0000" channel="ASP">
     <title lang="en">Sky News Election Channel</title>
     <desc lang="en">Sky News Election Channel is a dedicated political news channel covering the campaign trails across Australia and the world.</desc>
     <category lang="en">News</category>
@@ -72135,9 +71570,43 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20250101070000 +0000" stop="20250101090000 +0000" channel="ASP">
-    <title lang="en">Sky News Election Channel</title>
-    <desc lang="en">Sky News Election Channel is a dedicated political news channel covering the campaign trails across Australia and the world.</desc>
+  <programme start="20250101074600 +0000" stop="20250101083500 +0000" channel="ASP">
+    <title lang="en">US Politics</title>
+    <desc lang="en">U.S. Department of State Principal Deputy Spokesperson Vedant Patel leads the Department Press Briefing, at the Department of State in Washington D.C. on December 19, 2024.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20250101083500 +0000" stop="20250101093200 +0000" channel="ASP">
+    <title lang="en">The Sydney Institute</title>
+    <desc lang="en">MP for Wentworth Allegra Spender addresses the Sydney Institute on Remaking the Australian Dream on October 29, 2024.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Parliament</category>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20250101093200 +0000" stop="20250101103400 +0000" channel="ASP">
+    <title lang="en">US Politics</title>
+    <desc lang="en">U.S. Secretary of State Antony Blinken spoke at the Council on Foreign Relations in New York on December 18, 2024.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20250101103400 +0000" stop="20250101113300 +0000" channel="ASP">
+    <title lang="en">Parliamentary Library Lecture</title>
+    <desc lang="en">The Parliamentary Library hosted a seminar in Canberra where scholars discuss the topic of Political trust: politicians and elections on November 13, 2024.</desc>
+    <category lang="en">Series</category>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2024..</episode-num>
     <subtitles type="teletext"/>
@@ -72145,40 +71614,22 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20250101090000 +0000" stop="20250101100000 +0000" channel="ASP">
-    <title lang="en">Sky News Election Channel</title>
-    <desc lang="en">Sky News Election Channel is a dedicated political news channel covering the campaign trails across Australia and the world.</desc>
-    <category lang="en">News</category>
+  <programme start="20250101113300 +0000" stop="20250101121000 +0000" channel="ASP">
+    <title lang="en">US Politics</title>
+    <desc lang="en">White House Press Secretary Karine Jean-Pierre held the press brief in Washington D.C. and answered questions from the media on December 20, 2024.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">2024..</episode-num>
     <subtitles type="teletext"/>
     <rating system="ACMA">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20250101100000 +0000" stop="20250101110000 +0000" channel="ASP">
-    <title lang="en">Sky News Election Channel</title>
-    <desc lang="en">Sky News Election Channel is a dedicated political news channel covering the campaign trails across Australia and the world.</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">2024..</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="ACMA">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20250101110000 +0000" stop="20250101120000 +0000" channel="ASP">
-    <title lang="en">Sky News Election Channel</title>
-    <desc lang="en">Sky News Election Channel is a dedicated political news channel covering the campaign trails across Australia and the world.</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">2024..</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="ACMA">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20250101120000 +0000" stop="20250101130000 +0000" channel="ASP">
-    <title lang="en">Sky News Election Channel</title>
-    <desc lang="en">Sky News Election Channel is a dedicated political news channel covering the campaign trails across Australia and the world.</desc>
-    <category lang="en">News</category>
+  <programme start="20250101121000 +0000" stop="20250101124400 +0000" channel="ASP">
+    <title lang="en">The Sydney Institute</title>
+    <desc lang="en">Communications Minister Michelle Rowland delivered the Sydney Institute's 2024 Annual Dinner Lecture on November 13, 2024.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Parliament</category>
     <episode-num system="xmltv_ns">2024..</episode-num>
     <subtitles type="teletext"/>
     <rating system="ACMA">
@@ -72241,17 +71692,40 @@
     <episode-num system="xmltv_ns">2024..</episode-num>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250101190000 +0000" stop="20250101210000 +0000" channel="ASP">
-    <title lang="en">Sky News Election Channel</title>
-    <desc lang="en">Sky News Election Channel is a dedicated political news channel covering the campaign trails across Australia and the world.</desc>
-    <category lang="en">News</category>
+  <programme start="20250101190000 +0000" stop="20250101200500 +0000" channel="ASP">
+    <title lang="en">US Politics</title>
+    <desc lang="en">U.S. Secretary of State Antony Blinken spoke at the Council on Foreign Relations in New York on December 18, 2024.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">2024..</episode-num>
     <subtitles type="teletext"/>
     <rating system="ACMA">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20250101210000 +0000" stop="20250101230000 +0000" channel="ASP">
+  <programme start="20250101200500 +0000" stop="20250101205800 +0000" channel="ASP">
+    <title lang="en">US Politics</title>
+    <desc lang="en">U.S. Department of State Principal Deputy Spokesperson Vedant Patel leads the Department Press Briefing, at the Department of State in Washington D.C. on December 19, 2024.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20250101205800 +0000" stop="20250101213400 +0000" channel="ASP">
+    <title lang="en">US Politics</title>
+    <desc lang="en">White House Press Secretary Karine Jean-Pierre held the press brief in Washington D.C. and answered questions from the media on December 20, 2024.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20250101213400 +0000" stop="20250101230000 +0000" channel="ASP">
     <title lang="en">Sky News Election Channel</title>
     <desc lang="en">Sky News Election Channel is a dedicated political news channel covering the campaign trails across Australia and the world.</desc>
     <category lang="en">News</category>
