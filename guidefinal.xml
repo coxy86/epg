@@ -64,17 +64,6 @@
     <display-name>Movies Summer</display-name>
     <url>https://foxtel.com.au</url>
   </channel>
-  <programme start="20250110000500 +0000" stop="20250110010500 +0000" channel="BXS">
-    <title lang="en">Game of Thrones</title>
-    <sub-title lang="en">The Kingsroad</sub-title>
-    <desc lang="en">Having agreed to become the King's Hand, Ned leaves Winterfell with daughters Sansa and Arya, while Catelyn stays behind to tend to Bran. Jon Snow heads north to join the brotherhood.</desc>
-    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <rating system="ACB">
-      <value>MA15+</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/ax3u4.jpg?maxheight=213&amp;limit=52af2c3932bf7b14987c455cc46e702de03669db"/>
-  </programme>
   <programme start="20250110010500 +0000" stop="20250110021000 +0000" channel="BXS">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Lord Snow</sub-title>
@@ -492,11 +481,6 @@
       <value>MA15+</value>
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/1g2sha.jpg?maxheight=213&amp;limit=9734f0a7b8877fae83fe3d2ca32159a6bed944e0"/>
-  </programme>
-  <programme start="20250109230000 +0000" stop="20250110010000 +0000" channel="FAF">
-    <title lang="en">Best Games Ever: 1997 R4 ADE v PA</title>
-    <sub-title lang="en">1997 R4 ADE v PA</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/pwm9dg.png?maxheight=213&amp;limit=116fb308a21a70da4397a9ddab0f3cfd86d744cf"/>
   </programme>
   <programme start="20250110010000 +0000" stop="20250110030000 +0000" channel="FAF">
     <title lang="en">Fox Footy Legends: Roughead</title>
@@ -1961,17 +1945,6 @@
       <value>PG</value>
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/b68kp.jpg?maxheight=213&amp;limit=d7617d282e6c3eb0bc07b0ae895a3bb65e149aaa"/>
-  </programme>
-  <programme start="20250110000000 +0000" stop="20250110010500 +0000" channel="LST">
-    <title lang="en">The Great Celebrity Bake Off</title>
-    <sub-title lang="en">Russell Howard And Ovie Soko</sub-title>
-    <desc lang="en">Celebrity bakers face three challenges: Giant Biscuit, a classic bake, and a choux sculpture of their perfect day.</desc>
-    <episode-num system="xmltv_ns">2.0.0/1</episode-num>
-    <episode-num system="onscreen">S03E01</episode-num>
-    <rating system="ACB">
-      <value>PG</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6h6xf.jpg?maxheight=213&amp;limit=f8bcc606dc60fa9529c0c820dfad83da17ef1f49"/>
   </programme>
   <programme start="20250110010500 +0000" stop="20250110020500 +0000" channel="LST">
     <title lang="en">Selling Houses Australia</title>
@@ -3889,13 +3862,6 @@
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/qkkf3c.jpg?maxheight=213&amp;limit=567eed841d2a973ebe2924b0f248d494416541e6"/>
     <desc lang="en">As Arthur Curry confronts the responsibilities of being King of the Seven Seas, a long-buried ancient power is unleashed. After witnessing the full effect of these dark forces, Aquaman must forge an uneasy alliance with an old enemy, and embark on a treacherous journey to protect his family, his kingdom, and the world from irreversible devastation.</desc>
   </programme>
-  <programme start="20250109233500 +0000" stop="20250110010500 +0000" channel="SHY">
-    <title lang="en">The Campaign</title>
-    <rating system="ACB">
-      <value>MA15+</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/9dosm.jpg?maxheight=213&amp;limit=6dea1aff0b62cbae74c39aed8c75fd53ca4b2761"/>
-  </programme>
   <programme start="20250110010500 +0000" stop="20250110024000 +0000" channel="SHY">
     <title lang="en">Best in Show</title>
     <rating system="ACB">
@@ -4090,7 +4056,6 @@
   </programme>
   <programme start="20250109234500 +0000" stop="20250110011000 +0000" channel="TRS">
     <title lang="en">Chicken Run</title>
-    <desc lang="en">A smooth-talking rooster crash-lands into a farm and attempts to help a group of chickens escape. With teamwork and a little bit of cluck, the fearless flock plots one last daring attempt for freedom.</desc>
     <rating system="ACB">
       <value>G</value>
     </rating>
