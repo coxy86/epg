@@ -64,39 +64,6 @@
     <display-name>Movies Summer</display-name>
     <url>https://foxtel.com.au</url>
   </channel>
-  <programme start="20250110010500 +0000" stop="20250110021000 +0000" channel="BXS">
-    <title lang="en">Game of Thrones</title>
-    <sub-title lang="en">Lord Snow</sub-title>
-    <desc lang="en">Suspicious that the Lannisters had a hand in Bran's fall, Catelyn covertly follows her husband to King's Landing, where she is intercepted by Petyr Baelish, a shrewd longtime ally and brothel owner.</desc>
-    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <rating system="ACB">
-      <value>MA15+</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/63xiq.jpg?maxheight=213&amp;limit=d9a9d3eb46c6fe8590a57d0be0858abce3bed1d0"/>
-  </programme>
-  <programme start="20250110021000 +0000" stop="20250110031000 +0000" channel="BXS">
-    <title lang="en">Game of Thrones</title>
-    <sub-title lang="en">Bastards And Broken Things</sub-title>
-    <desc lang="en">Jon takes measures to protect Samwell from more abuse at Castle Black and Sansa imagines her future as a queen, while Arya envisions a far different future.</desc>
-    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <rating system="ACB">
-      <value>MA15+</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/9d97y.jpg?maxheight=213&amp;limit=0030cc25a3e64e938268a4941df4e195fe4830ac"/>
-  </programme>
-  <programme start="20250110031000 +0000" stop="20250110041000 +0000" channel="BXS">
-    <title lang="en">Game of Thrones</title>
-    <sub-title lang="en">The Wolf And The Lion</sub-title>
-    <desc lang="en">Ned refuses an order from the King; Tyrion escapes one perilous encounter, only to find himself in another.</desc>
-    <episode-num system="xmltv_ns">0.4.0/1</episode-num>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <rating system="ACB">
-      <value>MA15+</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bkzpz.jpg?maxheight=213&amp;limit=2c01a3ee6de5dd5ab4d74d9d6be5bc2f39ce712e"/>
-  </programme>
   <programme start="20250110041000 +0000" stop="20250110051000 +0000" channel="BXS">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">A Golden Crown</sub-title>
@@ -1021,7 +988,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/a6wfq.jpg?maxheight=213&amp;limit=e86de190e304061da37e8642644606b56b77306b"/>
   </programme>
-  <programme start="20250113122000 +0000" stop="20250113132000 +0000" channel="BXS">
+  <programme start="20250113122000 +0000" stop="20250113125000 +0000" channel="BXS">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Oathkeeper</sub-title>
     <desc lang="en">Daenerys balances justice and mercy while Jaime turns to Brienne. Meanwhile, Jon readies his men.</desc>
@@ -1032,7 +999,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/7syvq.jpg?maxheight=213&amp;limit=a623e115bb8fb8e509a903b3c0a0859af6b769b7"/>
   </programme>
-  <programme start="20250113122000 +0000" stop="20250113125000 +0000" channel="BXS">
+  <programme start="20250113122000 +0000" stop="20250113132000 +0000" channel="BXS">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Oathkeeper</sub-title>
     <desc lang="en">Daenerys balances justice and mercy while Jaime turns to Brienne. Meanwhile, Jon readies his men.</desc>
@@ -2066,16 +2033,9 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/84gsi.jpg?maxheight=213&amp;limit=5341cb366c2ba60d37540eea41622bdeb34dd7c6"/>
   </programme>
-  <programme start="20250110010000 +0000" stop="20250110030000 +0000" channel="FAF">
-    <title lang="en">Fox Footy Legends: Roughead</title>
-    <sub-title lang="en">2019 R22 Hawthorn v Gold Coast</sub-title>
-    <desc lang="en">Relive the best games and magic moments from the stars of our great game.</desc>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/x64yxy.png?maxheight=213&amp;limit=16213c1d8d3a8cb0b5caebae7d7f0192d95db981"/>
-  </programme>
   <programme start="20250110030000 +0000" stop="20250110050000 +0000" channel="FAF">
     <title lang="en">Best Games Ever: 2002 R19 NM v SYD</title>
     <sub-title lang="en">2002 R19 NM v SYD</sub-title>
-    <desc lang="en">The 2000s - a decade where Brisbane and Geelong ruled the roost and an era of Brown, Judd and Ablett.</desc>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/ki9070.png?maxheight=213&amp;limit=431218a4ddfa1de5737d9e6ec93dc90620cc3d94"/>
   </programme>
   <programme start="20250110050000 +0000" stop="20250110070000 +0000" channel="FAF">
@@ -3374,61 +3334,6 @@
     <sub-title lang="en">RND7 NMT V SYD</sub-title>
     <desc lang="en">AFLW action returns to Tasmania with Sydney coming up against competition frontrunners North Melbourne at North Hobart Oval.</desc>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/p9tvsn.png?maxheight=213&amp;limit=a4fb849148f8b8f224160f37d866db9302728900"/>
-  </programme>
-  <programme start="20250110013000 +0000" stop="20250110023000 +0000" channel="FOX">
-    <title lang="en">American Pickers</title>
-    <sub-title lang="en">Mike And Homer</sub-title>
-    <desc lang="en">While cruising through Southern California, Mike uncovers a legendary signed guitar along with story boards and scripts from one of America's favourite cartoon family, the Simpsons.</desc>
-    <episode-num system="xmltv_ns">18.39.0/1</episode-num>
-    <episode-num system="onscreen">S19E40</episode-num>
-    <rating system="ACB">
-      <value>PG</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/a8dss.jpg?maxheight=213&amp;limit=368ca350a4b72dd99edaa6ddbd9ce51759a0b765"/>
-  </programme>
-  <programme start="20250110023000 +0000" stop="20250110030000 +0000" channel="FOX">
-    <title lang="en">Storage Wars</title>
-    <sub-title lang="en">The Devil Buys Used Prada</sub-title>
-    <desc lang="en">Kenny tries to bribe the competition in Canyon Country and becomes more worldly as a result; Ivy and Isaiah make the most of their purchase; Brandi takes on the powers of darkness.</desc>
-    <episode-num system="xmltv_ns">12.25.0/1</episode-num>
-    <episode-num system="onscreen">S13E26</episode-num>
-    <rating system="ACB">
-      <value>PG</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8ybt9.jpg?maxheight=213&amp;limit=139dcf2661a6d6f73fd3d377c3c025c83607731f"/>
-  </programme>
-  <programme start="20250110030000 +0000" stop="20250110033000 +0000" channel="FOX">
-    <title lang="en">Storage Wars</title>
-    <sub-title lang="en">Welcome Back Barry: Revital-Weissed!</sub-title>
-    <desc lang="en">Ivy Calvin takes a seat along with Barry and Kenny to talk pigeons, turtles and the secrets of making a living as a storage buyer.</desc>
-    <episode-num system="xmltv_ns">12.26.0/1</episode-num>
-    <episode-num system="onscreen">S13E27</episode-num>
-    <rating system="ACB">
-      <value>PG</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6kiiz.jpg?maxheight=213&amp;limit=9a58509d1e56fd03c568b45840da27f1e93a2fd9"/>
-  </programme>
-  <programme start="20250110033000 +0000" stop="20250110040000 +0000" channel="FOX">
-    <title lang="en">Car Crash TV</title>
-    <sub-title lang="en">Episode 20</sub-title>
-    <desc lang="en">Resident magician The Great Crashini is on hand again for the latest edition of his spectacular show Abra Car Dabra.</desc>
-    <episode-num system="xmltv_ns">1.19.0/1</episode-num>
-    <episode-num system="onscreen">S02E20</episode-num>
-    <rating system="ACB">
-      <value>PG</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/s92ka0.jpg?maxheight=213&amp;limit=c05ce46a257f724e51533c9deb03b9104ecebba0"/>
-  </programme>
-  <programme start="20250110040000 +0000" stop="20250110043000 +0000" channel="FOX">
-    <title lang="en">Car Crash TV</title>
-    <sub-title lang="en">Episode 1</sub-title>
-    <desc lang="en">Explores Spotlighting Speeders, 4X4 fails, and Off Road Rodeo. We dive into Crash Scene Investigation, play the Blame Game, and explore the weird and wonderful road moments.</desc>
-    <episode-num system="xmltv_ns">2.0.0/1</episode-num>
-    <episode-num system="onscreen">S03E01</episode-num>
-    <rating system="ACB">
-      <value>PG</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/s92ka0.jpg?maxheight=213&amp;limit=c05ce46a257f724e51533c9deb03b9104ecebba0"/>
   </programme>
   <programme start="20250110043000 +0000" stop="20250110050000 +0000" channel="FOX">
     <title lang="en">Ridiculousness</title>
@@ -6533,18 +6438,6 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/7o8kq.jpg?maxheight=213&amp;limit=d271cc4724d8d138d328a98d24d696047d9acd23"/>
   </programme>
-  <programme start="20250109232500 +0000" stop="20250110022500 +0000" channel="FS1">
-    <title lang="en">SA20: Sunrisers v MI Cape Town</title>
-    <sub-title lang="en">Sunrisers v MI Cape Town</sub-title>
-    <desc lang="en">The two-time defending champions, Sunrisers Eastern Cape, open the 2025 SA20 against MI Cape Town in Gqeberha.</desc>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/m3nnew.png?maxheight=213&amp;limit=c691ec6e5610e5102474f97a75be2589d4cfa4bb"/>
-  </programme>
-  <programme start="20250110022500 +0000" stop="20250110032500 +0000" channel="FS1">
-    <title lang="en">Test: AUS v IND Fifth Test</title>
-    <sub-title lang="en">AUS v IND Fifth Test</sub-title>
-    <desc lang="en">The dramatic Border-Gavaskar Trophy reaches its conclusion at the world famous Sydney Cricket Ground.</desc>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7wuox7.png?maxheight=213&amp;limit=745d8e34210a815118ffa2a978c4dbce8642cdd7"/>
-  </programme>
   <programme start="20250110032500 +0000" stop="20250110062500 +0000" channel="FS1">
     <title lang="en">Big Bash: Stars v Sixers</title>
     <sub-title lang="en">Stars v Sixers</sub-title>
@@ -6552,10 +6445,10 @@
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/65rf4r.png?maxheight=213&amp;limit=ab2930e3e44e550a0c06e6d9b7506a393c7bd878"/>
   </programme>
   <programme start="20250110062500 +0000" stop="20250110064500 +0000" channel="FS1">
-    <title lang="en">Women's GGXI Mini: AUS v ENG</title>
-    <sub-title lang="en">AUS v ENG</sub-title>
-    <desc lang="en">Ahead of the Women's Ashes, England face the Governor General's XI in a 50-over fixture at North Sydney Oval.</desc>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xd9uhx.png?maxheight=213&amp;limit=10482a1fb4631074ce9185b61f6c8030a1694389"/>
+    <title lang="en">Big Bash Mini: SCO v REN</title>
+    <sub-title lang="en">SCO v REN</sub-title>
+    <desc lang="en">Mitch Marsh will play his first Big Bash game for the Scorchers in three years as they host the Renegades in Perth.</desc>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/65bh9a.png?maxheight=213&amp;limit=c0b4b1f055f38221402b07a564537cfaf407dea8"/>
   </programme>
   <programme start="20250110064500 +0000" stop="20250110070500 +0000" channel="FS1">
     <title lang="en">Greatest Ton: BBL1 David Warner</title>
@@ -6612,10 +6505,10 @@
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/aezj07.png?maxheight=213&amp;limit=5321badac293390bd50c37e3b18406c66ab4858d"/>
   </programme>
   <programme start="20250110120500 +0000" stop="20250110122500 +0000" channel="FS1">
-    <title lang="en">Women's GGXI Mini: AUS v ENG</title>
-    <sub-title lang="en">AUS v ENG</sub-title>
-    <desc lang="en">Ahead of the Women's Ashes, England face the Governor General's XI in a 50-over fixture at North Sydney Oval.</desc>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xd9uhx.png?maxheight=213&amp;limit=10482a1fb4631074ce9185b61f6c8030a1694389"/>
+    <title lang="en">Big Bash Mini: STA v SIX</title>
+    <sub-title lang="en">STA v SIX</sub-title>
+    <desc lang="en">Beau Webster returns for the Stars as they seek a third-straight win against the table-topping Sydney Sixers.</desc>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/qy8ngj.png?maxheight=213&amp;limit=b9bab88bf67c2ebb7a1e0d4309b1e58778ae1b29"/>
   </programme>
   <programme start="20250110122500 +0000" stop="20250110124500 +0000" channel="FS1">
     <title lang="en">Big Bash Mini: HUR v THU</title>
@@ -6935,13 +6828,13 @@
     <desc lang="en">Australia's quest to retain the Women's Ashes begins at North Sydney Oval with the first ODI of the multi-format series.</desc>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/q7pp8c.jpg?maxheight=213&amp;limit=ced38b88854f76cdd182279bf03924f8fc2320c6"/>
   </programme>
-  <programme start="20250112130000 +0000" stop="20250112173000 +0000" channel="FS1">
+  <programme start="20250112130000 +0000" stop="20250112133000 +0000" channel="FS1">
     <title lang="en">Live: SA20: Capitals v Super Giants</title>
     <sub-title lang="en">Capitals v Super Giants</sub-title>
     <desc lang="en">Pretoria and Durban meet for the second time in three days as the SA20 continues from SuperSport Park in Centurion.</desc>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/h0tlji.png?maxheight=213&amp;limit=14c6587f185a1dcb8b9cc905e5a83a845ab923a3"/>
   </programme>
-  <programme start="20250112130000 +0000" stop="20250112133000 +0000" channel="FS1">
+  <programme start="20250112130000 +0000" stop="20250112173000 +0000" channel="FS1">
     <title lang="en">Live: SA20: Capitals v Super Giants</title>
     <sub-title lang="en">Capitals v Super Giants</sub-title>
     <desc lang="en">Pretoria and Durban meet for the second time in three days as the SA20 continues from SuperSport Park in Centurion.</desc>
@@ -7734,12 +7627,6 @@
     <sub-title lang="en">Sixers v Thunder</sub-title>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/9s3bl.png?maxheight=213&amp;limit=395d68ebff786a247bf35733c142f5172fbfc24f"/>
   </programme>
-  <programme start="20250110000000 +0000" stop="20250110033000 +0000" channel="FS3">
-    <title lang="en">Live: Golf: USPGA: Sony Open Round 1</title>
-    <sub-title lang="en">Sony Open Round 1</sub-title>
-    <desc lang="en">The Opening Drive continues with the Sony Open in Hawaii, from Waialae Country Club.</desc>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/tv33ac.png?maxheight=213&amp;limit=67158d4d96a812ead9aeec4c691645156ecb0273"/>
-  </programme>
   <programme start="20250110033000 +0000" stop="20250110050000 +0000" channel="FS3">
     <title lang="en">Golf: TGL: New York v The Bay</title>
     <sub-title lang="en">New York v The Bay</sub-title>
@@ -7827,6 +7714,7 @@
   <programme start="20250111050000 +0000" stop="20250111080000 +0000" channel="FS3">
     <title lang="en">Live: Webex Player Series Perth: R3</title>
     <sub-title lang="en">R3</sub-title>
+    <desc lang="en">Superstar siblings Minjee and Min Woo Lee host the Webex Players Series Perth, showcasing the next generation of Aussie golfers. Round 3 begins.</desc>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6dgz3a.png?maxheight=213&amp;limit=777d2f40a92c0abe209ba43767c93018e98c5583"/>
   </programme>
   <programme start="20250111080000 +0000" stop="20250111130000 +0000" channel="FS3">
@@ -7898,6 +7786,7 @@
   <programme start="20250112030000 +0000" stop="20250112080000 +0000" channel="FS3">
     <title lang="en">Live: Webex Player Series Perth: FR</title>
     <sub-title lang="en">FR</sub-title>
+    <desc lang="en">Final round action of the Webex Players Series Perth, from the Royal Fremantle Golf.</desc>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/x1iidf.png?maxheight=213&amp;limit=bdf56707f1acd9941e2b63cfae547e5b66f53262"/>
   </programme>
   <programme start="20250112080000 +0000" stop="20250112120000 +0000" channel="FS3">
@@ -7909,11 +7798,13 @@
   <programme start="20250112120000 +0000" stop="20250112130000 +0000" channel="FS3">
     <title lang="en">Golf: Webex Player Series Perth: FR</title>
     <sub-title lang="en">FR</sub-title>
+    <desc lang="en">Final round action of the Webex Players Series Perth, from the Royal Fremantle Golf.</desc>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/x1iidf.png?maxheight=213&amp;limit=bdf56707f1acd9941e2b63cfae547e5b66f53262"/>
   </programme>
   <programme start="20250112120000 +0000" stop="20250112130000 +0000" channel="FS3">
     <title lang="en">Golf: Webex Player Series Perth: FR</title>
     <sub-title lang="en">FR</sub-title>
+    <desc lang="en">Final round action of the Webex Players Series Perth, from the Royal Fremantle Golf.</desc>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/x1iidf.png?maxheight=213&amp;limit=bdf56707f1acd9941e2b63cfae547e5b66f53262"/>
   </programme>
   <programme start="20250112130000 +0000" stop="20250112150000 +0000" channel="FS3">
@@ -7973,6 +7864,7 @@
   <programme start="20250113050000 +0000" stop="20250113060000 +0000" channel="FS3">
     <title lang="en">Golf: Webex Player Series Perth: FR</title>
     <sub-title lang="en">FR</sub-title>
+    <desc lang="en">Final round action of the Webex Players Series Perth, from the Royal Fremantle Golf.</desc>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/x1iidf.png?maxheight=213&amp;limit=bdf56707f1acd9941e2b63cfae547e5b66f53262"/>
   </programme>
   <programme start="20250113060000 +0000" stop="20250113080000 +0000" channel="FS3">
@@ -7984,6 +7876,7 @@
   <programme start="20250113080000 +0000" stop="20250113090000 +0000" channel="FS3">
     <title lang="en">Golf: Webex Player Series Perth: FR</title>
     <sub-title lang="en">FR</sub-title>
+    <desc lang="en">Final round action of the Webex Players Series Perth, from the Royal Fremantle Golf.</desc>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/x1iidf.png?maxheight=213&amp;limit=bdf56707f1acd9941e2b63cfae547e5b66f53262"/>
   </programme>
   <programme start="20250113090000 +0000" stop="20250113110000 +0000" channel="FS3">
@@ -8001,11 +7894,13 @@
   <programme start="20250113120000 +0000" stop="20250113130000 +0000" channel="FS3">
     <title lang="en">Golf: Webex Player Series Perth: FR</title>
     <sub-title lang="en">FR</sub-title>
+    <desc lang="en">Final round action of the Webex Players Series Perth, from the Royal Fremantle Golf.</desc>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/x1iidf.png?maxheight=213&amp;limit=bdf56707f1acd9941e2b63cfae547e5b66f53262"/>
   </programme>
   <programme start="20250113120000 +0000" stop="20250113130000 +0000" channel="FS3">
     <title lang="en">Golf: Webex Player Series Perth: FR</title>
     <sub-title lang="en">FR</sub-title>
+    <desc lang="en">Final round action of the Webex Players Series Perth, from the Royal Fremantle Golf.</desc>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/x1iidf.png?maxheight=213&amp;limit=bdf56707f1acd9941e2b63cfae547e5b66f53262"/>
   </programme>
   <programme start="20250113130000 +0000" stop="20250113150000 +0000" channel="FS3">
@@ -8035,6 +7930,7 @@
   <programme start="20250113190000 +0000" stop="20250113200000 +0000" channel="FS3">
     <title lang="en">Golf: Webex Player Series Perth: FR</title>
     <sub-title lang="en">FR</sub-title>
+    <desc lang="en">Final round action of the Webex Players Series Perth, from the Royal Fremantle Golf.</desc>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/x1iidf.png?maxheight=213&amp;limit=bdf56707f1acd9941e2b63cfae547e5b66f53262"/>
   </programme>
   <programme start="20250113200000 +0000" stop="20250113230000 +0000" channel="FS3">
@@ -8058,11 +7954,13 @@
   <programme start="20250114020000 +0000" stop="20250114030000 +0000" channel="FS3">
     <title lang="en">Golf: Webex Player Series Perth: R3</title>
     <sub-title lang="en">R3</sub-title>
+    <desc lang="en">Superstar siblings Minjee and Min Woo Lee host the Webex Players Series Perth, showcasing the next generation of Aussie golfers. Round 3 begins.</desc>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6dgz3a.png?maxheight=213&amp;limit=777d2f40a92c0abe209ba43767c93018e98c5583"/>
   </programme>
   <programme start="20250114030000 +0000" stop="20250114040000 +0000" channel="FS3">
     <title lang="en">Golf: Webex Player Series Perth: FR</title>
     <sub-title lang="en">FR</sub-title>
+    <desc lang="en">Final round action of the Webex Players Series Perth, from the Royal Fremantle Golf.</desc>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/x1iidf.png?maxheight=213&amp;limit=bdf56707f1acd9941e2b63cfae547e5b66f53262"/>
   </programme>
   <programme start="20250114040000 +0000" stop="20250114060000 +0000" channel="FS3">
@@ -8092,6 +7990,7 @@
   <programme start="20250114090000 +0000" stop="20250114100000 +0000" channel="FS3">
     <title lang="en">Golf: Webex Player Series Perth: FR</title>
     <sub-title lang="en">FR</sub-title>
+    <desc lang="en">Final round action of the Webex Players Series Perth, from the Royal Fremantle Golf.</desc>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/x1iidf.png?maxheight=213&amp;limit=bdf56707f1acd9941e2b63cfae547e5b66f53262"/>
   </programme>
   <programme start="20250114100000 +0000" stop="20250114103000 +0000" channel="FS3">
@@ -8115,11 +8014,13 @@
   <programme start="20250114120000 +0000" stop="20250114130000 +0000" channel="FS3">
     <title lang="en">Golf: Webex Player Series Perth: FR</title>
     <sub-title lang="en">FR</sub-title>
+    <desc lang="en">Final round action of the Webex Players Series Perth, from the Royal Fremantle Golf.</desc>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/x1iidf.png?maxheight=213&amp;limit=bdf56707f1acd9941e2b63cfae547e5b66f53262"/>
   </programme>
   <programme start="20250114120000 +0000" stop="20250114130000 +0000" channel="FS3">
     <title lang="en">Golf: Webex Player Series Perth: FR</title>
     <sub-title lang="en">FR</sub-title>
+    <desc lang="en">Final round action of the Webex Players Series Perth, from the Royal Fremantle Golf.</desc>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/x1iidf.png?maxheight=213&amp;limit=bdf56707f1acd9941e2b63cfae547e5b66f53262"/>
   </programme>
   <programme start="20250114130000 +0000" stop="20250114150000 +0000" channel="FS3">
@@ -8406,22 +8307,6 @@
     <title lang="en">Live: Golf: Hero Dubai Desert Classic R2</title>
     <sub-title lang="en">Hero Dubai Desert Classic R2</sub-title>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/unli72.png?maxheight=213&amp;limit=b7db562417b0e39d7c06a8ce023c644092676764"/>
-  </programme>
-  <programme start="20250110001500 +0000" stop="20250110020000 +0000" channel="GRR">
-    <title lang="en">The Craft</title>
-    <rating system="ACB">
-      <value>MA15+</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/e350xb.jpg?maxheight=213&amp;limit=d021f0d0a759a1d387b0594d583e0119f8f74414"/>
-    <desc lang="en">Neve Campbell, Fairuza Balk and Robin Tunney star in this teen thriller about four private school misfits who form a coven to summon the dark forces they need to wreak havoc on their persecutors. Having just moved to Los Angeles, Sarah (Tunney) is an outsider at St. Benedict's Academy until she meets three other social outcasts. Nancy (Balk), Bonnie (ampbell) and Rochelle (Rachel True) will never fit in with the "in" crowd. Nancy, Bonnie and Rochelle dabble in the occult, and when they notice Sarah has the powers of a natural witch, they talk her into joining their coven. With the addition of a fourth witch they find they can cast spells they couldn't before, and the teenage witches are suddenly not only able to get the attention, praise and love they have long been denied, but also to exact vengeance on classmates, parents and boyfriends. They learn, however, that everything comes with a price. Support cast includes Skeet Ulrich and Rachel True.</desc>
-  </programme>
-  <programme start="20250110020000 +0000" stop="20250110033500 +0000" channel="GRR">
-    <title lang="en">Last Of His Tribe</title>
-    <desc lang="en">Ishi, the last Yahi Indian of California, must leave his homeland and learn to navigate the world of the white man in order to survive.</desc>
-    <rating system="ACB">
-      <value>MA15+</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store1/mount1/MO6/2021/I@108577.jpg?maxheight=213&amp;limit=3310dc8ca9ee422a6d5907b3d67427ba38bf6b60"/>
   </programme>
   <programme start="20250110033500 +0000" stop="20250110053500 +0000" channel="GRR">
     <title lang="en">Twister</title>
@@ -9221,39 +9106,6 @@
       <value>M</value>
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xqzejz.jpg?maxheight=213&amp;limit=508196b41f4e2c0e6e3ad181cc219349cbba4d2d"/>
-  </programme>
-  <programme start="20250110010500 +0000" stop="20250110020500 +0000" channel="LST">
-    <title lang="en">Selling Houses Australia</title>
-    <sub-title lang="en">Mulgrave VIC</sub-title>
-    <desc lang="en">Anand and his parents are ready to leave Melbourne and make the move to sunny Queensland to join their extended family. His 1970s house was passed at auction, so can the team help update its retro look and sell it?</desc>
-    <episode-num system="xmltv_ns">11.8.0/1</episode-num>
-    <episode-num system="onscreen">S12E09</episode-num>
-    <rating system="ACB">
-      <value>G</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/abjvc.jpg?maxheight=213&amp;limit=22df781da201dae1f8cf81f27202a7a4e4e29113"/>
-  </programme>
-  <programme start="20250110020500 +0000" stop="20250110030000 +0000" channel="LST">
-    <title lang="en">Escape to the Country</title>
-    <sub-title lang="en">Dorset</sub-title>
-    <desc lang="en">With a budget of 450,000 pounds, a married couple looking to uproot from Greater Manchester seek the help of Jules Hudson to find a new family home close to the coast in glorious Dorset.</desc>
-    <episode-num system="xmltv_ns">27.14.0/1</episode-num>
-    <episode-num system="onscreen">S28E15</episode-num>
-    <rating system="ACB">
-      <value>G</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8myjm.jpg?maxheight=213&amp;limit=ce4c9ef1f92f847ff7ae552b9f810a381ad2ba4f"/>
-  </programme>
-  <programme start="20250110030000 +0000" stop="20250110041000 +0000" channel="LST">
-    <title lang="en">Antiques Roadshow</title>
-    <sub-title lang="en">Morayshire 3</sub-title>
-    <desc lang="en">Treasures include a Faberge bracelet and the fleece of the sheep who changed the modern world of genetics, plus the technology that made Dolly the sheep possible.</desc>
-    <episode-num system="xmltv_ns">44.13.0/1</episode-num>
-    <episode-num system="onscreen">S45E14</episode-num>
-    <rating system="ACB">
-      <value>G</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/5pzsrn.jpg?maxheight=213&amp;limit=ba37df2665b831d63e6c357a600ca09bb2bae059"/>
   </programme>
   <programme start="20250110041000 +0000" stop="20250110050500 +0000" channel="LST">
     <title lang="en">Bargain Hunt</title>
@@ -11279,22 +11131,6 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8x3px.png?maxheight=213&amp;limit=77584e6f38e4d0aed5203391778f2a79af0e3333"/>
   </programme>
-  <programme start="20250110001500 +0000" stop="20250110022500 +0000" channel="MO6">
-    <title lang="en">Blow</title>
-    <rating system="ACB">
-      <value>MA15+</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/h8n37a.jpg?maxheight=213&amp;limit=56d2d7d06897de75051e7ae588c030cf90b96c5b"/>
-    <desc lang="en">George Jung is the son of Fred, a struggling small business owner. Seeing his family struggle to make ends meet and failing, George vows never to share a similar fate. Moving to California with his friend, Tuna, he finds success by selling marijuana in the 1960s, but ends up in prison for it. He then becomes extremely rich by working with Pablo Escabar by importing cocaine into America, but trouble escalates when the FBI are in pursuit.</desc>
-  </programme>
-  <programme start="20250110022500 +0000" stop="20250110042000 +0000" channel="MO6">
-    <title lang="en">Voyagers</title>
-    <rating system="ACB">
-      <value>MA15+</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/91pcg.jpg?maxheight=213&amp;limit=b967c4401ff201bda3d671365c5f529302a915a3"/>
-    <desc lang="en">With the future of the human race at stake, a group of young men and women, bred for intelligence and obedience, embark on an expedition to colonise a distant planet. When they uncover disturbing secrets about the mission, they defy their training and begin to explore their most primitive natures. As life on the ship descends into chaos, they soon become consumed by fear, lust and an insatiable hunger for power.</desc>
-  </programme>
   <programme start="20250110042000 +0000" stop="20250110065500 +0000" channel="MO6">
     <title lang="en">Contact (1997)</title>
     <desc lang="en">Astronomer Ellie Arroway is a scientist who finds evidence of extra-terrestrial life and is chosen to make first contact.</desc>
@@ -12053,22 +11889,6 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8nzz7.jpg?maxheight=213&amp;limit=cf4bd6fd8606e9dcd8ac8b54b59a8f70c2044168"/>
     <desc lang="en">A young boy rescues and raises three orphaned pelicans. But when he forms a close bond with them, he finds himself at odds with his fisherman father.</desc>
-  </programme>
-  <programme start="20250110002500 +0000" stop="20250110020000 +0000" channel="MVS">
-    <title lang="en">Shrek the Third</title>
-    <desc lang="en">Dad-to-be Shrek and his posse embark on a new, trouble-filled adventure, in search of their next king. Another fun family romp.</desc>
-    <rating system="ACB">
-      <value>PG</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/7ht20.jpg?maxheight=213&amp;limit=1d9f6407c8baf0192b40260a3d558d067e07de94"/>
-  </programme>
-  <programme start="20250110020000 +0000" stop="20250110035500 +0000" channel="MVS">
-    <title lang="en">Grease</title>
-    <rating system="ACB">
-      <value>PG</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store1/mount1/FBO/2014/I@079984.jpg?maxheight=213&amp;limit=c043996a79d06c01b121d75be57cadc7bf43b63e"/>
-    <desc lang="en">Things are really hoppin' at Rydell High when Danny discovers the object of his summer fling, Sandy, has moved to town and enrolled in his school.</desc>
   </programme>
   <programme start="20250110035500 +0000" stop="20250110060500 +0000" channel="MVS">
     <title lang="en">The Karate Kid (1984)</title>
@@ -12850,22 +12670,6 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/a6oiy.jpg?maxheight=213&amp;limit=61d69484e39d220b1ceaaa35d8fbd0674d77eeaf"/>
   </programme>
-  <programme start="20250109234500 +0000" stop="20250110015500 +0000" channel="SHA">
-    <title lang="en">The Accountant</title>
-    <desc lang="en">A math savant with more affinity for numbers than people works as a freelance accountant for some of the world's most dangerous criminal organisations.</desc>
-    <rating system="ACB">
-      <value>MA15+</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store1/mount1/FBO/2018/I@069189.jpg?maxheight=213&amp;limit=2b8e8bf262128138492e54d4ec8cdb2e7cedd1db"/>
-  </programme>
-  <programme start="20250110015500 +0000" stop="20250110035500 +0000" channel="SHA">
-    <title lang="en">Repo Men</title>
-    <desc lang="en">Set in the near future when artificial organs can be bought on credit, it revolves around a man who struggles to make the payments on a heart he has purchased.</desc>
-    <rating system="ACB">
-      <value>MA15+</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/mcblu0.jpg?maxheight=213&amp;limit=2fe6377deb983c068e4048771225776ae9f175a4"/>
-  </programme>
   <programme start="20250110035500 +0000" stop="20250110053000 +0000" channel="SHA">
     <title lang="en">Jurassic Park III</title>
     <rating system="ACB">
@@ -13606,50 +13410,6 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/ruvkbw.jpg?maxheight=213&amp;limit=41cea6553040cc4239d7a5f06606742f4f42e97c"/>
   </programme>
-  <programme start="20250110003500 +0000" stop="20250110013000 +0000" channel="SHC">
-    <title lang="en">Lockerbie: A Search For Truth</title>
-    <sub-title lang="en">Episode 3</sub-title>
-    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <rating system="ACB">
-      <value>M</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store1/mount1/SHC/2025/gkpa3e.jpg?maxheight=213&amp;limit=509fb8631ecd84302fd547a65d002595e68363dc"/>
-    <desc lang="en">After twelve long years, the Lockerbie trial finally begins. But as the trial unfolds, Jim gradually begins to question the official evidence against the suspects.</desc>
-  </programme>
-  <programme start="20250110013000 +0000" stop="20250110023000 +0000" channel="SHC">
-    <title lang="en">The Wire</title>
-    <sub-title lang="en">Lessons</sub-title>
-    <desc lang="en">McNulty gets the tag of a car driven by Stringer Bell from an unlikely source. Greggs and Carver bust a congressional aide toting a bag full of dirty cash, but are forced to let him go on orders from Burrell.</desc>
-    <episode-num system="xmltv_ns">0.7.0/1</episode-num>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <rating system="ACB">
-      <value>MA15+</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/aiblb.jpg?maxheight=213&amp;limit=b0b27f3ac53f121ec490fa2c04cd9ea2c5edb133"/>
-  </programme>
-  <programme start="20250110023000 +0000" stop="20250110033000 +0000" channel="SHC">
-    <title lang="en">The Wire</title>
-    <sub-title lang="en">Game Day</sub-title>
-    <desc lang="en">Barksdale finds himself playing an expensive game of one-upmanship with his east-side rival, Proposition Joe, for bragging rights in the Projects.</desc>
-    <episode-num system="xmltv_ns">0.8.0/1</episode-num>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <rating system="ACB">
-      <value>MA15+</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6oesv.jpg?maxheight=213&amp;limit=390e57a7d614419b9d24c89c6925a25a021199f3"/>
-  </programme>
-  <programme start="20250110033000 +0000" stop="20250110044000 +0000" channel="SHC">
-    <title lang="en">Lockerbie: A Search For Truth</title>
-    <sub-title lang="en">Episode 1</sub-title>
-    <desc lang="en">After losing his daughter in the bombing of Pan Am Flight 103, Dr Jim Swire begins a quest for truth, searching for why this was allowed to happen and exactly who was responsible.</desc>
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <rating system="ACB">
-      <value>M</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/e730up.jpg?maxheight=213&amp;limit=a1ad181318b6349f55a5820614aa83ff786fb737"/>
-  </programme>
   <programme start="20250110044000 +0000" stop="20250110054000 +0000" channel="SHC">
     <title lang="en">Lockerbie: A Search For Truth</title>
     <sub-title lang="en">Episode 2</sub-title>
@@ -13760,7 +13520,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7e470.jpg?maxheight=213&amp;limit=3c140d766046dc4536e5f3d3a27e5b74fa3b02f8"/>
   </programme>
-  <programme start="20250110125000 +0000" stop="20250110132500 +0000" channel="SHC">
+  <programme start="20250110125000 +0000" stop="20250110132000 +0000" channel="SHC">
     <title lang="en">Laid</title>
     <sub-title lang="en">Toby And Lindsey Are Here</sub-title>
     <episode-num system="xmltv_ns">0.6.0/1</episode-num>
@@ -13771,7 +13531,7 @@
     <icon src="https://images1.resources.foxtel.com.au/store1/mount1/SHC/2024/atya2x.jpg?maxheight=213&amp;limit=730a73c7121abb94e6819c558f172b523a60ffc1"/>
     <desc lang="en">Ruby, AJ and her coworker Brad, must track down the person who is responsible for what's happening and can undo all of it.</desc>
   </programme>
-  <programme start="20250110125000 +0000" stop="20250110132000 +0000" channel="SHC">
+  <programme start="20250110125000 +0000" stop="20250110132500 +0000" channel="SHC">
     <title lang="en">Laid</title>
     <sub-title lang="en">Toby And Lindsey Are Here</sub-title>
     <episode-num system="xmltv_ns">0.6.0/1</episode-num>
@@ -14529,6 +14289,17 @@
   </programme>
   <programme start="20250112190000 +0000" stop="20250112193000 +0000" channel="SHC">
     <title lang="en">Sex and the City</title>
+    <sub-title lang="en">The Agony And The Ex'tacy</sub-title>
+    <desc lang="en">While walking to Danny's engagement party the girls discuss how each one, at one time or another, had a sexual encounter with him, but now he seems to let his fiancee, Haley, do all the thinking.</desc>
+    <episode-num system="xmltv_ns">3.0.0/1</episode-num>
+    <episode-num system="onscreen">S04E01</episode-num>
+    <rating system="ACB">
+      <value>MA15+</value>
+    </rating>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/ba0z8.jpg?maxheight=213&amp;limit=320003d671e27f668e3030ab6cc7fad498c1c19c"/>
+  </programme>
+  <programme start="20250112193000 +0000" stop="20250112200000 +0000" channel="SHC">
+    <title lang="en">Sex and the City</title>
     <sub-title lang="en">The Real Me</sub-title>
     <desc lang="en">Samantha tells the girls that she's having nude photos taken of herself because the new diet she's on has her body in excellent shape.</desc>
     <episode-num system="xmltv_ns">3.1.0/1</episode-num>
@@ -14538,7 +14309,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/akxmz.jpg?maxheight=213&amp;limit=0208e44d322468d977ce77a2117247991c3ded7f"/>
   </programme>
-  <programme start="20250112193000 +0000" stop="20250112200000 +0000" channel="SHC">
+  <programme start="20250112200000 +0000" stop="20250112203000 +0000" channel="SHC">
     <title lang="en">Sex and the City</title>
     <sub-title lang="en">Defining Moments</sub-title>
     <desc lang="en">Carrie goes out on a date with Mr Big, still enjoying having fun with him; Charlotte and Trey go to a dinner party together, where he gets her in the coatroom and has sex with her.</desc>
@@ -14549,7 +14320,18 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/60vmu.jpg?maxheight=213&amp;limit=4e26917c481df5e837a55b98c239acb3fea4f958"/>
   </programme>
-  <programme start="20250112200000 +0000" stop="20250112210000 +0000" channel="SHC">
+  <programme start="20250112203000 +0000" stop="20250112204000 +0000" channel="SHC">
+    <title lang="en">Game Of Thrones: Behind The Scenes</title>
+    <sub-title lang="en">Inside The Series</sub-title>
+    <desc lang="en">The cast and crew of season one share the secrets from the set, and reveal how they create the world of Game of Thrones.</desc>
+    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <rating system="ACB">
+      <value>M</value>
+    </rating>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/8mthx.jpg?maxheight=213&amp;limit=c50fe33f451bc7fe820778b8bcc63fe3435ce626"/>
+  </programme>
+  <programme start="20250112204000 +0000" stop="20250112213000 +0000" channel="SHC">
     <title lang="en">The Sopranos</title>
     <sub-title lang="en">Nobody Knows Anything</sub-title>
     <desc lang="en">The Feds have an informant inside the family and Tony's unhappily sure he knows who it is. Livia feigns distress as Junior puts a contract out on Tony.</desc>
@@ -14560,7 +14342,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/a6yve.jpg?maxheight=213&amp;limit=6afeac71e9d0ea10c31e77d4348f10e893b997ea"/>
   </programme>
-  <programme start="20250112210000 +0000" stop="20250112220000 +0000" channel="SHC">
+  <programme start="20250112213000 +0000" stop="20250112222000 +0000" channel="SHC">
     <title lang="en">The Sopranos</title>
     <sub-title lang="en">Isabella</sub-title>
     <desc lang="en">Tony's enemies move against him while he's striking up a friendship with an Italian exchange student.</desc>
@@ -14571,7 +14353,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/870cr.jpg?maxheight=213&amp;limit=ae0799da7ad5d1de1914a6d250ee1f1cafc35a6d"/>
   </programme>
-  <programme start="20250112220000 +0000" stop="20250112230000 +0000" channel="SHC">
+  <programme start="20250112222000 +0000" stop="20250112232000 +0000" channel="SHC">
     <title lang="en">Taboo</title>
     <sub-title lang="en">Episode 5</sub-title>
     <desc lang="en">After a duel at dawn takes a surprising turn, James Delaney is blackmailed into a dangerous mission that finds him in a deadly race against time.</desc>
@@ -14582,7 +14364,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bbzml.jpg?maxheight=213&amp;limit=a4ec3f487762e93dd38f0bc52acb91cbd6496ee4"/>
   </programme>
-  <programme start="20250112230000 +0000" stop="20250113000000 +0000" channel="SHC">
+  <programme start="20250112232000 +0000" stop="20250113001000 +0000" channel="SHC">
     <title lang="en">Belgravia: The Next Chapter</title>
     <sub-title lang="en">Episode 8</sub-title>
     <desc lang="en">Frederick mourns Clara's loss, while Enright's letter compels him to face his past. Clara and Davison adjust to life in the North, with Clara reflecting on bittersweet memories of home.</desc>
@@ -14593,7 +14375,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/3eenyc.jpg?maxheight=213&amp;limit=8b3af0dee6736b7d1f569455eb07f7054654849e"/>
   </programme>
-  <programme start="20250113000000 +0000" stop="20250113010000 +0000" channel="SHC">
+  <programme start="20250113001000 +0000" stop="20250113011000 +0000" channel="SHC">
     <title lang="en">The White Lotus</title>
     <sub-title lang="en">Ciao</sub-title>
     <desc lang="en">A sharp social satire that follows the exploits of various employees and guests at an exclusive Sicilian resort over the span of a week. With each passing day, a darker side emerges.</desc>
@@ -14604,7 +14386,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/bnoqi.jpg?maxheight=213&amp;limit=4d045c6e3a3e6cf8c5bf5d0125666724edacaa35"/>
   </programme>
-  <programme start="20250113010000 +0000" stop="20250113020000 +0000" channel="SHC">
+  <programme start="20250113011000 +0000" stop="20250113020000 +0000" channel="SHC">
     <title lang="en">The Way Home</title>
     <sub-title lang="en">The Way We Were</sub-title>
     <desc lang="en">Each member of the Landry family meets challenges and new adventures as truths and revelations come to light.</desc>
@@ -14637,7 +14419,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/b186c.jpg?maxheight=213&amp;limit=54135a0932d45cddbe00fe89a819d542aedc879c"/>
   </programme>
-  <programme start="20250113040000 +0000" stop="20250113050000 +0000" channel="SHC">
+  <programme start="20250113040000 +0000" stop="20250113045500 +0000" channel="SHC">
     <title lang="en">Belgravia: The Next Chapter</title>
     <sub-title lang="en">Episode 8</sub-title>
     <desc lang="en">Frederick mourns Clara's loss, while Enright's letter compels him to face his past. Clara and Davison adjust to life in the North, with Clara reflecting on bittersweet memories of home.</desc>
@@ -14648,7 +14430,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/3eenyc.jpg?maxheight=213&amp;limit=8b3af0dee6736b7d1f569455eb07f7054654849e"/>
   </programme>
-  <programme start="20250113050000 +0000" stop="20250113060000 +0000" channel="SHC">
+  <programme start="20250113045500 +0000" stop="20250113060000 +0000" channel="SHC">
     <title lang="en">The White Lotus</title>
     <sub-title lang="en">Ciao</sub-title>
     <desc lang="en">A sharp social satire that follows the exploits of various employees and guests at an exclusive Sicilian resort over the span of a week. With each passing day, a darker side emerges.</desc>
@@ -14659,7 +14441,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/bnoqi.jpg?maxheight=213&amp;limit=4d045c6e3a3e6cf8c5bf5d0125666724edacaa35"/>
   </programme>
-  <programme start="20250113060000 +0000" stop="20250113070000 +0000" channel="SHC">
+  <programme start="20250113060000 +0000" stop="20250113065500 +0000" channel="SHC">
     <title lang="en">Fargo</title>
     <sub-title lang="en">The Tender Trap</sub-title>
     <desc lang="en">Lorraine calls things off; Gator asks questions; Wayne makes a surprising discovery; Indira offers a new perspective.</desc>
@@ -14670,7 +14452,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/9w5mv.jpg?maxheight=213&amp;limit=3defc2e6c08c89d23d3fbabc74e78cae0f1f84af"/>
   </programme>
-  <programme start="20250113070000 +0000" stop="20250113073000 +0000" channel="SHC">
+  <programme start="20250113065500 +0000" stop="20250113073000 +0000" channel="SHC">
     <title lang="en">The Righteous Gemstones</title>
     <sub-title lang="en">Now The Sons Of Eli Were Worthless Men</sub-title>
     <desc lang="en">Jealous of Kelvin's rising star, Judy seeks her moment in the spotlight under Baby Billy's tutelage. Jesse procures a key piece of evidence he hopes will lead to the blackmailers.</desc>
@@ -14703,7 +14485,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/beq46.jpg?maxheight=213&amp;limit=dfac50fb0c048b180f08391b4bb9813ee4425bda"/>
   </programme>
-  <programme start="20250113093000 +0000" stop="20250113103000 +0000" channel="SHC">
+  <programme start="20250113093000 +0000" stop="20250113103500 +0000" channel="SHC">
     <title lang="en">Lockerbie: A Search For Truth</title>
     <sub-title lang="en">Episode 3</sub-title>
     <desc lang="en">After twelve long years, the Lockerbie trial finally begins. But as the trial unfolds, Jim gradually begins to question the official evidence against the suspects.</desc>
@@ -14714,7 +14496,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store1/mount1/SHC/2025/gkpa3e.jpg?maxheight=213&amp;limit=509fb8631ecd84302fd547a65d002595e68363dc"/>
   </programme>
-  <programme start="20250113103000 +0000" stop="20250113113000 +0000" channel="SHC">
+  <programme start="20250113103500 +0000" stop="20250113114000 +0000" channel="SHC">
     <title lang="en">True Detective</title>
     <sub-title lang="en">The Long Bright Dark</sub-title>
     <desc lang="en">Martin Hart and Rustin Cohle lead Investigators in a macabre1995 Louisiana murder, while reliving the case and their partnership in the wake of new information.</desc>
@@ -14725,7 +14507,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/7mr5j.jpg?maxheight=213&amp;limit=e26827e64691d7a8d4ffd17289f7b9405cbe32e3"/>
   </programme>
-  <programme start="20250113113000 +0000" stop="20250113123000 +0000" channel="SHC">
+  <programme start="20250113114000 +0000" stop="20250113124000 +0000" channel="SHC">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Baelor</sub-title>
     <desc lang="en">With Sansa's life in danger, Ned makes a fateful decision and Catelyn brokers an unsavoury deal with the slippery Walder Frey. Robb wins his first major victory and captures a prized prisoner.</desc>
@@ -14736,29 +14518,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bc9k8.jpg?maxheight=213&amp;limit=af9ba75b4f102fe45f5aab7f14e9488c7cd84b05"/>
   </programme>
-  <programme start="20250113123000 +0000" stop="20250113133000 +0000" channel="SHC">
-    <title lang="en">Game of Thrones</title>
-    <sub-title lang="en">Fire And Blood</sub-title>
-    <desc lang="en">As tragic news spreads across the Seven Kingdoms, Bran and Rickon share a prophetic dream, Catelyn interrogates Jaime about her son's fall and Robb's destiny is forever changed.</desc>
-    <episode-num system="xmltv_ns">0.9.0/1</episode-num>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <rating system="ACB">
-      <value>MA15+</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/beq46.jpg?maxheight=213&amp;limit=dfac50fb0c048b180f08391b4bb9813ee4425bda"/>
-  </programme>
-  <programme start="20250113123000 +0000" stop="20250113130000 +0000" channel="SHC">
-    <title lang="en">Game of Thrones</title>
-    <sub-title lang="en">Fire And Blood</sub-title>
-    <desc lang="en">As tragic news spreads across the Seven Kingdoms, Bran and Rickon share a prophetic dream, Catelyn interrogates Jaime about her son's fall and Robb's destiny is forever changed.</desc>
-    <episode-num system="xmltv_ns">0.9.0/1</episode-num>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <rating system="ACB">
-      <value>MA15+</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/beq46.jpg?maxheight=213&amp;limit=dfac50fb0c048b180f08391b4bb9813ee4425bda"/>
-  </programme>
-  <programme start="20250113133000 +0000" stop="20250113143000 +0000" channel="SHC">
+  <programme start="20250113124000 +0000" stop="20250113134500 +0000" channel="SHC">
     <title lang="en">Lockerbie: A Search For Truth</title>
     <sub-title lang="en">Episode 3</sub-title>
     <desc lang="en">After twelve long years, the Lockerbie trial finally begins. But as the trial unfolds, Jim gradually begins to question the official evidence against the suspects.</desc>
@@ -14769,7 +14529,18 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store1/mount1/SHC/2025/gkpa3e.jpg?maxheight=213&amp;limit=509fb8631ecd84302fd547a65d002595e68363dc"/>
   </programme>
-  <programme start="20250113143000 +0000" stop="20250113153000 +0000" channel="SHC">
+  <programme start="20250113124000 +0000" stop="20250113131000 +0000" channel="SHC">
+    <title lang="en">Lockerbie: A Search For Truth</title>
+    <sub-title lang="en">Episode 3</sub-title>
+    <desc lang="en">After twelve long years, the Lockerbie trial finally begins. But as the trial unfolds, Jim gradually begins to question the official evidence against the suspects.</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <rating system="ACB">
+      <value>M</value>
+    </rating>
+    <icon src="https://images1.resources.foxtel.com.au/store1/mount1/SHC/2025/gkpa3e.jpg?maxheight=213&amp;limit=509fb8631ecd84302fd547a65d002595e68363dc"/>
+  </programme>
+  <programme start="20250113134500 +0000" stop="20250113144500 +0000" channel="SHC">
     <title lang="en">True Detective</title>
     <sub-title lang="en">The Long Bright Dark</sub-title>
     <desc lang="en">Martin Hart and Rustin Cohle lead Investigators in a macabre1995 Louisiana murder, while reliving the case and their partnership in the wake of new information.</desc>
@@ -14780,7 +14551,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/7mr5j.jpg?maxheight=213&amp;limit=e26827e64691d7a8d4ffd17289f7b9405cbe32e3"/>
   </programme>
-  <programme start="20250113153000 +0000" stop="20250113163000 +0000" channel="SHC">
+  <programme start="20250113144500 +0000" stop="20250113154000 +0000" channel="SHC">
     <title lang="en">Carnivale</title>
     <sub-title lang="en">Ok</sub-title>
     <desc lang="en">The night is still as Ben wanders through camp. Everywhere there is black ash. Venturing into Management's trailer, he tentatively pulls back the curtain, and a tattooed Brother Justin leaps out.</desc>
@@ -14791,7 +14562,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/9g0vy.jpg?maxheight=213&amp;limit=39c008c135e1d029ea776a82b99b18a2ca5bd140"/>
   </programme>
-  <programme start="20250113163000 +0000" stop="20250113173000 +0000" channel="SHC">
+  <programme start="20250113154000 +0000" stop="20250113164000 +0000" channel="SHC">
     <title lang="en">The Newsroom</title>
     <sub-title lang="en">I'll Try To Fix You</sub-title>
     <desc lang="en">A New Year's Eve confrontation lands Will in the tabloids. Against Reese's wishes, Will refuses to follow the media rumour mill and make a call on a breaking story.</desc>
@@ -14802,7 +14573,18 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/685gz.jpg?maxheight=213&amp;limit=e905ce60667743ba7182b78b3d5e577b8498d9e5"/>
   </programme>
-  <programme start="20250113173000 +0000" stop="20250113180000 +0000" channel="SHC">
+  <programme start="20250113164000 +0000" stop="20250113171500 +0000" channel="SHC">
+    <title lang="en">Silicon Valley</title>
+    <sub-title lang="en">Russfest</sub-title>
+    <desc lang="en">Richard, Dinesh, Gilfoyle and Jared face their greatest challenge yet as a massive event tests PiperNet's capabilities, while Laurie's unexpected presence makes them wary of sabotage.</desc>
+    <episode-num system="xmltv_ns">5.5.0/1</episode-num>
+    <episode-num system="onscreen">S06E06</episode-num>
+    <rating system="ACB">
+      <value>M</value>
+    </rating>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/7hdel.jpg?maxheight=213&amp;limit=4eb5601458aaf687bffeec4f487e127756a4d884"/>
+  </programme>
+  <programme start="20250113171500 +0000" stop="20250113180000 +0000" channel="SHC">
     <title lang="en">Silicon Valley</title>
     <sub-title lang="en">Exit Event</sub-title>
     <desc lang="en">Richard and the Pied Piper guys finally see the fruits of their labour, but realise that a bigger company means much bigger problems.</desc>
@@ -14835,7 +14617,18 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store1/mount1/SHC/2023/I@083595_L.jpg?maxheight=213&amp;limit=f374850d1b56ff36dce2383492bc5b8cce76be8c"/>
   </programme>
-  <programme start="20250113190000 +0000" stop="20250113193000 +0000" channel="SHC">
+  <programme start="20250113190000 +0000" stop="20250113191000 +0000" channel="SHC">
+    <title lang="en">Game Of Thrones: Behind The Scenes</title>
+    <sub-title lang="en">Inside The Series</sub-title>
+    <desc lang="en">The cast and crew of season one share the secrets from the set, and reveal how they create the world of Game of Thrones.</desc>
+    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <rating system="ACB">
+      <value>M</value>
+    </rating>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/8mthx.jpg?maxheight=213&amp;limit=c50fe33f451bc7fe820778b8bcc63fe3435ce626"/>
+  </programme>
+  <programme start="20250113191000 +0000" stop="20250113194000 +0000" channel="SHC">
     <title lang="en">Sex and the City</title>
     <sub-title lang="en">What's Sex Got To Do With It</sub-title>
     <desc lang="en">Ray wants Carrie to listen to a jazz CD with him and she finally tells him that she doesn't like jazz. He gets close to her and seduces her into liking the music.</desc>
@@ -14846,7 +14639,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/8d3q9.jpg?maxheight=213&amp;limit=8d85fe97ec73fcb166a3da7e83acdc1058b88f62"/>
   </programme>
-  <programme start="20250113193000 +0000" stop="20250113200000 +0000" channel="SHC">
+  <programme start="20250113194000 +0000" stop="20250113201000 +0000" channel="SHC">
     <title lang="en">Sex and the City</title>
     <sub-title lang="en">Ghost Town</sub-title>
     <desc lang="en">Miranda bumps into Steve and his current girlfriend, Jessica. He invites her to the opening of his new bar.</desc>
@@ -14857,7 +14650,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/9fpru.jpg?maxheight=213&amp;limit=ab23ab94e93ad44d41824cc956c8f616e34d3f3f"/>
   </programme>
-  <programme start="20250113200000 +0000" stop="20250113210000 +0000" channel="SHC">
+  <programme start="20250113201000 +0000" stop="20250113211000 +0000" channel="SHC">
     <title lang="en">The Sopranos</title>
     <sub-title lang="en">I Dream Of Jeannie Cusamano</sub-title>
     <desc lang="en">As the Feds close in, mobsters go to jail and informants get killed. Tony learns of Junior and Livia's betrayal and warns Dr Melfi to leave town.</desc>
@@ -14868,7 +14661,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6ht8r.jpg?maxheight=213&amp;limit=e32c8e55908318b3db47fd8ad6b9b91f6173804a"/>
   </programme>
-  <programme start="20250113210000 +0000" stop="20250113220000 +0000" channel="SHC">
+  <programme start="20250113211000 +0000" stop="20250113220000 +0000" channel="SHC">
     <title lang="en">The Sopranos</title>
     <sub-title lang="en">Guy Walks Into A Psychiatrist's Office...</sub-title>
     <desc lang="en">Big P**** returns for a tense reunion with Tony. Tony's sister Janice comes to town, and Chris takes over an internet stock scam.</desc>
@@ -14879,18 +14672,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/barmr.jpg?maxheight=213&amp;limit=f93be5ea27a84efca483b3d894a9f945ccdf6321"/>
   </programme>
-  <programme start="20250113220000 +0000" stop="20250113230000 +0000" channel="SHC">
-    <title lang="en">Game of Thrones</title>
-    <sub-title lang="en">Baelor</sub-title>
-    <desc lang="en">With Sansa's life in danger, Ned makes a fateful decision and Catelyn brokers an unsavoury deal with the slippery Walder Frey. Robb wins his first major victory and captures a prized prisoner.</desc>
-    <episode-num system="xmltv_ns">0.8.0/1</episode-num>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <rating system="ACB">
-      <value>MA15+</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bc9k8.jpg?maxheight=213&amp;limit=af9ba75b4f102fe45f5aab7f14e9488c7cd84b05"/>
-  </programme>
-  <programme start="20250113230000 +0000" stop="20250114000000 +0000" channel="SHC">
+  <programme start="20250113220000 +0000" stop="20250113225500 +0000" channel="SHC">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Fire And Blood</sub-title>
     <desc lang="en">As tragic news spreads across the Seven Kingdoms, Bran and Rickon share a prophetic dream, Catelyn interrogates Jaime about her son's fall and Robb's destiny is forever changed.</desc>
@@ -14901,7 +14683,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/beq46.jpg?maxheight=213&amp;limit=dfac50fb0c048b180f08391b4bb9813ee4425bda"/>
   </programme>
-  <programme start="20250114000000 +0000" stop="20250114010000 +0000" channel="SHC">
+  <programme start="20250113225500 +0000" stop="20250113235500 +0000" channel="SHC">
     <title lang="en">True Detective</title>
     <sub-title lang="en">The Long Bright Dark</sub-title>
     <desc lang="en">Martin Hart and Rustin Cohle lead Investigators in a macabre1995 Louisiana murder, while reliving the case and their partnership in the wake of new information.</desc>
@@ -14912,7 +14694,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/7mr5j.jpg?maxheight=213&amp;limit=e26827e64691d7a8d4ffd17289f7b9405cbe32e3"/>
   </programme>
-  <programme start="20250114010000 +0000" stop="20250114020000 +0000" channel="SHC">
+  <programme start="20250113235500 +0000" stop="20250114005500 +0000" channel="SHC">
     <title lang="en">Lockerbie: A Search For Truth</title>
     <sub-title lang="en">Episode 3</sub-title>
     <desc lang="en">After twelve long years, the Lockerbie trial finally begins. But as the trial unfolds, Jim gradually begins to question the official evidence against the suspects.</desc>
@@ -14923,7 +14705,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store1/mount1/SHC/2025/gkpa3e.jpg?maxheight=213&amp;limit=509fb8631ecd84302fd547a65d002595e68363dc"/>
   </programme>
-  <programme start="20250114020000 +0000" stop="20250114030000 +0000" channel="SHC">
+  <programme start="20250114005500 +0000" stop="20250114015500 +0000" channel="SHC">
     <title lang="en">The Wire</title>
     <sub-title lang="en">Cleaning Up</sub-title>
     <desc lang="en">Wallace returns to the projects from his shore sabbatical, Bodie gets some new responsibilities from Stringer, Freamon gives Shardene a "new look" and D'Angelo goes to NYC on an errand for his uncle.</desc>
@@ -14934,7 +14716,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/923o5.jpg?maxheight=213&amp;limit=34e649fa025945f381e6ae90eed1ec71cbb17454"/>
   </programme>
-  <programme start="20250114030000 +0000" stop="20250114040000 +0000" channel="SHC">
+  <programme start="20250114015500 +0000" stop="20250114030500 +0000" channel="SHC">
     <title lang="en">The Wire</title>
     <sub-title lang="en">Sentencing</sub-title>
     <desc lang="en">Every crew has weak links - including Avon Barksdale's. With the heat turned up in the high-rises, Daniels and McNulty turn to a higher authority in an effort to crack the case wide open.</desc>
@@ -14945,7 +14727,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7pja9.jpg?maxheight=213&amp;limit=ddb51b09495e75a7d86b447251e71d689253909b"/>
   </programme>
-  <programme start="20250114040000 +0000" stop="20250114043000 +0000" channel="SHC">
+  <programme start="20250114030500 +0000" stop="20250114034000 +0000" channel="SHC">
     <title lang="en">Sex and the City</title>
     <sub-title lang="en">What's Sex Got To Do With It</sub-title>
     <desc lang="en">Ray wants Carrie to listen to a jazz CD with him and she finally tells him that she doesn't like jazz. He gets close to her and seduces her into liking the music.</desc>
@@ -14956,7 +14738,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/8d3q9.jpg?maxheight=213&amp;limit=8d85fe97ec73fcb166a3da7e83acdc1058b88f62"/>
   </programme>
-  <programme start="20250114043000 +0000" stop="20250114050000 +0000" channel="SHC">
+  <programme start="20250114034000 +0000" stop="20250114041500 +0000" channel="SHC">
     <title lang="en">Sex and the City</title>
     <sub-title lang="en">Ghost Town</sub-title>
     <desc lang="en">Miranda bumps into Steve and his current girlfriend, Jessica. He invites her to the opening of his new bar.</desc>
@@ -14967,7 +14749,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/9fpru.jpg?maxheight=213&amp;limit=ab23ab94e93ad44d41824cc956c8f616e34d3f3f"/>
   </programme>
-  <programme start="20250114050000 +0000" stop="20250114060000 +0000" channel="SHC">
+  <programme start="20250114041500 +0000" stop="20250114052000 +0000" channel="SHC">
     <title lang="en">True Detective</title>
     <sub-title lang="en">The Long Bright Dark</sub-title>
     <desc lang="en">Martin Hart and Rustin Cohle lead Investigators in a macabre1995 Louisiana murder, while reliving the case and their partnership in the wake of new information.</desc>
@@ -14978,7 +14760,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/7mr5j.jpg?maxheight=213&amp;limit=e26827e64691d7a8d4ffd17289f7b9405cbe32e3"/>
   </programme>
-  <programme start="20250114060000 +0000" stop="20250114070000 +0000" channel="SHC">
+  <programme start="20250114052000 +0000" stop="20250114062500 +0000" channel="SHC">
     <title lang="en">Lockerbie: A Search For Truth</title>
     <sub-title lang="en">Episode 3</sub-title>
     <desc lang="en">After twelve long years, the Lockerbie trial finally begins. But as the trial unfolds, Jim gradually begins to question the official evidence against the suspects.</desc>
@@ -14989,7 +14771,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store1/mount1/SHC/2025/gkpa3e.jpg?maxheight=213&amp;limit=509fb8631ecd84302fd547a65d002595e68363dc"/>
   </programme>
-  <programme start="20250114070000 +0000" stop="20250114073000 +0000" channel="SHC">
+  <programme start="20250114062500 +0000" stop="20250114070500 +0000" channel="SHC">
     <title lang="en">The Righteous Gemstones</title>
     <sub-title lang="en">And Yet One Of You Is A Devil</sub-title>
     <desc lang="en">Eli informs the Gemstone kids of their roles for their Easter service, as Judy's relationship with BJ falters.</desc>
@@ -15000,7 +14782,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/8iw5p.jpg?maxheight=213&amp;limit=15a9befe45a34954cfe33bf53b36193523b5e767"/>
   </programme>
-  <programme start="20250114073000 +0000" stop="20250114083000 +0000" channel="SHC">
+  <programme start="20250114070500 +0000" stop="20250114080500 +0000" channel="SHC">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The North Remembers</sub-title>
     <desc lang="en">As Robb Stark and his northern army continue the war against the Lannisters, Tyrion arrives in King's Landing to counsel Joffrey and temper the young king's excesses.</desc>
@@ -15011,7 +14793,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/6t71a.jpg?maxheight=213&amp;limit=ae75d34106a34c45bde99b1bffbfd40148aa0721"/>
   </programme>
-  <programme start="20250114083000 +0000" stop="20250114093000 +0000" channel="SHC">
+  <programme start="20250114080500 +0000" stop="20250114093000 +0000" channel="SHC">
     <title lang="en">The White Lotus</title>
     <sub-title lang="en">Arrivederci</sub-title>
     <desc lang="en">Hoping to help Lucia, Albie asks Dominic for a karmic payment. With Portia still unreachable, Tanya grows increasingly wary of Quentin's motives.</desc>
@@ -15055,7 +14837,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/6t71a.jpg?maxheight=213&amp;limit=ae75d34106a34c45bde99b1bffbfd40148aa0721"/>
   </programme>
-  <programme start="20250114123000 +0000" stop="20250114133000 +0000" channel="SHC">
+  <programme start="20250114123000 +0000" stop="20250114130000 +0000" channel="SHC">
     <title lang="en">The White Lotus</title>
     <sub-title lang="en">Arrivederci</sub-title>
     <desc lang="en">Hoping to help Lucia, Albie asks Dominic for a karmic payment. With Portia still unreachable, Tanya grows increasingly wary of Quentin's motives.</desc>
@@ -15066,7 +14848,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/662mz.jpg?maxheight=213&amp;limit=d51db5bf2122230e264d5db6560ad9cf9cb30192"/>
   </programme>
-  <programme start="20250114123000 +0000" stop="20250114130000 +0000" channel="SHC">
+  <programme start="20250114123000 +0000" stop="20250114133000 +0000" channel="SHC">
     <title lang="en">The White Lotus</title>
     <sub-title lang="en">Arrivederci</sub-title>
     <desc lang="en">Hoping to help Lucia, Albie asks Dominic for a karmic payment. With Portia still unreachable, Tanya grows increasingly wary of Quentin's motives.</desc>
@@ -16067,22 +15849,6 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/9v2p9.jpg?maxheight=213&amp;limit=bb5ffb0f0cb206aab96f2cca6c5327b10946abf6"/>
   </programme>
-  <programme start="20250109234500 +0000" stop="20250110014500 +0000" channel="SHD">
-    <title lang="en">The High Note</title>
-    <desc lang="en">Set in the dazzling world of the LA music scene comes the story of Grace Davis, a superstar whose talent, and ego, have reached unbelievable heights.</desc>
-    <rating system="ACB">
-      <value>M</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store1/mount1/SHO/2021/I@112546.jpg?maxheight=213&amp;limit=2464b3189b81f100e8977310e5e7ef9a20fa8f93"/>
-  </programme>
-  <programme start="20250110014500 +0000" stop="20250110035000 +0000" channel="SHD">
-    <title lang="en">Crazy Rich Asians</title>
-    <rating system="ACB">
-      <value>M</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store1/mount1/FBO/2019/I@101681.jpg?maxheight=213&amp;limit=13357d97e062e45ab09cb1f175e5494dbba98b86"/>
-    <desc lang="en">Crazy Rich Asians follows native New Yorker Rachel Chu (Constance Wu) as she accompanies her longtime boyfriend, Nick Young (Henry Golding), to his best friend's wedding in Singapore. Excited about visiting Asia for the first time but nervous about meeting Nick's family, Rachel is unprepared to learn that Nick has neglected to mention a few key details about his life. It turns out that he is not only the scion of one of the country's wealthiest families but also one of its most sought-after bachelors. Being on Nick's arm puts a target on Rachel's back, with jealous socialites and, worse, Nick's own disapproving mother (Michelle Yeoh) taking aim. And it soon becomes clear that while money can't buy love, it can definitely complicate things.</desc>
-  </programme>
   <programme start="20250110035000 +0000" stop="20250110053500 +0000" channel="SHD">
     <title lang="en">Joy Ride</title>
     <rating system="ACB">
@@ -16755,7 +16521,7 @@
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/u5tok0.jpg?maxheight=213&amp;limit=bba6470a79a5c60e624fe19233c397ec7a13371a"/>
     <desc lang="en">Korea. Childhood friends Nora and Hae Sung are torn apart after Nora's family emigrates from South Korea. Two decades later, they reunite in New York for one fateful week as they confront notions of destiny, love, and the choices that make a life.</desc>
   </programme>
-  <programme start="20250116112500 +0000" stop="20250116130500 +0000" channel="SHD">
+  <programme start="20250116112500 +0000" stop="20250116115500 +0000" channel="SHD">
     <title lang="en">The First Wives Club</title>
     <rating system="ACB">
       <value>PG</value>
@@ -16763,7 +16529,7 @@
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/aqa4x.jpg?maxheight=213&amp;limit=aa2af3cb8bab94490542ee2a5d2f62c11572065a"/>
     <desc lang="en">Join Diane Keaton, Bette Midler and Goldie Hawn in this sinfully satisfying revenge romp about a trio of first wives who team up to teach their lying, cheating ex-husbands a lesson. Ivana Trump's galvanising cameo - 'don't get mad, dahlinks, get everytink' - sets the scene in a comedy that hinges on the self-mockery of its ageless stars. Midler's ball-busting shtick, Keaton's ditsy vulnerability and Hawn's eternal youth are just light-hearted grist for the mill of female friendship as a serious source of strength.</desc>
   </programme>
-  <programme start="20250116112500 +0000" stop="20250116115500 +0000" channel="SHD">
+  <programme start="20250116112500 +0000" stop="20250116130500 +0000" channel="SHD">
     <title lang="en">The First Wives Club</title>
     <rating system="ACB">
       <value>PG</value>
@@ -16874,22 +16640,6 @@
       <value>M</value>
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store1/mount1/FBO/2020/I@106502.jpg?maxheight=213&amp;limit=fc345e9892803c46a5ad264df15d4b40cda05c6a"/>
-  </programme>
-  <programme start="20250110013000 +0000" stop="20250110031000 +0000" channel="SHF">
-    <title lang="en">A Dog's Way Home</title>
-    <rating system="ACB">
-      <value>PG</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store1/mount1/SHF/2019/I@099585.jpg?maxheight=213&amp;limit=9bbc3a02b51dafd26ced8d266e6e6bc82020a6e4"/>
-    <desc lang="en">The heartwarming adventure of Bella, a dog who embarks on an epic 644km journey home after she is separated from her beloved human.</desc>
-  </programme>
-  <programme start="20250110031000 +0000" stop="20250110044000 +0000" channel="SHF">
-    <title lang="en">Spirit Untamed</title>
-    <rating system="ACB">
-      <value>G</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/amj32.jpg?maxheight=213&amp;limit=f0571811e05f882df852ffca11392f12f3ada93f"/>
-    <desc lang="en">The next chapter in this beloved franchise begins as a young girl finds a connection to her mother's legacy as a trick rider and forms a bond with a wild mustang named Spirit.</desc>
   </programme>
   <programme start="20250110044000 +0000" stop="20250110053000 +0000" channel="SHF">
     <title lang="en">PAW Patrol: Mighty Pups</title>
@@ -17848,14 +17598,6 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/7om77.jpg?maxheight=213&amp;limit=9385513239fdf2d64add86279b3ddaa3ecc34493"/>
   </programme>
-  <programme start="20250110002500 +0000" stop="20250110032000 +0000" channel="SHO">
-    <title lang="en">Dune: Part Two</title>
-    <rating system="ACB">
-      <value>M</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/wqy8s.jpg?maxheight=213&amp;limit=571ca927ab75de779f724def6fb25fcd8afd2215"/>
-    <desc lang="en">Dune: Part Two will explore the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, he endeavors to prevent a terrible future only he can foresee.</desc>
-  </programme>
   <programme start="20250110032000 +0000" stop="20250110055000 +0000" channel="SHO">
     <title lang="en">The Color Purple (2023)</title>
     <rating system="ACB">
@@ -18660,22 +18402,6 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7yqld9.jpg?maxheight=213&amp;limit=029f29318501fff716ae388d3c0e72284b6c1201"/>
     <desc lang="en">The Spenglers return to the New York City firehouse where the original Ghostbusters have taken ghost-busting to the next level. When the discovery of an ancient artefact unleashes an evil force, Ghostbusters new and old must unite to save the world.</desc>
-  </programme>
-  <programme start="20250110010500 +0000" stop="20250110024000 +0000" channel="SHY">
-    <title lang="en">Best in Show</title>
-    <rating system="ACB">
-      <value>PG</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/dksm36.jpg?maxheight=213&amp;limit=76a5c1a57dcd917c29337f3159b71dcd930f2b3c"/>
-    <desc lang="en">This hilarious mockumentary follows a colourful and diverse bunch of dog owners who travel to and compete in a prestigious national dog show.</desc>
-  </programme>
-  <programme start="20250110024000 +0000" stop="20250110041500 +0000" channel="SHY">
-    <title lang="en">Little Nicky</title>
-    <rating system="ACB">
-      <value>M</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/7sog8.jpg?maxheight=213&amp;limit=3cf204c46174ecdeca3e50e323bdb9f6395fd436"/>
-    <desc lang="en">When Satan reneges on his plans to retire, two of his three heirs leave Hell for New York City to gather enough souls to vote the Prince of Darkness out of office. But Satan sends his youngest and nicest son, Little Nicky, to bring his two treacherous brothers home.</desc>
   </programme>
   <programme start="20250110041500 +0000" stop="20250110055000 +0000" channel="SHY">
     <title lang="en">For Richer, for Poorer</title>
@@ -19605,14 +19331,6 @@
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/8z7om.jpg?maxheight=213&amp;limit=08bb5cc78296db9fa2b8897a07ad5617b1457ab0"/>
     <desc lang="en">Life flips over for a small-town pizzeria owner and poet who inherits $40 billion. Sleazy moguls come to whisk him and his money away to corporate America.</desc>
   </programme>
-  <programme start="20250110011000 +0000" stop="20250110030500 +0000" channel="TRS">
-    <title lang="en">Friday Night Lights</title>
-    <rating system="ACB">
-      <value>PG</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store1/mount1/FBO/2013/I@034571.jpg?maxheight=213&amp;limit=237c7c48700523f9bf3a1810c88b8b8eb678fadc"/>
-    <desc lang="en">A besieged high school football coach works with a losing team in a Texan town where winning is everything. The true story of the 1988 Permian Panthers, the most successful team in state history, whose players all but buckle under the pressure of their needy fans. The unique power of this film lies in asking as many questions of a sports-mad culture as it answers.</desc>
-  </programme>
   <programme start="20250110030500 +0000" stop="20250110050500 +0000" channel="TRS">
     <title lang="en">Jason Bourne</title>
     <rating system="ACB">
@@ -19972,7 +19690,7 @@
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/o1jx5n.jpg?maxheight=213&amp;limit=8c212ecad47826a57625c28d66b8c8c4b7ea8c8c"/>
     <desc lang="en">Adapted from the bestselling novel by Madeleine St John, Ladies In Black is an alluring and tender-hearted comedy drama about the lives of a group of department store employees in 1959 Sydney.</desc>
   </programme>
-  <programme start="20250113111500 +0000" stop="20250113134000 +0000" channel="TRS">
+  <programme start="20250113111500 +0000" stop="20250113114500 +0000" channel="TRS">
     <title lang="en">The Da Vinci Code</title>
     <desc lang="en">A Harvard professor implicated in a murder must unravel an ancient code to expose the greatest conspiracy in history.</desc>
     <rating system="ACB">
@@ -19980,7 +19698,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/bi8dq.jpg?maxheight=213&amp;limit=9f6afbdb7a2ed094f5a745b4294bafd218b1014f"/>
   </programme>
-  <programme start="20250113111500 +0000" stop="20250113114500 +0000" channel="TRS">
+  <programme start="20250113111500 +0000" stop="20250113134000 +0000" channel="TRS">
     <title lang="en">The Da Vinci Code</title>
     <desc lang="en">A Harvard professor implicated in a murder must unravel an ancient code to expose the greatest conspiracy in history.</desc>
     <rating system="ACB">
@@ -20204,7 +19922,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/ilapsa.jpg?maxheight=213&amp;limit=84b3ad4978785079da635b94bed02af759719cd5"/>
   </programme>
-  <programme start="20250115125000 +0000" stop="20250115150500 +0000" channel="TRS">
+  <programme start="20250115125000 +0000" stop="20250115132000 +0000" channel="TRS">
     <title lang="en">Manchester by the Sea</title>
     <rating system="ACB">
       <value>MA15+</value>
@@ -20212,7 +19930,7 @@
     <icon src="https://images1.resources.foxtel.com.au/store1/mount1/MO6/2021/I@076026.jpg?maxheight=213&amp;limit=80cd55cdc1447f89b7b2334216765df1489883ef"/>
     <desc lang="en">This film tells the story of the Chandlers, a working-class family from Massachusetts. After Lee's older brother, Joe, suddenly passes away, he is made the legal guardian of his nephew. Lee is forced to deal with a tragic past that separated him from his wife, Randi, and the community where he was born and raised.</desc>
   </programme>
-  <programme start="20250115125000 +0000" stop="20250115132000 +0000" channel="TRS">
+  <programme start="20250115125000 +0000" stop="20250115150500 +0000" channel="TRS">
     <title lang="en">Manchester by the Sea</title>
     <rating system="ACB">
       <value>MA15+</value>
