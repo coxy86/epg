@@ -64,17 +64,6 @@
     <display-name>Movies Summer</display-name>
     <url>https://foxtel.com.au</url>
   </channel>
-  <programme start="20250124024500 +0000" stop="20250124035000 +0000" channel="BXS">
-    <title lang="en">The Undoing</title>
-    <sub-title lang="en">Trial By Fury</sub-title>
-    <desc lang="en">On the first day of the trial, the prosecution presents shocking evidence, while the defence casts doubt on the police investigation. Later, Henry divulges a secret to Grace.</desc>
-    <episode-num system="xmltv_ns">0.4.0/1</episode-num>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <rating system="ACB">
-      <value>MA15+</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/8fxfv.jpg?maxheight=213&amp;limit=9a29a583c060cca460a0feac9daaea0881031995"/>
-  </programme>
   <programme start="20250124035000 +0000" stop="20250124050000 +0000" channel="BXS">
     <title lang="en">The Undoing</title>
     <sub-title lang="en">The Bloody Truth</sub-title>
@@ -2249,12 +2238,6 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8nb7l.jpg?maxheight=213&amp;limit=0d8e1a30534423cbdd0f2f88c5319d51930b356a"/>
   </programme>
-  <programme start="20250124010000 +0000" stop="20250124033000 +0000" channel="FAF">
-    <title lang="en">Fox Footy Legends: Dyson Heppell</title>
-    <sub-title lang="en">2017 R1 Essendon v Hawthorn</sub-title>
-    <desc lang="en">Relive the best games and magic moments from the stars of our great game.</desc>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/x64yxy.png?maxheight=213&amp;limit=16213c1d8d3a8cb0b5caebae7d7f0192d95db981"/>
-  </programme>
   <programme start="20250124033000 +0000" stop="20250124053000 +0000" channel="FAF">
     <title lang="en">Best Games Ever: 2005 R3 SYD v BRI</title>
     <sub-title lang="en">2005 R3 SYD v BRI</sub-title>
@@ -3509,50 +3492,6 @@
     <sub-title lang="en">RND2 GC V CAR</sub-title>
     <desc lang="en">The AFLW heads to Mackay with Gold Coast and Carlton searching for their first wins in 2024 after disappointing Round 1 losses.</desc>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/njk8h8.png?maxheight=213&amp;limit=06c573e941d4cb59b788c3af371218b06f610b80"/>
-  </programme>
-  <programme start="20250124023000 +0000" stop="20250124030000 +0000" channel="FOX">
-    <title lang="en">Storage Wars</title>
-    <sub-title lang="en">Parasol Pals</sub-title>
-    <episode-num system="xmltv_ns">14.7.0/1</episode-num>
-    <episode-num system="onscreen">S15E08</episode-num>
-    <rating system="ACB">
-      <value>PG</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/s5erwu.jpg?maxheight=213&amp;limit=2a4110034a4f6b8a588ceae1c678b8634ebc42e8"/>
-    <desc lang="en">The sun is beating down in Oceanside, bringing out all the parasols. Dusty and Lupe steal a no-brainer locker and it pays off handsomely. Darrell taxes himself and it almost puts him in storage jail. Brandi and Lisa find their true identities and ultimately "re-cover" their investment.</desc>
-  </programme>
-  <programme start="20250124030000 +0000" stop="20250124033000 +0000" channel="FOX">
-    <title lang="en">Storage Wars</title>
-    <sub-title lang="en">The Way Of The Gam Gam</sub-title>
-    <desc lang="en">While in Santa Ana, Lisa channels her grandmother, in trying to turn a profit. Brandi is dealing with the most frustrating day ever. Darrell tries to make a meal out of a snack-sized locker.</desc>
-    <episode-num system="xmltv_ns">14.8.0/1</episode-num>
-    <episode-num system="onscreen">S15E09</episode-num>
-    <rating system="ACB">
-      <value>PG</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/i4j16u.jpg?maxheight=213&amp;limit=f5f0944bc4c02df9008c70ea3705f56169878275"/>
-  </programme>
-  <programme start="20250124033000 +0000" stop="20250124040000 +0000" channel="FOX">
-    <title lang="en">Car Crash TV</title>
-    <sub-title lang="en">Episode 20</sub-title>
-    <desc lang="en">Strictly Car Crashing, the Blame Game, Big Rigs, Pesky Pedestrians, and Weird and Wonderful moments. We celebrate nerve-wracking Near Misses.</desc>
-    <episode-num system="xmltv_ns">2.19.0/1</episode-num>
-    <episode-num system="onscreen">S03E20</episode-num>
-    <rating system="ACB">
-      <value>PG</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/s92ka0.jpg?maxheight=213&amp;limit=c05ce46a257f724e51533c9deb03b9104ecebba0"/>
-  </programme>
-  <programme start="20250124040000 +0000" stop="20250124043000 +0000" channel="FOX">
-    <title lang="en">Car Crash TV</title>
-    <sub-title lang="en">Episode 21</sub-title>
-    <desc lang="en">Spot Speeders, Junction Jerks, Watch Out There's A Lada About, and Tiny Dings. We play the Blame Game and Appetite for Deconstruction.</desc>
-    <episode-num system="xmltv_ns">2.20.0/1</episode-num>
-    <episode-num system="onscreen">S03E21</episode-num>
-    <rating system="ACB">
-      <value>PG</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/s92ka0.jpg?maxheight=213&amp;limit=c05ce46a257f724e51533c9deb03b9104ecebba0"/>
   </programme>
   <programme start="20250124043000 +0000" stop="20250124050000 +0000" channel="FOX">
     <title lang="en">Ridiculousness</title>
@@ -6639,12 +6578,6 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/9f526.jpg?maxheight=213&amp;limit=fa38ecd796e7d0b8aa1101e20362753ba828724d"/>
   </programme>
-  <programme start="20250124010000 +0000" stop="20250124042500 +0000" channel="FS1">
-    <title lang="en">Live: NZ Super Smash: Magicians v Blaze</title>
-    <sub-title lang="en">Magicians v Blaze</sub-title>
-    <desc lang="en">New Zealand's premier Twenty20 domestic competition sees men's and women's sides compete alongside each other for Super Smash glory.</desc>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xwkgki.png?maxheight=213&amp;limit=c90050c7c3712743c73dcb69b11f33c71a11ee00"/>
-  </programme>
   <programme start="20250124042500 +0000" stop="20250124044500 +0000" channel="FS1">
     <title lang="en">Best of: BBL14 G23 STA v REN</title>
     <sub-title lang="en">BBL14 G23 STA v REN</sub-title>
@@ -7659,18 +7592,6 @@
     <sub-title lang="en">IND v ENG</sub-title>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/ntgtuu.png?maxheight=213&amp;limit=0d24ca16794c3ebb1bac122965339a2de4357778"/>
   </programme>
-  <programme start="20250124020000 +0000" stop="20250124033000 +0000" channel="FS3">
-    <title lang="en">Golf: USPGA: Farmers Open R2</title>
-    <sub-title lang="en">Farmers Open R2</sub-title>
-    <desc lang="en">The Farmers Insurance Open continues as second round coverage begins from Torrey Pines.</desc>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/81na88.png?maxheight=213&amp;limit=c1bfa3b05f62cff74ccd54946f415b84ae1d2727"/>
-  </programme>
-  <programme start="20250124033000 +0000" stop="20250124040000 +0000" channel="FS3">
-    <title lang="en">Golf: Hero Challenge: Longest Putt</title>
-    <sub-title lang="en">Hero Challenge: Longest Putt</sub-title>
-    <desc lang="en">The Hero Challenge is back, as DP World Tour stars try to set a new Guinness World Records title for the 'Longest Golf Putt'.</desc>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=731a6313f1fe5e13a0b0ecef767d49083ed9387c"/>
-  </programme>
   <programme start="20250124040000 +0000" stop="20250124053000 +0000" channel="FS3">
     <title lang="en">Golf: Ras Al Khaimah C'ship R1</title>
     <sub-title lang="en">Ras Al Khaimah C'ship R1</sub-title>
@@ -7767,13 +7688,13 @@
     <desc lang="en">Third round action of the Ras Al Khaimah Championship begins from Al Hama Golf Club, UAE.</desc>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/svg4w0.png?maxheight=213&amp;limit=e63d6ac07809af21e8fd4397f97221a57ae188e1"/>
   </programme>
-  <programme start="20250125130000 +0000" stop="20250125133000 +0000" channel="FS3">
+  <programme start="20250125130000 +0000" stop="20250125150000 +0000" channel="FS3">
     <title lang="en">Golf: USPGA: WWT Championship FR</title>
     <sub-title lang="en">WWT Championship FR</sub-title>
     <desc lang="en">Final round action of the WWT Championship begins from the Tiger Woods-designed El Cardonal golf course, Mexico.</desc>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/4y6rgm.png?maxheight=213&amp;limit=dff6876fcbdc1eaf94b1f7c7862525c4ac93c460"/>
   </programme>
-  <programme start="20250125130000 +0000" stop="20250125150000 +0000" channel="FS3">
+  <programme start="20250125130000 +0000" stop="20250125133000 +0000" channel="FS3">
     <title lang="en">Golf: USPGA: WWT Championship FR</title>
     <sub-title lang="en">WWT Championship FR</sub-title>
     <desc lang="en">Final round action of the WWT Championship begins from the Tiger Woods-designed El Cardonal golf course, Mexico.</desc>
@@ -8453,14 +8374,6 @@
     <sub-title lang="en">Bahrain Championship Round 2</sub-title>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/artxaw.png?maxheight=213&amp;limit=1e932e4c615c34bb8590e973ef5e493bc0430214"/>
   </programme>
-  <programme start="20250124021500 +0000" stop="20250124041500 +0000" channel="GRR">
-    <title lang="en">The Goonies</title>
-    <desc lang="en">Following a mystery treasure map into a spectacular underground world, the Goonies fight a developer out to flatten their homes.</desc>
-    <rating system="ACB">
-      <value>PG</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/6hn8d.jpg?maxheight=213&amp;limit=222a7d082162cab6276cc3104f4c7271e4021508"/>
-  </programme>
   <programme start="20250124041500 +0000" stop="20250124054000 +0000" channel="GRR">
     <title lang="en">Look Who's Talking Too</title>
     <desc lang="en">In this sequel, Mikey, a wise-cracking toddler, meets his match when an unwelcome baby sister arrives.</desc>
@@ -8789,7 +8702,7 @@
     <icon src="https://images1.resources.foxtel.com.au/store1/mount1/FBO/2015/I@034525.jpg?maxheight=213&amp;limit=32b92d69d670df492e611c63af4b57d1f75fb416"/>
     <desc lang="en">Macho cop 'Dirty Harry' Callahan grudgingly takes on a female partner. San Francisco's mayor has been kidnapped and it's only a matter of time until the fatal showdown.</desc>
   </programme>
-  <programme start="20250127111000 +0000" stop="20250127130500 +0000" channel="GRR">
+  <programme start="20250127111000 +0000" stop="20250127114000 +0000" channel="GRR">
     <title lang="en">Sudden Impact</title>
     <desc lang="en">A victim of a savage rape exacts revenge on her aggressors.</desc>
     <rating system="ACB">
@@ -8797,7 +8710,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/90yga.jpg?maxheight=213&amp;limit=f9726e8457263fd7974e1533274c45b13fc89667"/>
   </programme>
-  <programme start="20250127111000 +0000" stop="20250127114000 +0000" channel="GRR">
+  <programme start="20250127111000 +0000" stop="20250127130500 +0000" channel="GRR">
     <title lang="en">Sudden Impact</title>
     <desc lang="en">A victim of a savage rape exacts revenge on her aggressors.</desc>
     <rating system="ACB">
@@ -9125,7 +9038,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/e350xb.jpg?maxheight=213&amp;limit=d021f0d0a759a1d387b0594d583e0119f8f74414"/>
   </programme>
-  <programme start="20250130130000 +0000" stop="20250130143000 +0000" channel="GRR">
+  <programme start="20250130130000 +0000" stop="20250130133000 +0000" channel="GRR">
     <title lang="en">Judgment</title>
     <desc lang="en">Fact-based story of a Louisiana priest accused of molesting young parishioners, and of the family of one of his victims, caught between their loyalty to their son and to their church.</desc>
     <rating system="ACB">
@@ -9133,7 +9046,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/7fxea.jpg?maxheight=213&amp;limit=2fc0a1026c0b6fc50e8d964cc5c8fb136bb1abfd"/>
   </programme>
-  <programme start="20250130130000 +0000" stop="20250130133000 +0000" channel="GRR">
+  <programme start="20250130130000 +0000" stop="20250130143000 +0000" channel="GRR">
     <title lang="en">Judgment</title>
     <desc lang="en">Fact-based story of a Louisiana priest accused of molesting young parishioners, and of the family of one of his victims, caught between their loyalty to their son and to their church.</desc>
     <rating system="ACB">
@@ -9236,17 +9149,6 @@
       <value>G</value>
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c1hh7q.jpg?maxheight=213&amp;limit=9ca390a0214df14623159b75096d581d81582afb"/>
-  </programme>
-  <programme start="20250124030000 +0000" stop="20250124041000 +0000" channel="LST">
-    <title lang="en">Antiques Roadshow</title>
-    <sub-title lang="en">Newby Hall 1</sub-title>
-    <desc lang="en">In Yorkshire, treasures include an intriguing letter from Lord Nelson politely replying to his optician just weeks before the Battle of Trafalgar, and an engagement ring picked up in a pawn shop.</desc>
-    <episode-num system="xmltv_ns">42.3.0/1</episode-num>
-    <episode-num system="onscreen">S43E04</episode-num>
-    <rating system="ACB">
-      <value>G</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/7b8b9.jpg?maxheight=213&amp;limit=31016c9c47f55b857d1706fad33656db84d7d96c"/>
   </programme>
   <programme start="20250124041000 +0000" stop="20250124050500 +0000" channel="LST">
     <title lang="en">Bargain Hunt</title>
@@ -11272,14 +11174,6 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7q444.png?maxheight=213&amp;limit=62e49dadbaa533973398f1a164ace727cb7113fe"/>
   </programme>
-  <programme start="20250124011000 +0000" stop="20250124033000 +0000" channel="MO6">
-    <title lang="en">Dear Evan Hansen</title>
-    <rating system="ACB">
-      <value>M</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/b844p.jpg?maxheight=213&amp;limit=8e90082c044415b04f676b8152a637cb6cdad9e6"/>
-    <desc lang="en">In this film adaptation of the Broadway phenomenon, Evan Hansen is an anxious, isolated high-schooler who aches for understanding and belonging amid the chaos and cruelty of the social media age.</desc>
-  </programme>
   <programme start="20250124033000 +0000" stop="20250124052000 +0000" channel="MO6">
     <title lang="en">Promised Land</title>
     <desc lang="en">A salesman for a natural gas company experiences life-changing events after arriving in a small town, where his corporation wants to tap into the available resources.</desc>
@@ -11928,7 +11822,7 @@
     <icon src="https://images1.resources.foxtel.com.au/store1/mount1/MO6/2021/I@076026.jpg?maxheight=213&amp;limit=80cd55cdc1447f89b7b2334216765df1489883ef"/>
     <desc lang="en">This film tells the story of the Chandlers, a working-class family from Massachusetts. After Lee's older brother, Joe, suddenly passes away, he is made the legal guardian of his nephew. Lee is forced to deal with a tragic past that separated him from his wife, Randi, and the community where he was born and raised.</desc>
   </programme>
-  <programme start="20250130115000 +0000" stop="20250130135500 +0000" channel="MO6">
+  <programme start="20250130115000 +0000" stop="20250130122000 +0000" channel="MO6">
     <title lang="en">Milk</title>
     <desc lang="en">Follows Harvey Milk's powerful journey to inspire hope for equal rights.</desc>
     <rating system="ACB">
@@ -11936,7 +11830,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7ghtz.jpg?maxheight=213&amp;limit=0d47585f81566887403eb4732f3d3e5d5cc0caa2"/>
   </programme>
-  <programme start="20250130115000 +0000" stop="20250130122000 +0000" channel="MO6">
+  <programme start="20250130115000 +0000" stop="20250130135500 +0000" channel="MO6">
     <title lang="en">Milk</title>
     <desc lang="en">Follows Harvey Milk's powerful journey to inspire hope for equal rights.</desc>
     <rating system="ACB">
@@ -12031,14 +11925,6 @@
       <value>MA15+</value>
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/alpjo.jpg?maxheight=213&amp;limit=8985b87458c53ecd01a697b1d55fde55ddb9db9f"/>
-  </programme>
-  <programme start="20250124030500 +0000" stop="20250124044500 +0000" channel="MVS">
-    <title lang="en">Strays</title>
-    <desc lang="en">After a fast-talking terrier shows a naive pup that his beloved owner is a dirtbag, the dogs embark on an epic adventure for revenge.</desc>
-    <rating system="ACB">
-      <value>MA15+</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/1zi49d.jpg?maxheight=213&amp;limit=5998d69636b188edd564d7454a1400ea9fe97863"/>
   </programme>
   <programme start="20250124044500 +0000" stop="20250124071500 +0000" channel="MVS">
     <title lang="en">Mulholland Drive</title>
@@ -12376,7 +12262,7 @@
     <icon src="https://images1.resources.foxtel.com.au/store1/mount1/FBO/2019/I@076884.jpg?maxheight=213&amp;limit=3a8936e03a487acf754d69d7ee1f5857336ff351"/>
     <desc lang="en">A system of satellites designed to protect the earth from natural disasters starts to malfunction, but who is responsible and can it be stopped?</desc>
   </programme>
-  <programme start="20250127112500 +0000" stop="20250127133200 +0000" channel="MVS">
+  <programme start="20250127112500 +0000" stop="20250127115500 +0000" channel="MVS">
     <title lang="en">21 Grams</title>
     <rating system="ACB">
       <value>MA15+</value>
@@ -12384,7 +12270,7 @@
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/60934r.jpg?maxheight=213&amp;limit=563699e7e0cb62be47bb3dc6dff60da17e489137"/>
     <desc lang="en">A college professor, an ex-con and a young mother are brought together by fate. Now vengeance will take them to the heights of love, the depths of revenge and the promise of redemption.</desc>
   </programme>
-  <programme start="20250127112500 +0000" stop="20250127115500 +0000" channel="MVS">
+  <programme start="20250127112500 +0000" stop="20250127133200 +0000" channel="MVS">
     <title lang="en">21 Grams</title>
     <rating system="ACB">
       <value>MA15+</value>
@@ -12703,7 +12589,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/7ewya.jpg?maxheight=213&amp;limit=25bb4ade564dba27636099039a548fd8e412b6d4"/>
   </programme>
-  <programme start="20250130113500 +0000" stop="20250130131500 +0000" channel="MVS">
+  <programme start="20250130113500 +0000" stop="20250130120500 +0000" channel="MVS">
     <title lang="en">Tag</title>
     <desc lang="en">Based on a true story. For one month every year, five highly competitive friends hit the ground running in a no-holds-barred game of tag they've been playing since the first grade.</desc>
     <rating system="ACB">
@@ -12711,7 +12597,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store1/mount1/SHY/2021/I@082650.jpg?maxheight=213&amp;limit=aaecdb9b4c811603ec4355825236a43f474dd362"/>
   </programme>
-  <programme start="20250130113500 +0000" stop="20250130120500 +0000" channel="MVS">
+  <programme start="20250130113500 +0000" stop="20250130131500 +0000" channel="MVS">
     <title lang="en">Tag</title>
     <desc lang="en">Based on a true story. For one month every year, five highly competitive friends hit the ground running in a no-holds-barred game of tag they've been playing since the first grade.</desc>
     <rating system="ACB">
@@ -13560,17 +13446,6 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store1/mount1/SHO/2021/I@112234.jpg?maxheight=213&amp;limit=ebf258cb2e28046243d99b96ba077581a54ac7f6"/>
   </programme>
-  <programme start="20250124031000 +0000" stop="20250124041500 +0000" channel="SHC">
-    <title lang="en">The Wire</title>
-    <sub-title lang="en">All Due Respect</sub-title>
-    <desc lang="en">Under orders from Stringer Bell, Bodie faces a critical test against Marlo, a fierce young dealer with lucrative corners near the now toppled Franklin Terrace towers.</desc>
-    <episode-num system="xmltv_ns">2.1.0/1</episode-num>
-    <episode-num system="onscreen">S03E02</episode-num>
-    <rating system="ACB">
-      <value>MA15+</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8j7nf.jpg?maxheight=213&amp;limit=c34ad56b3a10398b3baed810b1319feb09575931"/>
-  </programme>
   <programme start="20250124041500 +0000" stop="20250124050500 +0000" channel="SHC">
     <title lang="en">The Way Home</title>
     <sub-title lang="en">Live And Let Die</sub-title>
@@ -13681,7 +13556,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/bs4fq.jpg?maxheight=213&amp;limit=a78acc5ec60ceb1299b1d482af8e2215f5bad3b6"/>
   </programme>
-  <programme start="20250124125500 +0000" stop="20250124132500 +0000" channel="SHC">
+  <programme start="20250124125500 +0000" stop="20250124140000 +0000" channel="SHC">
     <title lang="en">C.B Strike</title>
     <sub-title lang="en">The: Part 1</sub-title>
     <desc lang="en">Edie Ledwell, the creator of a popular cartoon, is harassed by a shadowy online figure known as Anomie. She appeals to Robin to uncover her tormentor's identity.</desc>
@@ -13692,7 +13567,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/5uuvoy.jpg?maxheight=213&amp;limit=8371461b53a58fbd21b0c5c16d40a2b1f757b7c6"/>
   </programme>
-  <programme start="20250124125500 +0000" stop="20250124140000 +0000" channel="SHC">
+  <programme start="20250124125500 +0000" stop="20250124132500 +0000" channel="SHC">
     <title lang="en">C.B Strike</title>
     <sub-title lang="en">The: Part 1</sub-title>
     <desc lang="en">Edie Ledwell, the creator of a popular cartoon, is harassed by a shadowy online figure known as Anomie. She appeals to Robin to uncover her tormentor's identity.</desc>
@@ -14462,16 +14337,6 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/b0352.jpg?maxheight=213&amp;limit=a59bdb28b37acbd94e178fe63468315bb9ca3a98"/>
   </programme>
-  <programme start="20250126122000 +0000" stop="20250126131000 +0000" channel="SHC">
-    <title lang="en">The Way Home</title>
-    <sub-title lang="en">I'll Have To Say I Love You In A Song</sub-title>
-    <desc lang="en">Romance is top of mind as Alice, Kat and Del reflect on love in their past, present and future; Jacob struggles with his memories.</desc>
-    <episode-num system="xmltv_ns">2.3.0/1</episode-num>
-    <episode-num system="onscreen">S03E04</episode-num>
-    <rating system="ACB">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20250126122000 +0000" stop="20250126125000 +0000" channel="SHC">
     <title lang="en">The Way Home</title>
     <sub-title lang="en">I'll Have To Say I Love You In A Song</sub-title>
@@ -14482,6 +14347,16 @@
       <value>PG</value>
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8gze1.jpg?maxheight=213&amp;limit=b1a09d59f2f866d861a15bdd3802367573cd7572"/>
+  </programme>
+  <programme start="20250126122000 +0000" stop="20250126131000 +0000" channel="SHC">
+    <title lang="en">The Way Home</title>
+    <sub-title lang="en">I'll Have To Say I Love You In A Song</sub-title>
+    <desc lang="en">Romance is top of mind as Alice, Kat and Del reflect on love in their past, present and future; Jacob struggles with his memories.</desc>
+    <episode-num system="xmltv_ns">2.3.0/1</episode-num>
+    <episode-num system="onscreen">S03E04</episode-num>
+    <rating system="ACB">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme start="20250126131000 +0000" stop="20250126135500 +0000" channel="SHC">
     <title lang="en">Fargo</title>
@@ -16148,14 +16023,6 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6zcv9.jpg?maxheight=213&amp;limit=3a21f9b4b4e33c4734ddb5c1d12884e430db337d"/>
   </programme>
-  <programme start="20250124020000 +0000" stop="20250124034000 +0000" channel="SHD">
-    <title lang="en">Long Story Short</title>
-    <desc lang="en">When time-poor Teddy wakes up the morning after his wedding to discover that every few minutes he's jumping forward to the next year of his life, he must use every precious moment wisely.</desc>
-    <rating system="ACB">
-      <value>M</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/9tjyt.jpg?maxheight=213&amp;limit=144bab68125162f0f0cbe58ede15fc02abfb5676"/>
-  </programme>
   <programme start="20250124034000 +0000" stop="20250124053000 +0000" channel="SHD">
     <title lang="en">Endless Love</title>
     <desc lang="en">When beautiful Jade meets charismatic David, her sheltered world of privilege is turned upside down as the pair's instant desire sparks a reckless summer love affair.</desc>
@@ -16292,7 +16159,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/btq3d.jpg?maxheight=213&amp;limit=9e69c8566f4b9300ff02facb13c5e2aa2c9d393a"/>
   </programme>
-  <programme start="20250125114000 +0000" stop="20250125121000 +0000" channel="SHD">
+  <programme start="20250125114000 +0000" stop="20250125133500 +0000" channel="SHD">
     <title lang="en">Indecent Proposal</title>
     <desc lang="en">When two newlyweds go broke in Las Vegas, a stranger offers them a million dollars to spend a night with the wife. It'll fix their finances, but at what cost?</desc>
     <rating system="ACB">
@@ -16300,7 +16167,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/6upax.jpg?maxheight=213&amp;limit=12a1dfc7f7c392fdc7759c16db9cce1f8e0942dd"/>
   </programme>
-  <programme start="20250125114000 +0000" stop="20250125133500 +0000" channel="SHD">
+  <programme start="20250125114000 +0000" stop="20250125121000 +0000" channel="SHD">
     <title lang="en">Indecent Proposal</title>
     <desc lang="en">When two newlyweds go broke in Las Vegas, a stranger offers them a million dollars to spend a night with the wife. It'll fix their finances, but at what cost?</desc>
     <rating system="ACB">
@@ -16516,7 +16383,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/y7isjk.jpg?maxheight=213&amp;limit=f55aa625159aea667f43dd7d218cf47a6b6e0551"/>
   </programme>
-  <programme start="20250127112000 +0000" stop="20250127130500 +0000" channel="SHD">
+  <programme start="20250127112000 +0000" stop="20250127115000 +0000" channel="SHD">
     <title lang="en">Footloose (1984)</title>
     <rating system="ACB">
       <value>M</value>
@@ -16524,7 +16391,7 @@
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/5qxskv.jpg?maxheight=213&amp;limit=1ca20c615396b076af7c1dd42c5b1ba801bed09f"/>
     <desc lang="en">Teenager Ren moves from Chicago with his family to a small town in the west, and he's in for a real case of culture shock. Led by the Reverend Shaw Moore, the people of Bomont want to out Ren as a troublemaker. The reverend's daughter Ariel doesn't quite see Ren in that light and they begin a clandestine relationship. Ren decides that this town needs a shake up: it needs to dance.</desc>
   </programme>
-  <programme start="20250127112000 +0000" stop="20250127115000 +0000" channel="SHD">
+  <programme start="20250127112000 +0000" stop="20250127130500 +0000" channel="SHD">
     <title lang="en">Footloose (1984)</title>
     <rating system="ACB">
       <value>M</value>
@@ -16732,7 +16599,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/ajp60.jpg?maxheight=213&amp;limit=ff6bf46e96c99df003d49c1496ed38b5f9ed1fcf"/>
   </programme>
-  <programme start="20250129114000 +0000" stop="20250129121000 +0000" channel="SHD">
+  <programme start="20250129114000 +0000" stop="20250129134500 +0000" channel="SHD">
     <title lang="en">The Mirror Has Two Faces</title>
     <desc lang="en">Two best friends agree to an unconventional marriage built on intellectual passion instead of sexual heat. But when then fall in love, they realise they are courting chaos.</desc>
     <rating system="ACB">
@@ -16740,7 +16607,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/94a9th.jpg?maxheight=213&amp;limit=ec7e992e8305cae3de38e0eaa29f8afc31ad505d"/>
   </programme>
-  <programme start="20250129114000 +0000" stop="20250129134500 +0000" channel="SHD">
+  <programme start="20250129114000 +0000" stop="20250129121000 +0000" channel="SHD">
     <title lang="en">The Mirror Has Two Faces</title>
     <desc lang="en">Two best friends agree to an unconventional marriage built on intellectual passion instead of sexual heat. But when then fall in love, they realise they are courting chaos.</desc>
     <rating system="ACB">
@@ -16836,7 +16703,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/b90ul.jpg?maxheight=213&amp;limit=7065e212b767b9734172a657a2390c297a90ad01"/>
   </programme>
-  <programme start="20250130113000 +0000" stop="20250130131000 +0000" channel="SHD">
+  <programme start="20250130113000 +0000" stop="20250130120000 +0000" channel="SHD">
     <title lang="en">Here and Now</title>
     <desc lang="en">A singer in New York gets a grim diagnosis that puts her life and dreams into perspective.</desc>
     <rating system="ACB">
@@ -16844,7 +16711,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/z704ll.jpg?maxheight=213&amp;limit=2e31da06568473dbb4f75b47dadb92d8a6931eee"/>
   </programme>
-  <programme start="20250130113000 +0000" stop="20250130120000 +0000" channel="SHD">
+  <programme start="20250130113000 +0000" stop="20250130131000 +0000" channel="SHD">
     <title lang="en">Here and Now</title>
     <desc lang="en">A singer in New York gets a grim diagnosis that puts her life and dreams into perspective.</desc>
     <rating system="ACB">
@@ -16955,22 +16822,6 @@
       <value>M</value>
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store1/mount1/SHD/2021/I@067862.jpg?maxheight=213&amp;limit=b048537095eb4aabf6fc1e823f1286ec1095a271"/>
-  </programme>
-  <programme start="20250124014500 +0000" stop="20250124032000 +0000" channel="SHF">
-    <title lang="en">Richard the Stork and the Mystery of ...</title>
-    <desc lang="en">Little sparrow Richard meets a flock of sparrows who are being held captive by the peacock Zamano. To regain their freedom, they have to go on a great adventure together and find a mysterious treasure.</desc>
-    <rating system="ACB">
-      <value>PG</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6pp6nf.jpg?maxheight=213&amp;limit=b7886076cf977b72d6b4ef573b6fe8acf89ade95"/>
-  </programme>
-  <programme start="20250124032000 +0000" stop="20250124044500 +0000" channel="SHF">
-    <title lang="en">The Swan Princess: A Royal Wedding</title>
-    <rating system="ACB">
-      <value>G</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/nrpf31.jpg?maxheight=213&amp;limit=02c9fef796d6bc1df23790a12723e2ca9391fd98"/>
-    <desc lang="en">Join Princess Odette, Prince Derek and their royal friends as they set sail for another magical adventure in the enchanted land of Cathay.</desc>
   </programme>
   <programme start="20250124044500 +0000" stop="20250124053500 +0000" channel="SHF">
     <title lang="en">PAW Patrol: Jet To The Rescue</title>
@@ -17507,7 +17358,7 @@
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7miwz.jpg?maxheight=213&amp;limit=dcd1b4a81c6421f0bf8598623644bf019e1f20c8"/>
     <desc lang="en">Basketball champion LeBron James goes on an epic adventure with Bugs Bunny in this transformational journey of two worlds that reveals just how far some parents will go to connect with their kids.</desc>
   </programme>
-  <programme start="20250128121500 +0000" stop="20250128142500 +0000" channel="SHF">
+  <programme start="20250128121500 +0000" stop="20250128124500 +0000" channel="SHF">
     <title lang="en">Last Action Hero</title>
     <rating system="ACB">
       <value>M</value>
@@ -17515,7 +17366,7 @@
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8ns6v.jpg?maxheight=213&amp;limit=6ea54b1cf5551e8e4c3e52f0009af27622ab3307"/>
     <desc lang="en">A projectionist allows 11-year-old boy Danny to a private midnight preview of the latest movie featuring his idol and superhero, Jack Slater. A magic ticket transports the boy into the film, where he helps his hero chase the baddie, who in turn breaks through the screen to wreak havoc in real-life, with the help of an evil sidekick.</desc>
   </programme>
-  <programme start="20250128121500 +0000" stop="20250128124500 +0000" channel="SHF">
+  <programme start="20250128121500 +0000" stop="20250128142500 +0000" channel="SHF">
     <title lang="en">Last Action Hero</title>
     <rating system="ACB">
       <value>M</value>
@@ -17897,14 +17748,6 @@
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/88bel.jpg?maxheight=213&amp;limit=50296c3e7e9657ac8129e7697ac91a6b0380d35c"/>
     <desc lang="en">Join your favourite monkey as he takes on his most regal role yet, trading places with a royal monkey.</desc>
   </programme>
-  <programme start="20250124011500 +0000" stop="20250124032000 +0000" channel="SHO">
-    <title lang="en">Ghostbusters: Frozen Empire</title>
-    <rating system="ACB">
-      <value>PG</value>
-    </rating>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7yqld9.jpg?maxheight=213&amp;limit=029f29318501fff716ae388d3c0e72284b6c1201"/>
-    <desc lang="en">The Spenglers return to the New York City firehouse where the original Ghostbusters have taken ghost-busting to the next level. When the discovery of an ancient artefact unleashes an evil force, Ghostbusters new and old must unite to save the world.</desc>
-  </programme>
   <programme start="20250124032000 +0000" stop="20250124052500 +0000" channel="SHO">
     <title lang="en">Madame Web</title>
     <rating system="ACB">
@@ -18153,7 +17996,7 @@
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/p17sus.jpg?maxheight=213&amp;limit=eca8797ed4b236b1dd5f9a66d673a8835497192a"/>
     <desc lang="en">He's a stuntman, and like everyone in the stunt community, he gets blown up, shot, crashed, thrown through windows and dropped from the highest of heights, all for our entertainment. And now, fresh off an almost career-ending accident, this working-class hero has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job. What could possibly go right?</desc>
   </programme>
-  <programme start="20250126114500 +0000" stop="20250126133000 +0000" channel="SHO">
+  <programme start="20250126114500 +0000" stop="20250126121500 +0000" channel="SHO">
     <title lang="en">Anyone But You</title>
     <desc lang="en">Bea and Ben's initial attraction quickly turns sour until they must pretend to be a couple.</desc>
     <rating system="ACB">
@@ -18161,7 +18004,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/has01m.jpg?maxheight=213&amp;limit=a00d09e277c2ba73b7a858406b470bc5773181a6"/>
   </programme>
-  <programme start="20250126114500 +0000" stop="20250126121500 +0000" channel="SHO">
+  <programme start="20250126114500 +0000" stop="20250126133000 +0000" channel="SHO">
     <title lang="en">Anyone But You</title>
     <desc lang="en">Bea and Ben's initial attraction quickly turns sour until they must pretend to be a couple.</desc>
     <rating system="ACB">
@@ -18593,7 +18436,7 @@
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c3pu2c.jpg?maxheight=213&amp;limit=5f8c364aa440b586ef0718dd2d9ebe057828a15f"/>
     <desc lang="en">An ex-special forces operative takes on a private security gig for a journalist as she interviews a ruthless dictator. When a military coup breaks out, the trio must figure out how to survive the jungle, the assassins, and each other.</desc>
   </programme>
-  <programme start="20250130112500 +0000" stop="20250130115500 +0000" channel="SHO">
+  <programme start="20250130112500 +0000" stop="20250130133500 +0000" channel="SHO">
     <title lang="en">Aquaman and the Lost Kingdom</title>
     <rating system="ACB">
       <value>M</value>
@@ -18601,7 +18444,7 @@
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/qkkf3c.jpg?maxheight=213&amp;limit=567eed841d2a973ebe2924b0f248d494416541e6"/>
     <desc lang="en">As Arthur Curry confronts the responsibilities of being King of the Seven Seas, a long-buried ancient power is unleashed. After witnessing the full effect of these dark forces, Aquaman must forge an uneasy alliance with an old enemy, and embark on a treacherous journey to protect his family, his kingdom, and the world from irreversible devastation.</desc>
   </programme>
-  <programme start="20250130112500 +0000" stop="20250130133500 +0000" channel="SHO">
+  <programme start="20250130112500 +0000" stop="20250130115500 +0000" channel="SHO">
     <title lang="en">Aquaman and the Lost Kingdom</title>
     <rating system="ACB">
       <value>M</value>
@@ -18983,7 +18826,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/81mis.jpg?maxheight=213&amp;limit=aeb570e2178f1dd83325df5a2d7d0a85b0d356c9"/>
   </programme>
-  <programme start="20250126111500 +0000" stop="20250126131500 +0000" channel="SHY">
+  <programme start="20250126111500 +0000" stop="20250126114500 +0000" channel="SHY">
     <title lang="en">Hot Fuzz</title>
     <rating system="ACB">
       <value>MA15+</value>
@@ -18991,7 +18834,7 @@
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/bclmu.jpg?maxheight=213&amp;limit=d97c478c990b36353a1c56eacab62a1c4df94293"/>
     <desc lang="en">Nicholas Angel is a big-city cop who can't be stopped - but he's making everyone else on the force look bad. When he is reassigned to a small, quiet town, he struggles with this new, seemingly idyllic world and his bumbling partner. But their dull existence is interrupted by several grisly and suspicious accidents, and the crime-fighting duo turn up the heat and hand out high-octane, car-chasing, gun-fighting, big-city justice.</desc>
   </programme>
-  <programme start="20250126111500 +0000" stop="20250126114500 +0000" channel="SHY">
+  <programme start="20250126111500 +0000" stop="20250126131500 +0000" channel="SHY">
     <title lang="en">Hot Fuzz</title>
     <rating system="ACB">
       <value>MA15+</value>
@@ -19593,11 +19436,11 @@
   </programme>
   <programme start="20250124030500 +0000" stop="20250124045000 +0000" channel="TRS">
     <title lang="en">The Fast and the Furious: Tokyo Drift</title>
-    <desc lang="en">When a teenage rebel is sent to Japan to live with his father, he is hooked on the treacherous world of street racing.</desc>
     <rating system="ACB">
       <value>M</value>
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/awmib.jpg?maxheight=213&amp;limit=80d13e19a7ef60904e8bdc00741fae7b918d5a3f"/>
+    <desc lang="en">When convicted street racer Sean Boswell tries to start a new life on the other side of the world, his obsession with racing sets him on a collision course with the Japanese underworld. To survive, he will have to master drifting - a new style of racing where tricked-out cars slide through hairpin turns, defying gravity and death for the ultimate road rush.</desc>
   </programme>
   <programme start="20250124045000 +0000" stop="20250124072000 +0000" channel="TRS">
     <title lang="en">Inglourious Basterds</title>
@@ -19623,7 +19466,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/bi8dq.jpg?maxheight=213&amp;limit=9f6afbdb7a2ed094f5a745b4294bafd218b1014f"/>
   </programme>
-  <programme start="20250124115500 +0000" stop="20250124122500 +0000" channel="TRS">
+  <programme start="20250124115500 +0000" stop="20250124141000 +0000" channel="TRS">
     <title lang="en">The Fate of the Furious</title>
     <rating system="ACB">
       <value>M</value>
@@ -19631,7 +19474,7 @@
     <icon src="https://images1.resources.foxtel.com.au/store1/mount1/SHA/2020/I@073197.jpg?maxheight=213&amp;limit=36aefa839b058cd48e62ae616b9c4ecce796c14f"/>
     <desc lang="en">Now that Dom and Letty are married, Brian and Mia have retired from the game, and the rest of the crew have been exonerated, the globetrotting team has found a semblance of a normal life. But when a mysterious woman seduces Dom into the world of crime he can't seem to escape, they will face trials that will test them as never before. From the shores of Cuba and the streets of New York City to the icy plains off the arctic Barents Sea, our elite force will criss-cross the globe to stop an anarchist from unleashing chaos on the world's stage, and bring home the man who made them a family.</desc>
   </programme>
-  <programme start="20250124115500 +0000" stop="20250124141000 +0000" channel="TRS">
+  <programme start="20250124115500 +0000" stop="20250124122500 +0000" channel="TRS">
     <title lang="en">The Fate of the Furious</title>
     <rating system="ACB">
       <value>M</value>
@@ -19831,7 +19674,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store1/mount1/FBO/2015/I@060014.jpg?maxheight=213&amp;limit=e40046425664e0f7ecbe280deb745704756ecaa7"/>
   </programme>
-  <programme start="20250126112000 +0000" stop="20250126132500 +0000" channel="TRS">
+  <programme start="20250126112000 +0000" stop="20250126115000 +0000" channel="TRS">
     <title lang="en">Crouching Tiger, Hidden Dragon</title>
     <desc lang="en">A magical sword, a notorious assassin, a nobleman's daughter, a breathtaking quest: it adds up to the top foreign language film of all time.</desc>
     <rating system="ACB">
@@ -19839,7 +19682,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/68zzw.jpg?maxheight=213&amp;limit=4c05e9b8bc883cecc1d14f9e97b5edba9fcf21c3"/>
   </programme>
-  <programme start="20250126112000 +0000" stop="20250126115000 +0000" channel="TRS">
+  <programme start="20250126112000 +0000" stop="20250126132500 +0000" channel="TRS">
     <title lang="en">Crouching Tiger, Hidden Dragon</title>
     <desc lang="en">A magical sword, a notorious assassin, a nobleman's daughter, a breathtaking quest: it adds up to the top foreign language film of all time.</desc>
     <rating system="ACB">
